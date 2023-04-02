@@ -38,7 +38,7 @@ Maintenant si nous nous rendons sur notre fichier, nous pouvons mettre notre com
 
 Pour en savoir plus sur les reverse shells, rendez vous dans **[[Reverse_Shell]]**.
 
-On peut donc upload un reverse shell.
+On peut donc upload notre reverse shell.
 
 Ensuite il faut qu'on **démarre un serveur Netcat** :
 
@@ -46,3 +46,4 @@ Ensuite il faut qu'on **démarre un serveur Netcat** :
 user@ip:~$ rlwrap nc -vnlp 1234
 ```
 
+Puis lorsque nous allons nous rendre là où est sauvegardé notre fichier, notre reverse shell sera activé. 
