@@ -26,3 +26,10 @@ user@machine$ ffuf -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common
 ```
 
 L'option **`-w`** sert à préciser le **chemin vers la wordlist**, **`-u`** pour préciser l'URL que l'on doit fuzzer, le mot **`FUZZ`** est la variable où les mots **vont être inséré**.
+
+
+Voici un code similaire avec **gobuster** :
+
+```shell
+user@machine$ gobuster dir -u http://MACHINE_IP/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+```

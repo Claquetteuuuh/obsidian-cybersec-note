@@ -245,30 +245,30 @@ md5 ^P4Tj6VEV
 			"lineHeight": 1.15
 		},
 		{
-			"type": "ellipse",
-			"version": 80,
-			"versionNonce": 392651637,
+			"type": "diamond",
+			"version": 35,
+			"versionNonce": 739411009,
 			"isDeleted": true,
-			"id": "IhaFhVYV3pyPz2HVW4Vt9",
+			"id": "b39XhUkydYL3ifFqCjMtx",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -53.82893857129977,
-			"y": -334.676580051015,
+			"x": -138.32893857129977,
+			"y": -218.17658005101498,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 72,
-			"height": 88,
-			"seed": 1839644859,
+			"width": 76.5,
+			"height": 83,
+			"seed": 1289589263,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680425018426,
+			"updated": 1680454872748,
 			"link": null,
 			"locked": false
 		}
@@ -289,7 +289,7 @@ md5 ^P4Tj6VEV
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 289.8289385712998,
-		"scrollY": 420.051580051015,
+		"scrollY": 417.051580051015,
 		"zoom": {
 			"value": 2
 		},
