@@ -98,4 +98,6 @@ Pour notre shell, la ligne sera **`Content-Type: application/php`**, on doit don
 
 ### Magic Number
 
-Les fichiers sont encodé en ASCII, 
+Les fichiers sont encodé en ASCII.
+
+Si on ouvre une image JPEG avec [hexeditor]()
