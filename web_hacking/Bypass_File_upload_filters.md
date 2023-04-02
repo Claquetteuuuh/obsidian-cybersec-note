@@ -96,7 +96,7 @@ On peut voir la ligne **`Content-Type: image/jpeg`** qui veut dire que le docume
 Pour notre shell, la ligne sera **`Content-Type: application/php`**, on doit donc la modifier pour qu'elle soit perçu comme une image.
 
 
-### Magic Number
+### Magic_Number
 
 Les fichiers sont encodé en **ASCII** et chaque type de fichier a une **signature**, c'est une suite de caractère qui dit de quel catégorie ils font partie. On peut par exemple chercher dans une [liste de signature](https://en.wikipedia.org/wiki/List_of_file_signatures) quelle est la signature d'un fichier PNG.
 
