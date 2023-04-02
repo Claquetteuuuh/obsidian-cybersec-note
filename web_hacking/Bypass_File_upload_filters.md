@@ -85,7 +85,10 @@ Pour bypass ce type de scénario, on peut remplacer l'extension **`.php`** par d
 
 ### MIME Validation
 
-Dans les requêtes HTML, il y a un attribut qui qualifie le type de fichier envoyé, on l'appelle MIME (Multipurpose Internet Mail Extension).
+Dans les requêtes HTTP, il y a un attribut qui qualifie le **type de fichier envoyé**, on l'appelle **MIME** (Multipurpose Internet Mail Extension).
 
 Si l'on intercepte une requête on obtiendra quelque chose comme ça :
-![[Pasted image 20230402145040.png]]
+
+![[MIME_validation.png]]
+
+On peut voir la ligne **`Content-Type: image/jpeg`**
