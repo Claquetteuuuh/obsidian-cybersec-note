@@ -11,8 +11,12 @@
             "id": "9d249541e1a9b5ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OSINT/Forensic.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OSINT/Forensic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OSINT/Forensic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OSINT/Forensic.md"
+              }
             }
           },
           {
@@ -158,8 +166,8 @@
   },
   "active": "9d249541e1a9b5ca",
   "lastOpenFiles": [
-    "cryptographie/Encryption_Chiffrement.md",
     "Exploit/Metasploit.md",
+    "cryptographie/Encryption_Chiffrement.md",
     "OSINT/Forensic.md",
     "OSINT/Utils.md",
     "network/NMAP-Advanced_Port_Scan.md",
