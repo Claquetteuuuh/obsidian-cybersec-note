@@ -11,12 +11,8 @@
             "id": "358b6f8e4abf4378",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploit/Metasploit_MSFCONSOLE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploit/Metasploit_MSFCONSOLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploit/Metasploit_MSFCONSOLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Exploit/Metasploit_MSFCONSOLE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,9 +158,9 @@
   },
   "active": "358b6f8e4abf4378",
   "lastOpenFiles": [
+    "Exploit/Metasploit_MSFCONSOLE.md",
     "Exploit/Metasploit_Modules.md",
     "misc/Comptes.md",
-    "Exploit/Metasploit_MSFCONSOLE.md",
     "Pasted image 20230402182137.png",
     "web_hacking/Bypass_File_upload_filters.md",
     "[[Bypass_File_upload_filters.md",
