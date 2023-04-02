@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "f8c0bd5619abfdca",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c91750a6e7ddfc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47f7726df31c8e56",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7022277ca81070c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d6a296b81b33bd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3aae7675efef97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19b4ff070db0582e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aad7d8028f10421c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1eafb4857463d10",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1692184e1741b59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519223614e578f2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OSINT/utils.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1db4fd7d86bd7b91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OSINT/utils.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "485559b267c17bd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8d96d76226bfba9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OSINT/utils.md"
+              }
+            }
+          },
+          {
+            "id": "f12e24e0fe78b7ac",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3b3aae7675efef97",
+  "lastOpenFiles": [
+    "Untitled",
+    "obsidian-cybersec-note",
+    "web_hacking/Bypass_File_upload_filters.md",
+    "OSINT/utils.md",
+    "Pentest_Notion_de_base.md",
+    "cryptographie/Hash.md",
+    "cryptographie/Encryption_Chiffrement.md",
+    "misc/Comptes.md",
+    "network/Protocoles_Serveur.md",
+    "network/NMAP-TCP_UDP_Port_Scan.md",
+    "network/NMAP-Post_Port_Scan.md",
+    "network/NMAP-Host_active_directory.md",
+    "network/NMAP-Advanced_Port_Scan.md",
+    "network/Network.md",
+    "network/DNS-Domain_Name_System.md",
+    "OSINT/Decouvertes_du_contenu.md",
+    "OSINT/Enumeration_des_sous_domaines.md",
+    "system/Reverse_Shell.md",
+    "web_hacking/XSS.md",
+    "web_hacking/Authentification-Bypass.md",
+    "assets/imgs/basics/mindmap_pentest.png",
+    "assets/imgs/basics/bibamodel.png",
+    "assets/imgs/basics/belllapadulamodel.png",
+    "assets/imgs/basics",
+    "assets/imgs/basics/triade_cia.png",
+    "Pasted image 20230402122918.png",
+    "().md",
+    "web hacking/Untitled.md",
+    "Social_engenering",
+    "Site.md",
+    "[[Site.md",
+    "misc",
+    "[Network.md",
+    "[[Network.md",
+    "assets/Excalidraw/hash-schema.excalidraw.md",
+    "OSINT",
+    "system",
+    "assets/imgs/network/nmap/nmap6.11.png",
+    "assets/imgs/network/nmap/nmap6.10.png",
+    "assets/imgs/network/nmap/nmap6.9.png",
+    "assets/imgs/network/nmap/nmap6.8.png",
+    "assets/imgs/network/protocol",
+    "assets/imgs/network/nmap",
+    "assets/imgs/network",
+    "Excalidraw",
+    "Untitled.canvas"
+  ]
+}
