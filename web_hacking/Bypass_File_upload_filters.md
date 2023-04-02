@@ -93,4 +93,4 @@ Si l'on intercepte une requête on obtiendra quelque chose comme ça :
 
 On peut voir la ligne **`Content-Type: image/jpeg`** qui veut dire que le document que nous essayons d'envoyer est une image en jpeg.
 
-Pour notre shell, la ligne sera **`Content-Type: application/php`**, on doit donc la modifi
+Pour notre shell, la ligne sera **`Content-Type: application/php`**, on doit donc la modifier pour qu'elle soit perçu comme une image.
