@@ -98,6 +98,6 @@ Pour notre shell, la ligne sera **`Content-Type: application/php`**, on doit don
 
 ### Magic Number
 
-Les fichiers sont encodé en ASCII.
+Les fichiers sont encodé en ASCII et chaque type de fichier à une signature, c'est une suite de caractère qui dit de 
 
 Si on ouvre une image JPEG avec [hexeditor](https://www.kali.org/tools/ncurses-hexedit/), on obtiendra un résultat similaire à ça :
