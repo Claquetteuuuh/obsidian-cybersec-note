@@ -60,5 +60,9 @@ Un code de validation de l'extension pourrai ressembler à celà :
 ```javascript
 let extension = fileName.split(".")[1];
 
-if(extension != "jpg"  )
+if(extension != "jpg" && extension != "jpeg"){
+	console.log("Mauvais format !");
+	return;
+}
 ```
+
