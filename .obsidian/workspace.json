@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1a91640732eb89",
+        "id": "88dcbaf16b3c09f0",
         "type": "tabs",
         "children": [
           {
-            "id": "12d9a1bfababd963",
+            "id": "7b7894512a1d448a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "web_hacking/Bypass_File_upload_filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "web_hacking/Bypass_File_upload_filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "web_hacking/Bypass_File_upload_filters.md"
+              }
             }
           },
           {
@@ -156,54 +164,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "7b7894512a1d448a",
   "lastOpenFiles": [
-    "Exploit/Metasploit-use_modules.md",
-    "conflict-files-obsidian-git.md",
     "Exploit/Metasploit-msfconsole.md",
     "Exploit/Metasploit-Modules.md",
-    "misc/Comptes.md",
-    "system/Reverse_Shell.md",
-    "OSINT/Decouvertes_du_contenu.md",
-    "OSINT/Enumeration_des_sous_domaines.md",
-    "OSINT/Utils.md",
-    "cryptographie/Encryption_Chiffrement.md",
-    "web_hacking/Bypass_File_upload_filters.md",
-    "web_hacking/Authentification-Bypass.md",
-    "Pasted image 20230402192737.png",
-    "Pentest_Notion_de_base.md",
-    "cryptographie/Hash.md",
-    "assets/Excalidraw/hash-schema.excalidraw.md",
-    "web_hacking/XSS.md",
-    "Pasted image 20230402182137.png",
-    "[[Bypass_File_upload_filters.md",
     "misc/VPN.md",
     "misc/Email.md",
-    "OSINT/Digital Forensic.md",
-    "network/NMAP-Advanced_Port_Scan.md",
-    "system/Met.md",
-    "Exploit",
-    "system/Exploit",
-    "system/Untitled",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number4.png",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number1.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
-    "Pasted image 20230402145010.png",
-    "system/php_reverse_shell_discard_by_windows_defender.md",
-    "system/php_shell_discard_by_windows_defender.md",
-    "Pasted image 20230402141644.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
+    "assets/imgs/web_hacking/xss/reflectedXss3.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
+    "assets/imgs/web_hacking/xss",
+    "assets/imgs/web_hacking",
+    "OSINT/Digital Forensic.md",
+    "Exploit/Metasploit_Modules.md",
+    "Exploit/Metasploit_MSFCONSOLE.md",
+    "Exploit/Metasploit-use_modules.md",
+    "Exploit",
+    "web_hacking/Bypass_File_upload_filters.md",
+    "conflict-files-obsidian-git.md",
+    "Pentest_Notion_de_base.md",
+    "OSINT/Decouvertes_du_contenu.md",
+    "OSINT/Enumeration_des_sous_domaines.md",
+    "OSINT/utils.md",
     "Nouveau document texte.txt",
     "[[Decouvertes_du_contenu]].md",
+    "web_hacking/Authentification-Bypass.md",
+    "Untitled",
     "obsidian-cybersec-note",
+    "cryptographie/Hash.md",
+    "cryptographie/Encryption_Chiffrement.md",
+    "misc/Comptes.md",
     "network/Protocoles_Serveur.md",
+    "network/NMAP-TCP_UDP_Port_Scan.md",
+    "network/NMAP-Post_Port_Scan.md",
+    "network/NMAP-Host_active_directory.md",
+    "network/NMAP-Advanced_Port_Scan.md",
+    "network/Network.md",
+    "network/DNS-Domain_Name_System.md",
     "assets/imgs/basics",
     "Social_engenering",
     "misc",
-    "OSINT",
     "Untitled.canvas"
   ]
 }
