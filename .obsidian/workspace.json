@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a7cb2df53b9544c3",
+        "id": "ee1a91640732eb89",
         "type": "tabs",
         "children": [
           {
-            "id": "d01ed2764490557e",
+            "id": "12d9a1bfababd963",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploit/Metasploit-msfconsole.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77cc2994c5404f35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploit/Metasploit-use_modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5e869229889cef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,7 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5e869229889cef4",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
     "Exploit/Metasploit-use_modules.md",
     "conflict-files-obsidian-git.md",
