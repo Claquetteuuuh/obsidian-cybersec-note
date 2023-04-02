@@ -58,5 +58,7 @@ Il y a principalement 3 manière de filtrer les fichiers entrant.
 Un code de validation de l'extension pourrai ressembler à celà :
 
 ```javascript
-if ()
+let extension = fileName.split(".")[1];
+
+if(extension != "jpg"  )
 ```
