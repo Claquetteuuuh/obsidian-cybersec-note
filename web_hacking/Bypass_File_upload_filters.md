@@ -72,11 +72,13 @@ Pour bypass ce type de scénario, on doit tout simplement **changer l'extension*
 On peut aussi avoir un autre type de filtrage ressemblant à celà :
 
 ```javascript
-let decoupage = fileName.split("."); // decoupe le fichier avec les .
-let extension = decoupage[decoupage.length - 1]; // verifie la 
+let decoupage = fileName.split("."); // decoupe le nom du fichier avec les .
+let extension = decoupage[decoupage.length - 1]; // recupere la derniere partie du nom
 
-if(extension == "php"){ // vérifie s'il n'est pas en .jpeg
+if(extension == "php"){ // vérifie s'il est en .php
 	console.log("Mauvais format !");
 	return; // ne donne pas suite à la requête
 }
 ```
+
+Pour bypass ce type de scénario, on peut remplacer l'extension **`.php`** par d'autres extensions pouvant exécuter du 
