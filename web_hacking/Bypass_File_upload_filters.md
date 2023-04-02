@@ -69,3 +69,7 @@ if(extension != "jpg" && extension != "jpeg"){ // vérifie s'il n'est pas en .jp
 Pour bypass ce type de scénario, on doit tout simplement **changer l'extension** de notre fichier et mettant par exemple  **`shell.jpg.php`**.
 
 
+On peut aussi avoir un autre type de filtrage ressemblant à celà :
+
+```javascript
+```
