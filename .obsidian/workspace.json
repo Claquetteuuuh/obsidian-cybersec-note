@@ -166,8 +166,9 @@
   },
   "active": "a2971f218a2851c0",
   "lastOpenFiles": [
-    "system/php_shell_discard_by_windows_defender.md",
+    "system/php_reverse_shell_discard_by_windows_defender.md",
     "system/Reverse_Shell.md",
+    "system/php_shell_discard_by_windows_defender.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "Pasted image 20230402141644.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
@@ -208,7 +209,6 @@
     "Site.md",
     "[[Site.md",
     "misc",
-    "[Network.md",
     "OSINT",
     "system",
     "assets/imgs/network/protocol",
