@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Untitled.md",
+                "file": "misc/Email.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Untitled.md",
+                "file": "misc/Email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Untitled.md",
+                "file": "misc/Email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Untitled.md"
+                "file": "misc/Email.md"
               }
             }
           },
@@ -192,7 +192,7 @@
   "active": "05821c33a3f34826",
   "lastOpenFiles": [
     "misc/VPN.md",
-    "misc/Untitled.md",
+    "misc/Email.md",
     "OSINT/Utils.md",
     "OSINT/Digital Forensic.md",
     "system/Reverse_Shell.md",
