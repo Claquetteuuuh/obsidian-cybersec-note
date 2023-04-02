@@ -245,32 +245,75 @@ md5 ^P4Tj6VEV
 			"lineHeight": 1.15
 		},
 		{
+			"id": "p-REmUq5eNhZ9_Ai6uW0k",
 			"type": "ellipse",
-			"version": 80,
-			"versionNonce": 392651637,
-			"isDeleted": true,
-			"id": "IhaFhVYV3pyPz2HVW4Vt9",
+			"x": -109.32893857129977,
+			"y": -279.176580051015,
+			"width": 26,
+			"height": 300,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": -53.82893857129977,
-			"y": -334.676580051015,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 72,
-			"height": 88,
-			"seed": 1839644859,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": [],
-			"updated": 1680425018426,
+			"seed": 170119841,
+			"version": 29,
+			"versionNonce": 2007740609,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680441745369,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "ZnvWqyekM6UAjZ__NTbvE",
+			"type": "line",
+			"x": 66.67106142870023,
+			"y": -324.176580051015,
+			"width": 106.5,
+			"height": 79.5,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1857386447,
+			"version": 14,
+			"versionNonce": 1413190273,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680441751221,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-106.5,
+					79.5
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
@@ -289,7 +332,7 @@ md5 ^P4Tj6VEV
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 289.8289385712998,
-		"scrollY": 420.051580051015,
+		"scrollY": 421.926580051015,
 		"zoom": {
 			"value": 2
 		},
