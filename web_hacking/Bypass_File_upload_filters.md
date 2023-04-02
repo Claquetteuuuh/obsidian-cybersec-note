@@ -66,4 +66,6 @@ if(extension != "jpg" && extension != "jpeg"){ // vérifie s'il n'est pas en .jp
 }
 ```
 
-Pour bypass ce type de scénario, on
+Pour bypass ce type de scénario, on doit tout simplement **changer l'extension** de notre fichier et mettant par exemple  **`shell.jpg.php`**.
+
+
