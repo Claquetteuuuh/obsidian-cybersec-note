@@ -1,11 +1,11 @@
 
 ## __Document Metadata__
 
-Les metadatas sont des informations qui se crée automatiquement lors de la création du fichier, on peut y trouver de multiples informations sur le fichier.
+Les metadatas sont des informations relative au fichier qui se crée automatiquement lors de la création du fichier, on peut y trouver de multiples informations sur le fichier.
 
 ### Pdfinfo
 
-Pdfinfo est une tool qui permet d'obtenir des informations sur des pdfs, pour l'installer il faut effectuer la commande **`sudo apt install poppler-utils`**.
+Pdfinfo est une tool qui permet d'obtenir des **informations sur des pdfs**, pour l'installer il faut effectuer la commande **`sudo apt install poppler-utils`**.
 
 ```shell
 user@ip:~$ pdfinfo ransom-letter.pdf
@@ -35,7 +35,7 @@ PDF version:     1.7
 
 ### Exiftool
 
-Exiftool est une tool qui permet d'obtenir des informations sur des images, pour l'installer il faut effectuer la commande **`sudo apt install exiftool`**.
+Exiftool est une tool qui permet d'obtenir des **informations sur des images**, pour l'installer il faut effectuer la commande **`sudo apt install exiftool`**.
 
 ```shell
 user@ip:~$ exiftool letter-image.jpg
@@ -49,12 +49,13 @@ Light Value                     : 7.9
 Lens ID                         : Canon EF 50mm f/1.8 STM
 ```
 
-Etant donné qu'il y a souvent une grosse quantité de donnée, on peut les filtrer avec la commande **`grep`**.
+Etant donné qu'il y a souvent une **grosse quantité de donnée**, on peut les **filtrer** avec la commande **`grep`**.
 
 ```shell
-user@ip:~$  exiftool letter-image.jpg | grep [mM]odel
+user@ip:~$ exiftool letter-image.jpg | grep [mM]odel
 Camera Model Name               : Canon EOS R6
 Lens Model                      : EF50mm f/1.8 STM
 Device Model                    :
 Device Model Desc               : sRGB
 ```
+
