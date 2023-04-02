@@ -3,4 +3,4 @@ Après avoir [analyser toutes les routes du sites](Decouvertes_du_contenu), on a
 
 ## __Overwriting Files__
 
-Si notre fichier s'upload au 
+Si le fichier que nous uploadons sera situé au même endroit que les assets du site, nous pouvons écraser un ancien fichier
