@@ -98,10 +98,13 @@ Pour notre shell, la ligne sera **`Content-Type: application/php`**, on doit don
 
 ### Magic Number
 
-Les fichiers sont encodé en ASCII et chaque type de fichier à une signature, c'est une suite de caractère qui dit de quel catégorie ils font partie. On peut par exemple chercher dans une [liste de signature](https://en.wikipedia.org/wiki/List_of_file_signatures) quelle est la signature d'un fichier PNG.
+Les fichiers sont encodé en **ASCII** et chaque type de fichier a une **signature**, c'est une suite de caractère qui dit de quel catégorie ils font partie. On peut par exemple chercher dans une [liste de signature](https://en.wikipedia.org/wiki/List_of_file_signatures) quelle est la signature d'un fichier PNG.
 
 Si on ouvre une image PNG avec [hexeditor](https://www.kali.org/tools/ncurses-hexedit/), on obtiendra un résultat similaire à ça :
 
 ![[Magic_Number1.png]]
 
-On peut voir que la signature est les 8 premiers octets du fichier, ici 89 50 4E 47 0D 0A 1A 0A.
+On peut voir que la signature est les 8 premiers octets du fichier, ici `89 50 4E 47 0D 0A 1A 0A`.
+
+
+
