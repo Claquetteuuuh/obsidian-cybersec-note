@@ -166,9 +166,10 @@
   },
   "active": "5770872954193ceb",
   "lastOpenFiles": [
-    "Pasted image 20230402140336.png",
-    "conflict-files-obsidian-git.md",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting1.png",
     "web_hacking/Bypass_File_upload_filters.md",
+    "assets/imgs/web_hacking/bypass_file_upload_filters",
+    "conflict-files-obsidian-git.md",
     "Pentest_Notion_de_base.md",
     "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Enumeration_des_sous_domaines.md",
@@ -210,7 +211,6 @@
     "assets/imgs/network/nmap/nmap6.9.png",
     "assets/imgs/network/nmap/nmap6.8.png",
     "assets/imgs/network/protocol",
-    "assets/imgs/network/nmap",
     "Untitled.canvas"
   ]
 }
