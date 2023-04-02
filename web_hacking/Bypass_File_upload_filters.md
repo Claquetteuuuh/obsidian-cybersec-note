@@ -97,3 +97,5 @@ Pour notre shell, la ligne sera **`Content-Type: application/php`**, on doit don
 
 
 ### Magic Number
+
+Les fichiers sont encodé en ASCII, 
