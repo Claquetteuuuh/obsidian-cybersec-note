@@ -102,4 +102,6 @@ Les fichiers sont encodé en ASCII et chaque type de fichier à une signature, c
 
 Si on ouvre une image PNG avec [hexeditor](https://www.kali.org/tools/ncurses-hexedit/), on obtiendra un résultat similaire à ça :
 
-![[Pasted image 20230402150243.png]]
+![[Magic_Number1.png]]
+
+On peut voir que la signature est les 8 premiers octets du fichier, ici 89 50 4E 47 0D 0A 1A 0A.
