@@ -31,7 +31,7 @@ nmap> !sh
 ## __Scripts__
 
 Pour générer des reverses shells vous pouvez utiliser le site de 0day, [revshells](https://www.revshells.com/)
-Voici n
+Vous pouvez aussi utiliser [ce git](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#nodejs)
 
 ### Bash
 
