@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "85cb47e51195acd3",
+        "id": "fbc4429eaf5128fd",
         "type": "tabs",
         "children": [
           {
-            "id": "358b6f8e4abf4378",
+            "id": "07436c2381cb6a04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSINT/Decouvertes_du_contenu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96626fc440bf7353",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,8 +169,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "358b6f8e4abf4378",
+  "active": "96626fc440bf7353",
   "lastOpenFiles": [
+    "OSINT/Decouvertes_du_contenu.md",
     "Exploit/Metasploit_MSFCONSOLE.md",
     "Exploit/Metasploit_Modules.md",
     "misc/Comptes.md",
@@ -166,7 +180,6 @@
     "[[Bypass_File_upload_filters.md",
     "cryptographie/Hash.md",
     "Pentest_Notion_de_base.md",
-    "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Utils.md",
     "cryptographie/Encryption_Chiffrement.md",
     "misc/VPN.md",
