@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77cc2994c5404f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exploit/Metasploit-use_modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploit/Metasploit_msfconsole.md",
+                "file": "Exploit/Metasploit-use_modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploit/Metasploit_msfconsole.md",
+                "file": "Exploit/Metasploit-use_modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploit/Metasploit_msfconsole.md"
+                "file": "Exploit/Metasploit-use_modules.md"
               }
             }
           },
@@ -164,11 +177,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "77cc2994c5404f35",
   "lastOpenFiles": [
+    "Exploit/Metasploit_msfconsole.md",
+    "Exploit/Metasploit-use_modules.md",
     "Exploit/Metasploit_Modules.md",
     "misc/Comptes.md",
-    "Exploit/Metasploit_msfconsole.md",
     "system/Reverse_Shell.md",
     "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Enumeration_des_sous_domaines.md",
