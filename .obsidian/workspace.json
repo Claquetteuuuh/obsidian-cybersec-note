@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Email.md",
+                "file": "OSINT/Decouvertes_du_contenu.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Email.md",
+                "file": "OSINT/Decouvertes_du_contenu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Email.md",
+                "file": "OSINT/Decouvertes_du_contenu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Email.md"
+                "file": "OSINT/Decouvertes_du_contenu.md"
               }
             }
           },
@@ -191,9 +191,9 @@
   },
   "active": "05821c33a3f34826",
   "lastOpenFiles": [
+    "misc/Email.md",
     "web_hacking/Authentification-Bypass.md",
     "OSINT/Digital Forensic.md",
-    "misc/Email.md",
     "misc/VPN.md",
     "OSINT/Utils.md",
     "system/Reverse_Shell.md",
