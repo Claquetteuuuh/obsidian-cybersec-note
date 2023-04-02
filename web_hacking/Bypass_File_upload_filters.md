@@ -81,4 +81,5 @@ if(extension == "php"){ // vérifie s'il est en .php
 }
 ```
 
-Pour bypass ce type de scénario, on peut remplacer l'extension **`.php`** par d'[autres extensions](https://en.wikipedia.org/wiki/PHP) pouvant exécuter du PHP. 
+Pour bypass ce type de scénario, on peut remplacer l'extension **`.php`** par d'[autres extensions](https://en.wikipedia.org/wiki/PHP) pouvant exécuter du PHP. Par exemple : *.phtml*, *.phar* ou encore *.php5*
+
