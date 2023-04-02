@@ -38,7 +38,7 @@ Maintenant si nous nous rendons sur notre fichier, nous pouvons mettre notre com
 
 Pour en savoir plus sur les reverse shells, rendez vous dans **[[Reverse_Shell]]**.
 
-On peut donc upload notre reverse shell. Attention notre reverse shell doit être dans le même language que le serveur web. On peut connaitre 
+On peut donc upload notre reverse shell. Attention notre reverse shell doit être dans le même language que le serveur web. On peut le connaitre grâce à [Wappalyzer](https://www.wappalyzer.com/), ou avec la ligne x-
 
 Ensuite il faut qu'on **démarre un serveur Netcat** :
 
