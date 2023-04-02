@@ -49,4 +49,12 @@ Light Value                     : 7.9
 Lens ID                         : Canon EF 50mm f/1.8 STM
 ```
 
-Etant donné qu'il y a souvent une grosse quantité de donnée, on peut les filtrer avec la commande 
+Etant donné qu'il y a souvent une grosse quantité de donnée, on peut les filtrer avec la commande **`grep`**.
+
+```shell
+user@ip:~$  exiftool letter-image.jpg | grep [mM]odel
+Camera Model Name               : Canon EOS R6
+Lens Model                      : EF50mm f/1.8 STM
+Device Model                    :
+Device Model Desc               : sRGB
+```
