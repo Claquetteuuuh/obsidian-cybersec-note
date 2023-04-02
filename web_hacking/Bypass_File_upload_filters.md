@@ -7,3 +7,4 @@ Si le fichier que nous uploadons sera situé au même endroit que les assets du 
 
 ![[overwriting1.png]]
 
+On voit que le nom du fichier est *spaniel.jpg*, on peut donc renomer un fichier spaniel.jpg et celui-ci écrasera l'ancien fichier.
