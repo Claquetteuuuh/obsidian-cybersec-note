@@ -14,3 +14,4 @@ On voit que le nom du fichier est *spaniel.jpg*, on peut donc renomer un fichier
 
 ## __Remote Controle Execution__
 
+Admettons que nous avons trouvé que nos images sont stocké dans le dossier *uploads/*, on peut se rendre dans ce dossier et nous verrons apparaitre notre ima
