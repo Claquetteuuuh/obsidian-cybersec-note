@@ -87,7 +87,7 @@ Pour bypass ce type de scénario, on peut remplacer l'extension **`.php`** par d
 
 Dans les requêtes HTTP, il y a un attribut qui qualifie le **type de fichier envoyé**, on l'appelle **MIME** (Multipurpose Internet Mail Extension).
 
-Si l'on intercepte une requête on obtiendra quelque chose comme ça :
+Si l'on intercepte une requête avec [burpsuite]() on obtiendra quelque chose comme ça :
 
 ![[MIME_validation.png]]
 
