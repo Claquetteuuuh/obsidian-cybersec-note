@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3c49ee330496daf3",
+        "id": "eaba158d300ff7a5",
         "type": "tabs",
         "children": [
           {
-            "id": "cd71f75829887773",
+            "id": "08f296e69b2b0c53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploit/Metasploit_MSFCONSOLE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploit/Metasploit_MSFCONSOLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploit/Metasploit_MSFCONSOLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Exploit/Metasploit_MSFCONSOLE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,24 +156,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd71f75829887773",
+  "active": "08f296e69b2b0c53",
   "lastOpenFiles": [
+    "cryptographie/Encryption_Chiffrement.md",
+    "OSINT/Decouvertes_du_contenu.md",
+    "web_hacking/Bypass_File_upload_filters.md",
+    "web_hacking/Authentification-Bypass.md",
+    "Exploit/Metasploit_MSFCONSOLE.md",
     "OSINT/Enumeration_des_sous_domaines.md",
     "OSINT/Utils.md",
-    "Exploit/Metasploit_MSFCONSOLE.md",
     "Pasted image 20230402192737.png",
     "Exploit/Metasploit_Modules.md",
     "Pentest_Notion_de_base.md",
     "cryptographie/Hash.md",
     "assets/Excalidraw/hash-schema.excalidraw.md",
     "web_hacking/XSS.md",
-    "web_hacking/Authentification-Bypass.md",
-    "OSINT/Decouvertes_du_contenu.md",
-    "web_hacking/Bypass_File_upload_filters.md",
     "misc/Comptes.md",
     "Pasted image 20230402182137.png",
     "[[Bypass_File_upload_filters.md",
-    "cryptographie/Encryption_Chiffrement.md",
     "misc/VPN.md",
     "misc/Email.md",
     "OSINT/Digital Forensic.md",
