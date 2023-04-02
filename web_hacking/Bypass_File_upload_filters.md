@@ -83,3 +83,6 @@ if(extension == "php"){ // vérifie s'il est en .php
 
 Pour bypass ce type de scénario, on peut remplacer l'extension **`.php`** par d'[autres extensions](https://en.wikipedia.org/wiki/PHP) pouvant exécuter du PHP. Par exemple : *.phtml*, *.phar* ou encore *.php5*
 
+### File type
+
+Dans les requêtes HTML, il y a un attribut qui qualifie le type de fichier envoyé. 
