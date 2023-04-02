@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "file": "OSINT/Decouvertes_du_contenu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "file": "OSINT/Decouvertes_du_contenu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "file": "OSINT/Decouvertes_du_contenu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md"
+                "file": "OSINT/Decouvertes_du_contenu.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "ebb49314a9f59b25",
   "lastOpenFiles": [
+    "web_hacking/Bypass_File_upload_filters.md",
     "Pentest_Notion_de_base.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number4.png",
-    "web_hacking/Bypass_File_upload_filters.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
