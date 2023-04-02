@@ -38,3 +38,6 @@ Maintenant si nous nous rendons sur notre fichier, nous pouvons mettre notre com
 
 Pour en savoir plus sur les reverse shells, rendez vous dans **[[Reverse_Shell]]**.
 
+On peut donc upload un reverse shell.
+
+Ensuite il faut qu'on [démarre un serveur Netcat]().
