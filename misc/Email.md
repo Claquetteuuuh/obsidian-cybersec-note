@@ -1,5 +1,4 @@
 - [Protonmail](https://proton.me/fr/mail)
 - [Tutanota](https://tutanota.com/fr/)
 - [Danwin1210](https://danwin1210.de/)
-
-hedi le bg
+- [Yandex](https://yandex.com/)
