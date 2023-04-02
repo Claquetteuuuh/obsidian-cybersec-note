@@ -112,3 +112,9 @@ Pour un fichier **JPEG la signature fait 4 octets**, on doit donc **rajouter qua
 
 ![[Pasted image 20230402150708.png]]
 La valeur de A est 41 en ASCII.
+
+Une fois les octets modifiés, on se retrouve avec celà :
+
+![[Pasted image 20230402150757.png]]
+
+Voila, on peut maintenant upload notre fichier et il sera considéré comme un fichier 
