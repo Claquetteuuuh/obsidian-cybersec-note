@@ -100,7 +100,7 @@ Pour notre shell, la ligne sera **`Content-Type: application/php`**, on doit don
 
 Les fichiers sont encodé en **ASCII** et chaque type de fichier a une **signature**, c'est une suite de caractère qui dit de quel catégorie ils font partie. On peut par exemple chercher dans une [liste de signature](https://en.wikipedia.org/wiki/List_of_file_signatures) quelle est la signature d'un fichier PNG.
 
-Si on ouvre une image PNG avec [hexeditor](https://www.kali.org/tools/ncurses-hexedit/), on obtiendra un résultat similaire à ça :
+Si on ouvre une image PNG avec **[hexeditor](https://www.kali.org/tools/ncurses-hexedit/)**, on obtiendra un résultat similaire à ça :
 
 ![[Magic_Number1.png]]
 
@@ -110,11 +110,11 @@ Pour un fichier **JPEG la signature fait 4 octets**, on doit donc **rajouter qua
 
 ![[Magic_Number2.png]]
 
-![[Pasted image 20230402150708.png]]
+![[Magic_Number3.png]]
 La valeur de A est 41 en ASCII.
 
 Une fois les octets modifiés, on se retrouve avec celà :
 
-![[Pasted image 20230402150757.png]]
+![[Magic_Number4.png]]
 
-Voila, on peut maintenant upload notre fichier et il sera considéré comme un fichier 
+Voila, on peut maintenant upload notre fichier et il sera considéré comme un fichier JPEG.

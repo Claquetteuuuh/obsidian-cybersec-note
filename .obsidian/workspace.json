@@ -11,11 +11,9 @@
             "id": "1cea55bbfa0ce498",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "file": "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "file": "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md"
+                "file": "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png"
               }
             }
           },
@@ -164,13 +162,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1cea55bbfa0ce498",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
-    "Pasted image 20230402150757.png",
-    "Pasted image 20230402150708.png",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number4.png",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
+    "web_hacking/Bypass_File_upload_filters.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number1.png",
-    "web_hacking/Bypass_File_upload_filters.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
     "Pasted image 20230402145010.png",
     "OSINT/Decouvertes_du_contenu.md",
@@ -186,7 +184,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "Pasted image 20230402140548.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "conflict-files-obsidian-git.md",
     "Nouveau document texte.txt",
