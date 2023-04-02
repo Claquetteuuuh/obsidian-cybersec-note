@@ -95,3 +95,5 @@ On peut voir la ligne **`Content-Type: image/jpeg`** qui veut dire que le docume
 
 Pour notre shell, la ligne sera **`Content-Type: application/php`**, on doit donc la modifier pour qu'elle soit perçu comme une image.
 
+
+### Magic Number
