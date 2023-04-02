@@ -26,4 +26,4 @@ On peut maintenant essayer d'upload un **executeur de commande**, pour ce faire 
 ?>
 ```
 
-
+Maintenant si nous nous rendons sur notre fichier, nous pouvons mettre notre commande dans l'url `?cmd=`
