@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcf9998b7e86190a",
+        "id": "e026c1f83c374092",
         "type": "tabs",
         "children": [
           {
-            "id": "41715e0c5b131544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT/Utils.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e029e5bb80b8f33",
+            "id": "9d249541e1a9b5ca",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OSINT/Utils.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,13 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41715e0c5b131544",
+  "active": "9d249541e1a9b5ca",
   "lastOpenFiles": [
+    "cryptographie/Encryption_Chiffrement.md",
     "Exploit/Metasploit.md",
+    "OSINT/Forensic.md",
+    "OSINT/Utils.md",
     "network/NMAP-Advanced_Port_Scan.md",
     "cryptographie/Hash.md",
     "assets/Excalidraw/hash-schema.excalidraw.md",
-    "cryptographie/Encryption_Chiffrement.md",
     "system/Reverse_Shell.md",
     "system/Met.md",
     "Exploit",
@@ -196,7 +182,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
     "Pasted image 20230402145010.png",
     "OSINT/Enumeration_des_sous_domaines.md",
-    "OSINT/Utils.md",
     "system/php_reverse_shell_discard_by_windows_defender.md",
     "system/php_shell_discard_by_windows_defender.md",
     "Pasted image 20230402141644.png",
@@ -216,7 +201,6 @@
     "network/Network.md",
     "network/DNS-Domain_Name_System.md",
     "assets/imgs/basics",
-    "().md",
     "Social_engenering",
     "misc",
     "OSINT",
