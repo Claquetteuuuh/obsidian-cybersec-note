@@ -16,7 +16,9 @@ On voit que le nom du fichier est *spaniel.jpg*, on peut donc renomer un fichier
 
 Admettons que nous avons trouvé que nos images sont stocké dans le dossier *uploads/*, on peut se rendre dans ce dossier et nous verrons apparaitre notre image.
 
-![[remote_controle_execution1.png]]
+![[webshell1.png]]
+
+### Webshell
 
 On peut maintenant essayer d'upload un **executeur de commande**, pour ce faire nous allons créer un fichier PHP contenant ce code :
 
@@ -29,4 +31,4 @@ On peut maintenant essayer d'upload un **executeur de commande**, pour ce faire 
 Maintenant si nous nous rendons sur notre fichier, nous pouvons mettre notre commande dans l'url
 **`webshell.php?cmd=id;whoami;ls`**
 
-![[Pasted image 20230402141525.png]]
+![[webshell2.png]]
