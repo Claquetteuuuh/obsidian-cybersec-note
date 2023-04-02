@@ -4,4 +4,5 @@ Un VPN est un réseaux privé virtuelle, en gros, il nous permet de nous connect
 Voici selon moi les meilleurs VPN :
 - [BrightVpn](https://brightvpn.com/?lang=fr)
 - [Riseup](https://riseup.net/fr)
-- 
+- [Mullvad](https://mullvad.net/fr)
+
