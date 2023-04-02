@@ -106,8 +106,9 @@ Si on ouvre une image PNG avec [hexeditor](https://www.kali.org/tools/ncurses-he
 
 On peut voir que la signature est les 8 premiers octets du fichier, ici `89 50 4E 47 0D 0A 1A 0A`.
 
-Pour un fichier JPEG la signature fait 4 octets, on doit donc rajouter quatre caractère au début de notre fichier php afin de les modifier.
+Pour un fichier **JPEG la signature fait 4 octets**, on doit donc **rajouter quatre caractère** au début de notre fichier php afin de les modifier.
 
 ![[Magic_Number2.png]]
 
-
+![[Pasted image 20230402150708.png]]
+La valeur de A est 41 en ASCII.
