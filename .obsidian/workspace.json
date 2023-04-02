@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Reverse_Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Reverse_Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "system/Reverse_Shell.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +160,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58edcb7f53d89d42",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "system/Exploit",
+    "system/Reverse_Shell.md",
+    "system/Met.md",
+    "system/Untitled",
     "web_hacking/Authentification-Bypass.md",
     "web_hacking/XSS.md",
     "web_hacking/Bypass_File_upload_filters.md",
@@ -178,7 +178,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
     "Pasted image 20230402145010.png",
     "OSINT/Enumeration_des_sous_domaines.md",
-    "system/Reverse_Shell.md",
     "OSINT/utils.md",
     "system/php_reverse_shell_discard_by_windows_defender.md",
     "system/php_shell_discard_by_windows_defender.md",
@@ -190,7 +189,6 @@
     "conflict-files-obsidian-git.md",
     "Nouveau document texte.txt",
     "[[Decouvertes_du_contenu]].md",
-    "Untitled",
     "obsidian-cybersec-note",
     "cryptographie/Hash.md",
     "cryptographie/Encryption_Chiffrement.md",
@@ -206,11 +204,9 @@
     "().md",
     "web hacking/Untitled.md",
     "Social_engenering",
-    "Site.md",
     "misc",
     "OSINT",
     "system",
-    "assets/imgs/network/protocol",
     "Untitled.canvas"
   ]
 }
