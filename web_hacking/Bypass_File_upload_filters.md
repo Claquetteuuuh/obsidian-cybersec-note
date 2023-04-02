@@ -40,4 +40,9 @@ Pour en savoir plus sur les reverse shells, rendez vous dans **[[Reverse_Shell]]
 
 On peut donc upload un reverse shell.
 
-Ensuite il faut qu'on [démarre un serveur Netcat]().
+Ensuite il faut qu'on **démarre un serveur Netcat** :
+
+```shell
+user@ip:~$ rlwrap nc -vnlp 1234
+```
+
