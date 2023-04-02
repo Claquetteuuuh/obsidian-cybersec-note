@@ -53,3 +53,10 @@ Puis lorsque nous allons nous rendre là où est sauvegardé notre fichier, notr
 
 Il y a principalement 3 manière de filtrer les fichiers entrant.
 
+### Extension validation
+
+Un code de validation de l'extension pourrai ressembler à celà :
+
+```javascript
+if ()
+```
