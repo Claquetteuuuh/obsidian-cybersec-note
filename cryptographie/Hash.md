@@ -8,8 +8,3 @@ Il existe des **bases de données de Hash** que l'on peut utilisé pour **reveni
 Parmis ces bases on peut citer :
 - [Crack station](https://crackstation.net/)
 - [Cyber chef](https://gchq.github.io/CyberChef/)
-
-
-| original | hash    | result |
-| -------- | ------- | ------ |
-| cool     | sha-224 |        |
