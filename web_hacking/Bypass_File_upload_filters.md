@@ -72,4 +72,11 @@ Pour bypass ce type de scénario, on doit tout simplement **changer l'extension*
 On peut aussi avoir un autre type de filtrage ressemblant à celà :
 
 ```javascript
+let decoupage = fileName.split("."); // regarde la 2e partie du nom du fichier
+let extension = decoupage[decoupage]
+
+if(extension != "jpg" && extension != "jpeg"){ // vérifie s'il n'est pas en .jpeg
+	console.log("Mauvais format !");
+	return; // ne donne pas suite à la requête
+}
 ```
