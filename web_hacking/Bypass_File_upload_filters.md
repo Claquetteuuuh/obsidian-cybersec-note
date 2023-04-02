@@ -100,4 +100,4 @@ Pour notre shell, la ligne sera **`Content-Type: application/php`**, on doit don
 
 Les fichiers sont encodé en ASCII.
 
-Si on ouvre une image JPEG avec [hexeditor]()
+Si on ouvre une image JPEG avec [hexeditor](https://www.kali.org/tools/ncurses-hexedit/), on obtiendra un résultat similaire à ça :
