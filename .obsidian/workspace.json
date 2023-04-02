@@ -167,6 +167,7 @@
   "active": "a2971f218a2851c0",
   "lastOpenFiles": [
     "web_hacking/Bypass_File_upload_filters.md",
+    "system/Reverse_Shell.md",
     "Pasted image 20230402141644.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
@@ -195,7 +196,6 @@
     "network/NMAP-Advanced_Port_Scan.md",
     "network/Network.md",
     "network/DNS-Domain_Name_System.md",
-    "system/Reverse_Shell.md",
     "assets/imgs/basics/mindmap_pentest.png",
     "assets/imgs/basics/bibamodel.png",
     "assets/imgs/basics/belllapadulamodel.png",
