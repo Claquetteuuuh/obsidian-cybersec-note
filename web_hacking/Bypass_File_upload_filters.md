@@ -58,11 +58,12 @@ Il y a principalement 3 manière de filtrer les fichiers entrant.
 Un code de validation de l'extension pourrai ressembler à celà :
 
 ```javascript
-let extension = fileName.split(".")[1];
+let extension = fileName.split(".")[1]; // regarde la 2e partie du nom du fichier
 
-if(extension != "jpg" && extension != "jpeg"){
+if(extension != "jpg" && extension != "jpeg"){ // vérifie s'il n'est pas en .jpeg
 	console.log("Mauvais format !");
-	return;
+	return; // ne donne pas suite à la requête
 }
 ```
 
+Pour bypass ce type de scénario, on
