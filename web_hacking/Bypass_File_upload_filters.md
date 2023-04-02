@@ -46,4 +46,4 @@ Ensuite il faut qu'on **démarre un serveur Netcat** :
 user@ip:~$ rlwrap nc -vnlp 1234
 ```
 
-Puis lorsque nous allons nous rendre là où est sauvegardé notre fichier, notre reverse shell sera activé. 
+Puis lorsque nous allons nous rendre là où est sauvegardé notre fichier, notre reverse shell aura démarré. 
