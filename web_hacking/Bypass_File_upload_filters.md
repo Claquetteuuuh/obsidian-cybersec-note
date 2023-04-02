@@ -87,10 +87,11 @@ Pour bypass ce type de scénario, on peut remplacer l'extension **`.php`** par d
 
 Dans les requêtes HTTP, il y a un attribut qui qualifie le **type de fichier envoyé**, on l'appelle **MIME** (Multipurpose Internet Mail Extension).
 
-Si l'on intercepte une requête avec [burpsuite]() on obtiendra quelque chose comme ça :
+Si l'on intercepte une requête avec [burpsuite](https://portswigger.net/burp/communitydownload) on obtiendra quelque chose comme ça :
 
 ![[MIME_validation.png]]
 
 On peut voir la ligne **`Content-Type: image/jpeg`** qui veut dire que le document que nous essayons d'envoyer est une image en jpeg.
 
 Pour notre shell, la ligne sera **`Content-Type: application/php`**, on doit donc la modifier pour qu'elle soit perçu comme une image.
+
