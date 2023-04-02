@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b69ee2cb3dd7b76a",
+        "id": "06e6778f16ddbac2",
         "type": "tabs",
         "children": [
           {
-            "id": "1cea55bbfa0ce498",
+            "id": "ebb49314a9f59b25",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png"
+                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
+                "file": "web_hacking/Bypass_File_upload_filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
+                "file": "web_hacking/Bypass_File_upload_filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png"
+                "file": "web_hacking/Bypass_File_upload_filters.md"
               }
             }
           },
@@ -162,10 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "ebb49314a9f59b25",
   "lastOpenFiles": [
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number4.png",
+    "Pentest_Notion_de_base.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number4.png",
     "web_hacking/Bypass_File_upload_filters.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number1.png",
@@ -175,7 +178,6 @@
     "OSINT/Enumeration_des_sous_domaines.md",
     "system/Reverse_Shell.md",
     "web_hacking/XSS.md",
-    "Pentest_Notion_de_base.md",
     "web_hacking/Authentification-Bypass.md",
     "OSINT/utils.md",
     "system/php_reverse_shell_discard_by_windows_defender.md",

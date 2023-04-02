@@ -118,3 +118,5 @@ Une fois les octets modifiés, on se retrouve avec celà :
 ![[Magic_Number4.png]]
 
 Voila, on peut maintenant upload notre fichier et il sera considéré comme un fichier JPEG.
+
+
