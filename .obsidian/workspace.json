@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58edcb7f53d89d42",
+            "id": "41715e0c5b131544",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/Reverse_Shell.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -160,11 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "41715e0c5b131544",
   "lastOpenFiles": [
-    "system/Exploit",
     "system/Reverse_Shell.md",
+    "Exploit/Metasploit.md",
     "system/Met.md",
+    "Exploit",
+    "system/Exploit",
     "system/Untitled",
     "web_hacking/Authentification-Bypass.md",
     "web_hacking/XSS.md",
@@ -206,7 +204,6 @@
     "Social_engenering",
     "misc",
     "OSINT",
-    "system",
     "Untitled.canvas"
   ]
 }
