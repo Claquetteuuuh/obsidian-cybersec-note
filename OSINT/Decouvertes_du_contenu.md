@@ -31,5 +31,5 @@ L'option **`-w`** sert à préciser le **chemin vers la wordlist**, **`-u`** pou
 Voici un code similaire avec **gobuster** :
 
 ```shell
-gobuster dir -u http://MACHINE_IP/
+gobuster dir -u http://MACHINE_IP/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 ```
