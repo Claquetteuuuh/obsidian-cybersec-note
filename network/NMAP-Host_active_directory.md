@@ -59,7 +59,7 @@ Nmap done: 256 IP addresses (8 hosts up) scanned in 10.93 seconds
 
 ## __Scan TCP__
 
-On peut envoyer un **flag SYN** a un port d’une machine, un port ouvert répondra par un flag SYN/ACK un port fermé lui entrainera un RST. La commande à effectuer est **`nmap -PS -sn <cible>/24`**.
+On peut envoyer un **flag SYN** a un port d’une machine, un port ouvert répondra par un flag SYN/ACK un port fermé lui entrainera un RST. La commande à effectuer est **`nmap -PS -sn <cible>/24`**. [En savoir plus sur le scan TCP](NMAP-TCP_UDP_Port_Scan).
 
 ```shell
 pentester@ip$ sudo nmap -PS -sn 10.10.68.220/24 
