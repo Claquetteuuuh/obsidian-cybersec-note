@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Utils.md",
+                "file": "Pentest_Notion_de_base.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec86f4b650857eaa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/imgs/basics/mindmap_pentest.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Utils.md",
+                "file": "assets/imgs/basics/mindmap_pentest.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Utils.md",
+                "file": "assets/imgs/basics/mindmap_pentest.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Utils.md"
+                "file": "assets/imgs/basics/mindmap_pentest.png"
               }
             }
           },
@@ -164,15 +175,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e741af582fb6351d",
+  "active": "ec86f4b650857eaa",
   "lastOpenFiles": [
+    "Pentest_Notion_de_base.md",
+    "OSINT/Utils.md",
+    "assets/imgs/basics/mindmap_pentest.png.crdownload",
     "OSINT.zip",
     "OSINT/Enumeration_des_sous_domaines.md",
     "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Digital Forensic.md",
     "Excalidraw/Drawing 2023-04-03 04.30.51.excalidraw.md",
     "Excalidraw",
-    "OSINT/Utils.md",
     "misc/VPN.md",
     "cryptographie/Encryption_Chiffrement.md",
     "web_hacking/XSS.md",
@@ -200,7 +213,6 @@
     "Exploit/Metasploit_MSFCONSOLE.md",
     "Exploit",
     "conflict-files-obsidian-git.md",
-    "Pentest_Notion_de_base.md",
     "Nouveau document texte.txt",
     "[[Decouvertes_du_contenu]].md",
     "web_hacking/Authentification-Bypass.md",
@@ -210,8 +222,6 @@
     "network/Protocoles_Serveur.md",
     "network/NMAP-TCP_UDP_Port_Scan.md",
     "network/NMAP-Post_Port_Scan.md",
-    "assets/imgs/basics",
-    "Social_engenering",
     "Untitled.canvas"
   ]
 }
