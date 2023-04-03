@@ -31,4 +31,9 @@ La plupart de ces hives sont dans `C:\Windows\System32\Config` :
 - **SYSTEM** (mounted on `HKEY_LOCAL_MACHINE\System`)
 
 
-D'autres hives sert à avoir les informations sur un utilisateur
+D'autres hives sert à avoir les informations sur un utilisateur :
+
+- **NTUSER.DAT** (mounted on HKEY_CURRENT_USER when a user logs in)
+
+- **USRCLASS.DAT** (mounted on HKEY_CURRENT_USER\Software\CLASSES)
+
