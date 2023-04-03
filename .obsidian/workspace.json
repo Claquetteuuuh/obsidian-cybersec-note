@@ -166,6 +166,7 @@
   },
   "active": "68922a28c28401ab",
   "lastOpenFiles": [
+    "OSINT/utils.md",
     "Exploit/Metasploit-use_modules.md",
     "assets/Excalidraw/hash-schema.excalidraw.md",
     "cryptographie/Hash.md",
@@ -195,7 +196,6 @@
     "Pentest_Notion_de_base.md",
     "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Enumeration_des_sous_domaines.md",
-    "OSINT/utils.md",
     "Nouveau document texte.txt",
     "[[Decouvertes_du_contenu]].md",
     "web_hacking/Authentification-Bypass.md",
