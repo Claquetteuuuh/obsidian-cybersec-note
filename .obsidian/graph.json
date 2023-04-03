@@ -43,10 +43,17 @@
       }
     },
     {
-      "query": "",
+      "query": "path:web_hacking",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 65450
+      }
+    },
+    {
+      "query": "path:misc",
+      "color": {
+        "a": 1,
+        "rgb": 16711880
       }
     }
   ],
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7514342322277725,
-  "close": false
+  "scale": 0.7514342322277727,
+  "close": true
 }
