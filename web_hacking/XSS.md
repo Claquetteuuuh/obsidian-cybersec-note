@@ -97,9 +97,3 @@ Dans ce cas le code de bypass ressemblerai à ça :
 ```
 
 ![[perfectingPayload3.2.png]]
-
-
-
-| adadadad | dazdadd |
-| -------- | ------- |
-| adazda   | dzadazda        |

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21146da4af4e8936",
+        "id": "41a5dcc60c04e008",
         "type": "tabs",
         "children": [
           {
-            "id": "ed2efa2ce5667353",
+            "id": "e741af582fb6351d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web_hacking/XSS.md",
+                "file": "Exploit/Metasploit-use_modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_hacking/XSS.md",
+                "file": "Exploit/Metasploit-use_modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web_hacking/XSS.md",
+                "file": "Exploit/Metasploit-use_modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web_hacking/XSS.md"
+                "file": "Exploit/Metasploit-use_modules.md"
               }
             }
           },
@@ -164,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "e741af582fb6351d",
   "lastOpenFiles": [
+    "web_hacking/XSS.md",
     "assets/Excalidraw/hash-schema.excalidraw.md",
     "Exploit/Metasploit-use_modules.md",
     "Exploit/Metasploit-msfconsole.md",
@@ -208,7 +209,6 @@
     "network/NMAP-Post_Port_Scan.md",
     "network/NMAP-Host_active_directory.md",
     "network/NMAP-Advanced_Port_Scan.md",
-    "network/Network.md",
     "assets/imgs/basics",
     "Social_engenering",
     "misc",
