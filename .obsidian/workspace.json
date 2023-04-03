@@ -11,8 +11,12 @@
             "id": "62fb0c963dd24299",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OSINT/Digital Forensic.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -35,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Utils.md",
+                "file": "OSINT/Digital Forensic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Utils.md",
+                "file": "OSINT/Digital Forensic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Utils.md"
+                "file": "OSINT/Digital Forensic.md"
               }
             }
           },
@@ -181,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7634e98af9b76797",
+  "active": "62fb0c963dd24299",
   "lastOpenFiles": [
     "OSINT/Utils.md",
     "app.netlas.io.md",

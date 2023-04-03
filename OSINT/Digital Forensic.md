@@ -1,4 +1,6 @@
 
+Le Digital Forensic est complémentaire à l'OSINT lorsqu'on doit trouver 
+
 ## __Document Metadata__
 
 Les metadatas sont **des informations relative au fichier** qui se crée automatiquement lors de la création du fichier, on peut y trouver de multiples informations sur le fichier.
