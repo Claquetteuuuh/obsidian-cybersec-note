@@ -56,7 +56,7 @@ pprint(response.json())
 
 - [Onyphe](https://www.onyphe.io/), moteur de recherche avancé, donne accès à **toutes les informations qu'un hacker peut avoir**.
 - [CriminalIp](https://www.criminalip.io/en), shodan en mieux.
-- [Masterseek](https://www.masterseek.com/), google dork search.
+- [Masterseek](https://www.masterseek.com/), google dork recherche par compagnie, pays, etc.
 
 
 ## __Base de donnée__
