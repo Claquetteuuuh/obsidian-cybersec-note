@@ -15,10 +15,38 @@
       }
     },
     {
-      "query": "path:",
+      "query": "path:OSINT",
       "color": {
         "a": 1,
         "rgb": 65378
+      }
+    },
+    {
+      "query": "path:network",
+      "color": {
+        "a": 1,
+        "rgb": 52479
+      }
+    },
+    {
+      "query": "path:cryptographie",
+      "color": {
+        "a": 1,
+        "rgb": 6029516
+      }
+    },
+    {
+      "query": "path:network",
+      "color": {
+        "a": 1,
+        "rgb": 2708
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
