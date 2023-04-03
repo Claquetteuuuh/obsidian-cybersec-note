@@ -174,3 +174,4 @@ La reconnaissance active permet de recupérer certaines informations sur une cib
 | netcat as client | `nc MACHINE_IP PORT_NUMBER`               |
 | netcat as server | `nc -lvnp PORT_NUMBER`                    |
 
+On peut aussi utiliser [nmap]()[[NMAP-]] pour analyser l'**état des ports** de la cible.
