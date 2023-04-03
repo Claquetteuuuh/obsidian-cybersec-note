@@ -37,5 +37,6 @@ D'autres hives sert à avoir les **informations sur un utilisateur** :
 
 - **USRCLASS.DAT** (mounted on HKEY_CURRENT_USER\Software\CLASSES), il est sauvegardé dans le disque dans `C:\Users\<username>\AppData\Local\Microsoft\Windows`.
 
-Un hive important est le *AmCache*, il consigne des metadonnées sur l'execution et l'installation de programmes sur un systeme. `C:\Windows\AppCompat\Programs\Amcache.hve`.
+Un hive important est le *AmCache*, il consigne des **metadonnées** sur l'**execution** et l'**installation** de programmes sur un systeme. `C:\Windows\AppCompat\Programs\Amcache.hve`.
+
 
