@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30a1fb98dc6f1d87",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-04-03 04.30.51.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Digital Forensic.md",
+                "file": "Excalidraw/Drawing 2023-04-03 04.30.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Digital Forensic.md",
+                "file": "Excalidraw/Drawing 2023-04-03 04.30.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Digital Forensic.md"
+                "file": "Excalidraw/Drawing 2023-04-03 04.30.51.excalidraw.md"
               }
             }
           },
@@ -164,8 +175,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e741af582fb6351d",
+  "active": "30a1fb98dc6f1d87",
   "lastOpenFiles": [
+    "OSINT/Digital Forensic.md",
+    "Excalidraw/Drawing 2023-04-03 04.30.51.excalidraw.md",
+    "Excalidraw",
     "OSINT/Utils.md",
     "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Enumeration_des_sous_domaines.md",
@@ -192,7 +206,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
-    "OSINT/Digital Forensic.md",
     "Exploit/Metasploit_Modules.md",
     "Exploit/Metasploit_MSFCONSOLE.md",
     "Exploit",
@@ -208,10 +221,8 @@
     "network/NMAP-TCP_UDP_Port_Scan.md",
     "network/NMAP-Post_Port_Scan.md",
     "network/NMAP-Host_active_directory.md",
-    "network/NMAP-Advanced_Port_Scan.md",
     "assets/imgs/basics",
     "Social_engenering",
-    "misc",
     "Untitled.canvas"
   ]
 }
