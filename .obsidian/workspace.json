@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploit/Metasploit-use_modules.md",
+                "file": "web_hacking/XSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploit/Metasploit-use_modules.md",
+                "file": "web_hacking/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploit/Metasploit-use_modules.md",
+                "file": "web_hacking/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploit/Metasploit-use_modules.md"
+                "file": "web_hacking/XSS.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "e741af582fb6351d",
   "lastOpenFiles": [
+    "Exploit/Metasploit-use_modules.md",
     "web_hacking/XSS.md",
     "assets/Excalidraw/hash-schema.excalidraw.md",
-    "Exploit/Metasploit-use_modules.md",
     "Exploit/Metasploit-msfconsole.md",
     "OSINT/utils.md",
     "cryptographie/Hash.md",
