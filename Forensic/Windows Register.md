@@ -33,7 +33,8 @@ La plupart de ces hives sont dans `C:\Windows\System32\Config` :
 
 D'autres hives sert à avoir les informations sur un utilisateur :
 
-- **NTUSER.DAT** (mounted on HKEY_CURRENT_USER when a user logs in)
+- **NTUSER.DAT** (mounted on HKEY_CURRENT_USER when a user logs in), il est sauvegardé dans le dossier `C:\Users\<username>\`.
 
-- **USRCLASS.DAT** (mounted on HKEY_CURRENT_USER\Software\CLASSES), il est savegardé sur le disque dans `C:\Users\<username>\AppData\Local\Microsoft\Windows`
+- **USRCLASS.DAT** (mounted on HKEY_CURRENT_USER\Software\CLASSES), il est sauvegardé dans le disque dans `C:\Users\<username>\AppData\Local\Microsoft\Windows`.
+
 
