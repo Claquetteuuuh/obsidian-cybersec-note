@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "7634e98af9b76797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT/Utils.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9403a4be81c354a1",
             "type": "leaf",
             "state": {
@@ -39,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Digital Forensic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Digital Forensic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OSINT/Digital Forensic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,9 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62fb0c963dd24299",
+  "active": "9403a4be81c354a1",
   "lastOpenFiles": [
-    "OSINT/Utils.md",
+    "OSINT/Digital Forensic.md",
+    "OSINT/Osint-Utils.md",
     "app.netlas.io.md",
     "Exploit/Metasploit-use_modules.md",
     "Exploit/Metasploit-msfconsole.md",
@@ -209,7 +195,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
-    "OSINT/Digital Forensic.md",
     "Exploit/Metasploit_Modules.md",
     "Exploit/Metasploit_MSFCONSOLE.md",
     "Exploit",

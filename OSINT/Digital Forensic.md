@@ -1,5 +1,5 @@
 
-Le Digital Forensic est complémentaire à l'OSINT lorsqu'on doit trouver 
+Le Digital Forensic est complémentaire à l'[OSINT](Osint-Utils.md) lorsqu'on doit rechercher des informations.
 
 ## __Document Metadata__
 
