@@ -16,4 +16,5 @@ Pour récuperer les registres ils faut lancer **regedit.exe**.
 
 ## __Hives__
 
-Répertoire 
+Les hives sont des fichiers contenant ce qui s'est passé sur la machine.
+
