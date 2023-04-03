@@ -62,4 +62,6 @@ Device Model Desc               : sRGB
 ```
 
 
-### Analyse de systèm
+### Analyse de système
+
+voir [[Windows Register]]

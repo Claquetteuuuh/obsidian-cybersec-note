@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/Digital Forensic.md",
+                "file": "Forensic/Windows Register.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic/Digital Forensic.md",
+                "file": "Forensic/Windows Register.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forensic/Digital Forensic.md",
+                "file": "Forensic/Windows Register.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forensic/Digital Forensic.md"
+                "file": "Forensic/Windows Register.md"
               }
             }
           },
@@ -179,10 +179,10 @@
   },
   "active": "d212cc1d1ecf5387",
   "lastOpenFiles": [
+    "Forensic/Digital Forensic.md",
     "Forensic/Windows Register.md",
     "Exploit/Metasploit-use_modules.md",
     "Forensic",
-    "Forensic/Digital Forensic.md",
     "OSINT/Osint-Utils.md",
     "app.netlas.io.md",
     "Exploit/Metasploit-msfconsole.md",
