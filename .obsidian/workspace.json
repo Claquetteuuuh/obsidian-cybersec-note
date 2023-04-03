@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "41a5dcc60c04e008",
+        "id": "a67db314e1c31d7a",
         "type": "tabs",
         "children": [
           {
-            "id": "e741af582fb6351d",
+            "id": "9ab11ffb21d8c6ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentest_Notion_de_base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec86f4b650857eaa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/imgs/basics/mindmap_pentest.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/imgs/basics/mindmap_pentest.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/imgs/basics/mindmap_pentest.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/imgs/basics/mindmap_pentest.png"
-              }
+              "state": {}
             }
           },
           {
@@ -175,9 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec86f4b650857eaa",
+  "active": "9ab11ffb21d8c6ec",
   "lastOpenFiles": [
     "Pentest_Notion_de_base.md",
+    "assets/imgs/basics/mindmap_pentest.png",
     "OSINT/Utils.md",
     "assets/imgs/basics/mindmap_pentest.png.crdownload",
     "OSINT.zip",
@@ -205,7 +187,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number1.png",
-    "assets/imgs/web_hacking/xss/reflectedXss3.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
