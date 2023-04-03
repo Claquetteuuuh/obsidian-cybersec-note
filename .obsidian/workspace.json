@@ -11,8 +11,12 @@
             "id": "9ab11ffb21d8c6ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OSINT/Utils.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OSINT/Utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OSINT/Utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OSINT/Utils.md"
+              }
             }
           },
           {
@@ -158,6 +166,7 @@
   },
   "active": "9ab11ffb21d8c6ec",
   "lastOpenFiles": [
+    "OSINT/Decouvertes_du_contenu.md",
     "assets/imgs/basics/1673300469140.jpg",
     "assets/imgs/basics/1673300469140.jpg.crdownload",
     "Pentest_Notion_de_base.md",
@@ -166,7 +175,6 @@
     "assets/imgs/basics/mindmap_pentest.png.crdownload",
     "OSINT.zip",
     "OSINT/Enumeration_des_sous_domaines.md",
-    "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Digital Forensic.md",
     "Excalidraw/Drawing 2023-04-03 04.30.51.excalidraw.md",
     "Excalidraw",
@@ -188,7 +196,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number2.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
