@@ -18,3 +18,8 @@ Pour récuperer les registres ils faut lancer **regedit.exe**.
 
 Les hives sont des fichiers contenant ce qui s'est passé sur la machine.
 
+La plupart de ces hives sont dans `C:\Windows\System32\Config` :
+- **DEFAULT** (mounted on `HKEY_USERS\DEFAULT`)
+- **SAM** (mounted on `HKEY_LOCAL_MACHINE\SAM`)
+- **SECURITY** (mounted on `HKEY_LOCAL_MACHINE\Security`)
+- 
