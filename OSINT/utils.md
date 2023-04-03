@@ -35,6 +35,7 @@ pprint(response.json())
 - [Geohints](https://www.geohints.com/), répertorie **à quoi ressemble** les choses selon les pays.
 - [Insecam](http://insecam.org/en/byrating/), montre en directe **les flux de certaines caméra connu**.
 - [Adsbexchange](https://globe.adsbexchange.com/), **trace**, et donne les **informations** des **avions** en direct.
+- L'utilisation de `geocode:LAT,LONG,PERIM` sur twitter
 
 
 ## __Network__
