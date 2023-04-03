@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Reverse_Shell.md",
+                "file": "OSINT/Utils.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Reverse_Shell.md",
+                "file": "OSINT/Utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Reverse_Shell.md",
+                "file": "OSINT/Utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Reverse_Shell.md"
+                "file": "OSINT/Utils.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "ea9b44c17d1cd784",
   "lastOpenFiles": [
+    "system/Reverse_Shell.md",
     "OSINT/Utils.md",
     "misc/Comptes.md",
     "OSINT/Enumeration_des_sous_domaines.md",
@@ -211,7 +212,6 @@
     "[[Decouvertes_du_contenu]].md",
     "web_hacking/Authentification-Bypass.md",
     "Untitled",
-    "network/Protocoles_Serveur.md",
     "Untitled.canvas"
   ]
 }
