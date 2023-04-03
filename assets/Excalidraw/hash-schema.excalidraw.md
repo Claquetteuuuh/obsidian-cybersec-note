@@ -245,49 +245,6 @@ md5 ^P4Tj6VEV
 			"lineHeight": 1.15
 		},
 		{
-			"id": "zNjCUmaS2bsyqjyt5JW24",
-			"type": "arrow",
-			"x": -55.61465285701405,
-			"y": -304.29712121486824,
-			"width": 157.71427699497764,
-			"height": 8.571428571428555,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": {
-				"type": 2
-			},
-			"seed": 1673650271,
-			"version": 10,
-			"versionNonce": 1997047953,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1680500555305,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					157.71427699497764,
-					-8.571428571428555
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
 			"id": "e2T8y47GxUFPPvv7ZoAFh",
 			"type": "diamond",
 			"x": -143.61466157632208,
@@ -385,6 +342,49 @@ md5 ^P4Tj6VEV
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "zNjCUmaS2bsyqjyt5JW24",
+			"type": "arrow",
+			"x": -55.61465285701405,
+			"y": -304.29712121486824,
+			"width": 157.71427699497764,
+			"height": 8.571428571428555,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1108264191,
+			"version": 12,
+			"versionNonce": 1136778175,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680500564583,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					157.71427699497764,
+					-8.571428571428555
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -395,7 +395,7 @@ md5 ^P4Tj6VEV
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
+		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 2,
 		"currentItemFontSize": 20,
