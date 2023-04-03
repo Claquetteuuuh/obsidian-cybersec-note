@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Utils.md",
+                "file": "OSINT/Digital Forensic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Utils.md",
+                "file": "OSINT/Digital Forensic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Utils.md",
+                "file": "OSINT/Digital Forensic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Utils.md"
+                "file": "OSINT/Digital Forensic.md"
               }
             }
           },
@@ -166,12 +166,12 @@
   },
   "active": "9ab11ffb21d8c6ec",
   "lastOpenFiles": [
+    "OSINT/Utils.md",
     "OSINT/Decouvertes_du_contenu.md",
     "assets/imgs/basics/1673300469140.jpg",
     "assets/imgs/basics/1673300469140.jpg.crdownload",
     "Pentest_Notion_de_base.md",
     "assets/imgs/basics/mindmap_pentest.png",
-    "OSINT/Utils.md",
     "assets/imgs/basics/mindmap_pentest.png.crdownload",
     "OSINT.zip",
     "OSINT/Enumeration_des_sous_domaines.md",
