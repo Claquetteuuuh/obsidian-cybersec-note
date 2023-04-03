@@ -14,3 +14,6 @@ Pour récuperer les registres ils faut lancer **regedit.exe**.
 | **HKEY_CURRENT_CONFIG**    | Information sur le **hardware profile** utilisé par la machine.                                                                                                                           |
 
 
+## __Hives__
+
+Répertoire 
