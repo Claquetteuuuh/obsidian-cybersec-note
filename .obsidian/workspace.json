@@ -11,8 +11,12 @@
             "id": "e741af582fb6351d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OSINT/utils.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OSINT/utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OSINT/utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OSINT/utils.md"
+              }
             }
           },
           {
@@ -158,6 +166,8 @@
   },
   "active": "e741af582fb6351d",
   "lastOpenFiles": [
+    "OSINT/Enumeration_des_sous_domaines.md",
+    "misc/VPN.md",
     "cryptographie/Encryption_Chiffrement.md",
     "web_hacking/XSS.md",
     "Exploit/Metasploit-use_modules.md",
@@ -167,7 +177,6 @@
     "cryptographie/Hash.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "Exploit/Metasploit-Modules.md",
-    "misc/VPN.md",
     "misc/Email.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
@@ -189,7 +198,6 @@
     "conflict-files-obsidian-git.md",
     "Pentest_Notion_de_base.md",
     "OSINT/Decouvertes_du_contenu.md",
-    "OSINT/Enumeration_des_sous_domaines.md",
     "Nouveau document texte.txt",
     "[[Decouvertes_du_contenu]].md",
     "web_hacking/Authentification-Bypass.md",
