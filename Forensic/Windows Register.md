@@ -35,5 +35,5 @@ D'autres hives sert à avoir les informations sur un utilisateur :
 
 - **NTUSER.DAT** (mounted on HKEY_CURRENT_USER when a user logs in)
 
-- **USRCLASS.DAT** (mounted on HKEY_CURRENT_USER\Software\CLASSES)
+- **USRCLASS.DAT** (mounted on HKEY_CURRENT_USER\Software\CLASSES), il est savegardé sur le disque dans `C:\Users\<username>\AppData\Local\Microsoft\Windows`
 
