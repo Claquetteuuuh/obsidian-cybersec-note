@@ -11,8 +11,12 @@
             "id": "ed2efa2ce5667353",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "web_hacking/XSS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "web_hacking/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "web_hacking/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "web_hacking/XSS.md"
+              }
             }
           },
           {
@@ -156,7 +164,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed2efa2ce5667353",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
     "assets/Excalidraw/hash-schema.excalidraw.md",
     "Exploit/Metasploit-use_modules.md",
