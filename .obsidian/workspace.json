@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Digital Forensic.md",
+                "file": "OSINT/Utils.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Digital Forensic.md",
+                "file": "OSINT/Utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Digital Forensic.md",
+                "file": "OSINT/Utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Digital Forensic.md"
+                "file": "OSINT/Utils.md"
               }
             }
           },
@@ -166,12 +166,13 @@
   },
   "active": "e741af582fb6351d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-03 04.30.51.excalidraw.md",
+    "OSINT.zip",
+    "OSINT/Enumeration_des_sous_domaines.md",
+    "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Digital Forensic.md",
+    "Excalidraw/Drawing 2023-04-03 04.30.51.excalidraw.md",
     "Excalidraw",
     "OSINT/Utils.md",
-    "OSINT/Decouvertes_du_contenu.md",
-    "OSINT/Enumeration_des_sous_domaines.md",
     "misc/VPN.md",
     "cryptographie/Encryption_Chiffrement.md",
     "web_hacking/XSS.md",
@@ -209,7 +210,6 @@
     "network/Protocoles_Serveur.md",
     "network/NMAP-TCP_UDP_Port_Scan.md",
     "network/NMAP-Post_Port_Scan.md",
-    "network/NMAP-Host_active_directory.md",
     "assets/imgs/basics",
     "Social_engenering",
     "Untitled.canvas"
