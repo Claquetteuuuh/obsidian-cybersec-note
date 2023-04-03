@@ -3,6 +3,7 @@ Les **registres windows** sont une base de données de **donnés de configuratio
 
 Pour récuperer les registres ils faut lancer **regedit.exe**.
 
-| **Dossier/clé prédéfinie** | Description |
-| -------------------------- | ----------- |
-| **HKEY_CURRENT_USER**      | Les informations à propos de l'utilisateur actuellement connecté:             |
+| **Dossier/clé prédéfinie** | Description                                                                                                |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **HKEY_CURRENT_USER**      | Les informations à propos de l'utilisateur actuellement connecté: dossiers, screen colors, control pannel. |
+| **HKEY_USERS**             |                                                                                                            |
