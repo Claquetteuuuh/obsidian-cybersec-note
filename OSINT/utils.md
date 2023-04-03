@@ -61,6 +61,7 @@ pprint(response.json())
 - [Intelligencex](https://intelx.io/), recherche des **leaks dans des milions de db**.
 - [Whatsmyname](https://whatsmyname.app/), lie des **pseudos** à des **domaines**.
 - [Leakcheck](https://leakcheck.io/), donne les **credentials** d'une adresse mail / telephone / pseudo. Voir [[Comptes]]
+- [Cavalier](https://cavalier.hudsonrock.com/api/json/v2/preview/search-by-login/osint-tools?email=tiimalb21@gmail.com), BDD d'email backdoor (utiliser via l'api car pu de creation de compte)
 
 
 ## __Tools__
