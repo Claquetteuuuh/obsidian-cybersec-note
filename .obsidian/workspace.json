@@ -11,12 +11,8 @@
             "id": "e741af582fb6351d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT/utils.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OSINT/utils.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,6 +158,8 @@
   },
   "active": "e741af582fb6351d",
   "lastOpenFiles": [
+    "OSINT/Decouvertes_du_contenu.md",
+    "OSINT/Utils.md",
     "OSINT/Enumeration_des_sous_domaines.md",
     "misc/VPN.md",
     "cryptographie/Encryption_Chiffrement.md",
@@ -173,7 +167,6 @@
     "Exploit/Metasploit-use_modules.md",
     "assets/Excalidraw/hash-schema.excalidraw.md",
     "Exploit/Metasploit-msfconsole.md",
-    "OSINT/utils.md",
     "cryptographie/Hash.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "Exploit/Metasploit-Modules.md",
@@ -197,7 +190,6 @@
     "Exploit",
     "conflict-files-obsidian-git.md",
     "Pentest_Notion_de_base.md",
-    "OSINT/Decouvertes_du_contenu.md",
     "Nouveau document texte.txt",
     "[[Decouvertes_du_contenu]].md",
     "web_hacking/Authentification-Bypass.md",
