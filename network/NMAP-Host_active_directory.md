@@ -85,7 +85,7 @@ On peut également effectuer une requête similaire avec un **flag ACK**, l’op
 
 ## __Scan UDP__
 
-Enfin, on peut analyser les Hosts actifs en effectuant une requête **UDP**, contrairement au requête précédente, elle n’envoie pas de packet si l’hote est ouvert. La commande est **`nmap -PU -sn <cible>/24`**.
+Enfin, on peut analyser les Hosts actifs en effectuant une requête **UDP**, contrairement au requête précédente, elle n’envoie pas de packet si l’hote est ouvert. La commande est **`nmap -PU -sn <cible>/24`**. [En savoir plus sur le scan UDP](NMAP-TCP_UDP_Port_Scan).
 
 ![[nmap5.1.png]]
 
