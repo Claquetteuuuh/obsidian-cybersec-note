@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "48f5cded498a619e",
+        "id": "ce6f2771e483d2a8",
         "type": "tabs",
         "children": [
           {
-            "id": "a392f2121bc4ab52",
+            "id": "44bbfb1590c3b43d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/VPN.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "misc/VPN.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,10 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a392f2121bc4ab52",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
-    "misc/Email.md",
+    "Forensic/Digital Forensic.md",
     "misc/VPN.md",
+    "misc/Email.md",
     "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Enumeration_des_sous_domaines.md",
     "web_hacking/XSS.md",
@@ -181,7 +174,6 @@
     "network/NMAP-Post_Port_Scan.md",
     "network/NMAP-Host_active_directory.md",
     "network/NMAP-Advanced_Port_Scan.md",
-    "Forensic/Digital Forensic.md",
     "cryptographie/Encryption_Chiffrement.md",
     "misc/Comptes.md",
     "OSINT/Osint-Utils.md",
