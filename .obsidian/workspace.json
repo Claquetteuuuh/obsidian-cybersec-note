@@ -11,8 +11,12 @@
             "id": "1bb61cdf8a88f509",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Exploit/Metasploit-use_modules.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exploit/Metasploit-use_modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Exploit/Metasploit-use_modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Exploit/Metasploit-use_modules.md"
+              }
             }
           },
           {
@@ -158,6 +166,9 @@
   },
   "active": "0d68d501aa19161d",
   "lastOpenFiles": [
+    "Forensic/Windows Register.md",
+    "Forensic/Digital Forensic.md",
+    "Forensic",
     "conflict-files-obsidian-git.md",
     "OSINT/Osint-Utils.md",
     "OSINT/Utils.md",
@@ -199,11 +210,8 @@
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
     "Exploit/Metasploit_Modules.md",
-    "Exploit/Metasploit_MSFCONSOLE.md",
     "Exploit",
     "Nouveau document texte.txt",
-    "[[Decouvertes_du_contenu]].md",
-    "Untitled",
     "Untitled.canvas"
   ]
 }
