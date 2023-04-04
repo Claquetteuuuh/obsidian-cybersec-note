@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f553d702deeeb4d7",
+        "id": "3a72fb26352d343e",
         "type": "tabs",
         "children": [
           {
-            "id": "1bb61cdf8a88f509",
+            "id": "1f47e4810e0ee8c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,12 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bb61cdf8a88f509",
+  "active": "1f47e4810e0ee8c4",
   "lastOpenFiles": [
-    "Pasted image 20230404031441.png",
+    "assets/imgs/forensic/autopsy.png",
+    "Forensic/Windows Register.md",
+    "assets/imgs/forensic",
     "Forensic/Digital Forensic.md",
     "Exploit/Metasploit-use_modules.md",
-    "Forensic/Windows Register.md",
     "Forensic",
     "conflict-files-obsidian-git.md",
     "OSINT/Osint-Utils.md",
@@ -206,12 +207,10 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number4.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
     "Exploit",
-    "Nouveau document texte.txt",
     "Untitled.canvas"
   ]
 }
