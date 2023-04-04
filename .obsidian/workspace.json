@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/NMAP-Host_active_directory.md",
+                "file": "OSINT/Osint-Utils.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/NMAP-Host_active_directory.md",
+                "file": "OSINT/Osint-Utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/NMAP-Host_active_directory.md",
+                "file": "OSINT/Osint-Utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/NMAP-Host_active_directory.md"
+                "file": "OSINT/Osint-Utils.md"
               }
             }
           },
