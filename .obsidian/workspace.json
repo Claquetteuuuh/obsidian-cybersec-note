@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a72fb26352d343e",
+        "id": "48f5cded498a619e",
         "type": "tabs",
         "children": [
           {
-            "id": "1f47e4810e0ee8c4",
+            "id": "a392f2121bc4ab52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Email.md",
+                "file": "misc/VPN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Email.md",
+                "file": "misc/VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Email.md",
+                "file": "misc/VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Email.md"
+                "file": "misc/VPN.md"
               }
             }
           },
@@ -164,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f47e4810e0ee8c4",
+  "active": "a392f2121bc4ab52",
   "lastOpenFiles": [
+    "misc/Email.md",
     "misc/VPN.md",
     "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Enumeration_des_sous_domaines.md",
@@ -199,7 +200,6 @@
     "assets/imgs/basics/mindmap_pentest.png",
     "assets/imgs/basics/mindmap_pentest.png.crdownload",
     "OSINT.zip",
-    "Excalidraw/Drawing 2023-04-03 04.30.51.excalidraw.md",
     "Excalidraw",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
