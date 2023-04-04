@@ -5,58 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Exploit",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:OSINT",
-      "color": {
-        "a": 1,
-        "rgb": 65378
-      }
-    },
-    {
-      "query": "path:network",
-      "color": {
-        "a": 1,
-        "rgb": 52479
-      }
-    },
-    {
-      "query": "path:cryptographie",
-      "color": {
-        "a": 1,
-        "rgb": 6029516
-      }
-    },
-    {
-      "query": "path:network",
-      "color": {
-        "a": 1,
-        "rgb": 2708
-      }
-    },
-    {
-      "query": "path:web_hacking",
-      "color": {
-        "a": 1,
-        "rgb": 65450
-      }
-    },
-    {
-      "query": "path:misc",
-      "color": {
-        "a": 1,
-        "rgb": 16711880
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -67,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7514342322277727,
+  "scale": 0.849347104038559,
   "close": true
 }
