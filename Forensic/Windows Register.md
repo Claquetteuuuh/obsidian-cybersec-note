@@ -45,4 +45,6 @@ Un hive important est le *AmCache*, il consigne des **metadonnées** sur l'**exe
 Pour faire une **analyse forensic** il est conseiller de faire une **copie du disque** que nous allons analyser, malheuresement on ne peut pas directement copier les hives du dossier `%WINDIR%\System32\Config` car il est **restreint**.
 
 Pour répondre à ce problème, on va utiliser **[Autopsie](https://www.autopsy.com/)**.
-Il permet d'acquerir des données à partir d'une image 
+Il permet d'acquerir des données à partir d'une image disque à partir d'un dossier selectionné. 
+
+![[Pasted image 20230404031441.png]]
