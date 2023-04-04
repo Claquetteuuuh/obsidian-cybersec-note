@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Osint-Utils.md",
+                "file": "misc/Comptes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Osint-Utils.md",
+                "file": "misc/Comptes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Osint-Utils.md",
+                "file": "misc/Comptes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Osint-Utils.md"
+                "file": "misc/Comptes.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "1f47e4810e0ee8c4",
   "lastOpenFiles": [
+    "OSINT/Osint-Utils.md",
     "OSINT/Enumeration_des_sous_domaines.md",
     "OSINT/Decouvertes_du_contenu.md",
     "Forensic/Digital Forensic.md",
@@ -177,7 +178,6 @@
     "Exploit/Metasploit-use_modules.md",
     "Forensic",
     "conflict-files-obsidian-git.md",
-    "OSINT/Osint-Utils.md",
     "OSINT/Utils.md",
     "system/Reverse_Shell.md",
     "misc/Comptes.md",
