@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "cryptographie/Encryption_Chiffrement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "cryptographie/Encryption_Chiffrement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "cryptographie/Encryption_Chiffrement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Comptes.md"
+                "file": "cryptographie/Encryption_Chiffrement.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "1f47e4810e0ee8c4",
   "lastOpenFiles": [
+    "misc/Comptes.md",
     "OSINT/Osint-Utils.md",
     "OSINT/Enumeration_des_sous_domaines.md",
     "OSINT/Decouvertes_du_contenu.md",
@@ -180,7 +181,6 @@
     "conflict-files-obsidian-git.md",
     "OSINT/Utils.md",
     "system/Reverse_Shell.md",
-    "misc/Comptes.md",
     "Exploit/Metasploit-msfconsole.md",
     "OSINT/Digital Forensic.md",
     "network/NMAP-Host_active_directory.md",
