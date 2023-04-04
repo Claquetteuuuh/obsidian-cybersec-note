@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "file": "misc/Email.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "file": "misc/Email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "file": "misc/Email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md"
+                "file": "misc/Email.md"
               }
             }
           },
@@ -166,6 +166,11 @@
   },
   "active": "1f47e4810e0ee8c4",
   "lastOpenFiles": [
+    "misc/VPN.md",
+    "OSINT/Decouvertes_du_contenu.md",
+    "OSINT/Enumeration_des_sous_domaines.md",
+    "web_hacking/XSS.md",
+    "web_hacking/Bypass_File_upload_filters.md",
     "web_hacking/Authentification-Bypass.md",
     "system/Reverse_Shell.md",
     "Pentest_Notion_de_base.md",
@@ -179,8 +184,6 @@
     "cryptographie/Encryption_Chiffrement.md",
     "misc/Comptes.md",
     "OSINT/Osint-Utils.md",
-    "OSINT/Enumeration_des_sous_domaines.md",
-    "OSINT/Decouvertes_du_contenu.md",
     "Forensic/Windows Register.md",
     "network/Network.md",
     "assets/imgs/forensic/autopsy.png",
@@ -198,9 +201,6 @@
     "OSINT.zip",
     "Excalidraw/Drawing 2023-04-03 04.30.51.excalidraw.md",
     "Excalidraw",
-    "misc/VPN.md",
-    "web_hacking/XSS.md",
-    "assets/Excalidraw/hash-schema.excalidraw.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
