@@ -42,8 +42,8 @@ pprint(response.json())
 
 - [Mxtoolbox](https://mxtoolbox.com/), sorte de **[[Network#Nslookup & Dig]] avancé**.
 - [Wigle](https://wigle.net/), donne les **informations** sur un **BSSID**.
-- [Pulsedive](pulsedive.com), whois plus poussé.
-- [Netlas](app.netlas.io), **info personnelle** du mec qui achete le domaine.
+- [Pulsedive](https://pulsedive.com), whois plus poussé.
+- [Netlas](https://app.netlas.io), **info personnelle** du mec qui achete le domaine.
 
 
 ## __Image__
