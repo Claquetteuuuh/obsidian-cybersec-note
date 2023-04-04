@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/Windows Register.md",
+                "file": "network/Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic/Windows Register.md",
+                "file": "network/Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forensic/Windows Register.md",
+                "file": "network/Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forensic/Windows Register.md"
+                "file": "network/Network.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "1f47e4810e0ee8c4",
   "lastOpenFiles": [
-    "assets/imgs/forensic/autopsy.png",
+    "network/DNS-Domain_Name_System.md",
     "Forensic/Windows Register.md",
+    "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic/Digital Forensic.md",
     "Exploit/Metasploit-use_modules.md",
