@@ -54,4 +54,5 @@ Il permet d'acquerir des données à partir d'une image disque à partir d'un do
 
 ### OS Version
 
-Pour trouver la ver
+Pour trouver la **version** on peut utiliser la clé de registre *`SOFTWARE\Microsoft\Windows NT\CurrentVersion`*
+
