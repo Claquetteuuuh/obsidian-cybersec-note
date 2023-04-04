@@ -49,3 +49,5 @@ Il permet d'acquerir des données à partir d'une image disque à partir d'un do
 
 ![[autopsy.png]]
 
+
+## __Recuperer des Information__
