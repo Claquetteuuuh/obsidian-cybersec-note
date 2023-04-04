@@ -54,3 +54,4 @@ Il permet d'acquerir des données à partir d'une image disque à partir d'un do
 
 ### OS Version
 
+Pour trouver la ver
