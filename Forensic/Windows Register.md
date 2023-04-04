@@ -40,9 +40,9 @@ D'autres hives sert à avoir les **informations sur un utilisateur** :
 Un hive important est le *AmCache*, il consigne des **metadonnées** sur l'**execution** et l'**installation** de programmes sur un systeme. `C:\Windows\AppCompat\Programs\Amcache.hve`.
 
 
-## __Kape__
+## __Kape__ 
 
 Pour faire une **analyse forensic** il est conseiller de faire une **copie du disque** que nous allons analyser, malheuresement on ne peut pas directement copier les hives du dossier `%WINDIR%\System32\Config` car il est **restreint**.
 
-Pour répondre à ce problème, on va utiliser **[Kape](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)**.
+Pour répondre à ce problème, on va utiliser **[Kape](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)**. C'est un outil 
 
