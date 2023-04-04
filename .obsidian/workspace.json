@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/Digital Forensic.md",
+                "file": "Pentest_Notion_de_base.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic/Digital Forensic.md",
+                "file": "Pentest_Notion_de_base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forensic/Digital Forensic.md",
+                "file": "Pentest_Notion_de_base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forensic/Digital Forensic.md"
+                "file": "Pentest_Notion_de_base.md"
               }
             }
           },
@@ -166,16 +166,21 @@
   },
   "active": "1f47e4810e0ee8c4",
   "lastOpenFiles": [
+    "network/DNS-Domain_Name_System.md",
+    "network/Protocoles_Serveur.md",
+    "network/NMAP-TCP_UDP_Port_Scan.md",
+    "network/NMAP-Post_Port_Scan.md",
+    "network/NMAP-Host_active_directory.md",
+    "network/NMAP-Advanced_Port_Scan.md",
+    "Forensic/Digital Forensic.md",
     "Pentest_Notion_de_base.md",
     "cryptographie/Encryption_Chiffrement.md",
     "misc/Comptes.md",
     "OSINT/Osint-Utils.md",
     "OSINT/Enumeration_des_sous_domaines.md",
     "OSINT/Decouvertes_du_contenu.md",
-    "Forensic/Digital Forensic.md",
     "Forensic/Windows Register.md",
     "network/Network.md",
-    "network/DNS-Domain_Name_System.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Exploit/Metasploit-use_modules.md",
@@ -185,8 +190,6 @@
     "system/Reverse_Shell.md",
     "Exploit/Metasploit-msfconsole.md",
     "OSINT/Digital Forensic.md",
-    "network/NMAP-Host_active_directory.md",
-    "network/NMAP-TCP_UDP_Port_Scan.md",
     "assets/imgs/basics/1673300469140.jpg",
     "assets/imgs/basics/1673300469140.jpg.crdownload",
     "assets/imgs/basics/mindmap_pentest.png",
@@ -198,9 +201,6 @@
     "web_hacking/XSS.md",
     "assets/Excalidraw/hash-schema.excalidraw.md",
     "cryptographie/Hash.md",
-    "web_hacking/Bypass_File_upload_filters.md",
-    "Exploit/Metasploit-Modules.md",
-    "misc/Email.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
