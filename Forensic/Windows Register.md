@@ -40,3 +40,6 @@ D'autres hives sert à avoir les **informations sur un utilisateur** :
 Un hive important est le *AmCache*, il consigne des **metadonnées** sur l'**execution** et l'**installation** de programmes sur un systeme. `C:\Windows\AppCompat\Programs\Amcache.hve`.
 
 
+## __Kape__
+
+Pour faire une analyse forensic il est conseiller de faire une copie du disque que nous allons analyser, malheuresement on ne peut pas directement copier les hives  
