@@ -42,6 +42,6 @@ Un hive important est le *AmCache*, il consigne des **metadonnées** sur l'**exe
 
 ## __Kape__
 
-Pour faire une analyse forensic il est conseiller de faire une copie du disque que nous allons analyser, malheuresement on ne peut pas directement copier les hives du dossier `%WINDIR%\System32\Config` car il est restreint.
+Pour faire une **analyse forensic** il est conseiller de faire une **copie du disque** que nous allons analyser, malheuresement on ne peut pas directement copier les hives du dossier `%WINDIR%\System32\Config` car il est restreint.
 
 Pour répondre à ce problème, on va utiliser **Kape**.
