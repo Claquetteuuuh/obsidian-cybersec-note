@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "misc/Email.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "misc/Email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "misc/Email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Comptes.md"
+                "file": "misc/Email.md"
               }
             }
           },
@@ -179,6 +179,8 @@
   },
   "active": "d212cc1d1ecf5387",
   "lastOpenFiles": [
+    "misc/VPN.md",
+    "misc/Comptes.md",
     "Forensic/Windows Register.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
@@ -189,10 +191,8 @@
     "app.netlas.io.md",
     "Exploit/Metasploit-msfconsole.md",
     "Exploit/Metasploit-Modules.md",
-    "misc/Comptes.md",
     "Pentest_Notion_de_base.md",
     "web_hacking/Bypass_File_upload_filters.md",
-    "misc/VPN.md",
     "misc/Email.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
