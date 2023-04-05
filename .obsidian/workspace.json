@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "OSINT/Osint-Utils.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "OSINT/Osint-Utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "OSINT/Osint-Utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Comptes.md"
+                "file": "OSINT/Osint-Utils.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "d3b16b93c2ec923c",
   "lastOpenFiles": [
+    "misc/Comptes.md",
     "web_hacking/XSS.md",
     "cryptographie/Hash.md",
     "cryptographie/Encryption_Chiffrement.md",
@@ -182,7 +183,6 @@
     "Exploit/Metasploit-Modules.md",
     "Exploit/Metasploit-msfconsole.md",
     "network/NMAP-Host_active_directory.md",
-    "misc/Comptes.md",
     "Pentest_Notion_de_base.md",
     "Forensic/Digital Forensic.md",
     "misc/VPN.md",
