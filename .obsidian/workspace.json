@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71a81ead5d21bb0a",
+        "id": "188b4bc26fac9394",
         "type": "tabs",
         "children": [
           {
-            "id": "950718057f423b5e",
+            "id": "d3b16b93c2ec923c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,11 +164,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "950718057f423b5e",
+  "active": "d3b16b93c2ec923c",
   "lastOpenFiles": [
+    "Exploit/Metasploit-Modules.md",
+    "Exploit/Metasploit-msfconsole.md",
     "Exploit/Metasploit-use_modules.md",
     "Exploit/Metasploit_scan.md",
-    "Exploit/Metasploit-Modules.md",
     "OSINT/Osint-Utils.md",
     "network/Network.md",
     "network/DNS-Domain_Name_System.md",
@@ -194,7 +195,6 @@
     "assets/imgs/forensic",
     "Forensic",
     "conflict-files-obsidian-git.md",
-    "OSINT/Utils.md",
     "assets/imgs/basics/1673300469140.jpg",
     "assets/imgs/basics/1673300469140.jpg.crdownload",
     "assets/imgs/basics/mindmap_pentest.png",
