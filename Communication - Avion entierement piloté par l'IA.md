@@ -14,4 +14,5 @@ Exemples :
 
 La question de la **responsabilité juridique** en cas d'accident d'un avion entièrement piloté par une intelligence artificielle est complexe et **soulève de nombreux problèmes juridiques**.
 
-Tout d'abord, il est important de noter que la responsabilité juridique pourrait être partagée entre **plusieurs parties**, telles que le fabricant de l'avion, le développeur de l'IA, le propriétaire de l'avion, l'opérateur de l'avion, l'entretien de l'avion, le fournisseur de données météorologiques et de navigation, etc.
+Tout d'abord, il est important de noter que la responsabilité juridique pourrait être partagée entre **plusieurs parties**, telles que le **fabricant de l'avion**, le **développeur de l'IA**, le **propriétaire** de l'avion, **l'opérateur** de l'avion, le **fournisseur de données météorologiques** et de navigation, etc.
+
