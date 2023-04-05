@@ -10,4 +10,8 @@ Exemples :
 - **Vol de données sensibles** : Les pirates informatiques pourraient également s'infiltrer dans les **systèmes de stockage de données** de l'avion et voler des **informations sensibles** sur les **passagers**, les **équipages** ou les plans de vol.
 
 
-## __Problè____
+## __Problème Juridique__
+
+La question de la **responsabilité juridique** en cas d'accident d'un avion entièrement piloté par une intelligence artificielle est complexe et **soulève de nombreux problèmes juridiques**.
+
+Tout d'abord, il est important de noter que la responsabilité juridique pourrait être partagée entre **plusieurs parties**, telles que le fabricant de l'avion, le développeur de l'IA, le propriétaire de l'avion, l'opérateur de l'avion, l'entretien de l'avion, le fournisseur de données météorologiques et de navigation, etc.
