@@ -1,4 +1,7 @@
 
+Scénario :
+Nous faisons partie des 1000 experts qui souhaite que l'IA s'arrête pendant 6 mois.
+
 ## __Cyber attaque__
 
 Un **avion entièrement piloté par une intelligence artificielle** pourrait être **vulnérable** à des **cyber-attaques**. En effet, les systèmes informatiques qui contrôlent l'avion pourraient être piratés par des **individus malveillants** qui chercheraient à **causer des dégâts** ou à **prendre le contrôle de l'avion**.
@@ -21,4 +24,5 @@ En outre, les **lois** et les **réglementations** **varient selon les pays**. L
 En fin de compte, la question de la responsabilité juridique en cas d'accident d'un avion entièrement piloté par une intelligence artificielle **reste complexe** et doit être **examinée au cas par cas**, cela **augmentera encore le temps de traitement des affaires**, malgré le fait que ce sont déjà des temps très long.
 
 
-## 
+## __Pertes d'Emploi__
+
