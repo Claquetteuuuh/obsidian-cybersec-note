@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Osint-Utils.md",
+                "file": "Exploit/Metasploit-use_modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Osint-Utils.md",
+                "file": "Exploit/Metasploit-use_modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Osint-Utils.md",
+                "file": "Exploit/Metasploit-use_modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Osint-Utils.md"
+                "file": "Exploit/Metasploit-use_modules.md"
               }
             }
           },
@@ -166,9 +166,11 @@
   },
   "active": "44bbfb1590c3b43d",
   "lastOpenFiles": [
+    "Exploit/Metasploit-Modules.md",
+    "Exploit/Metasploit-use_modules.md",
+    "OSINT/Osint-Utils.md",
     "network/Network.md",
     "network/DNS-Domain_Name_System.md",
-    "OSINT/Osint-Utils.md",
     "OSINT/Enumeration_des_sous_domaines.md",
     "OSINT/Decouvertes_du_contenu.md",
     "network/NMAP-Advanced_Port_Scan.md",
@@ -189,12 +191,10 @@
     "Forensic/Windows Register.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
-    "Exploit/Metasploit-use_modules.md",
     "Forensic",
     "conflict-files-obsidian-git.md",
     "OSINT/Utils.md",
     "Exploit/Metasploit-msfconsole.md",
-    "OSINT/Digital Forensic.md",
     "assets/imgs/basics/1673300469140.jpg",
     "assets/imgs/basics/1673300469140.jpg.crdownload",
     "assets/imgs/basics/mindmap_pentest.png",
