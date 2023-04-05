@@ -30,4 +30,9 @@ L'utilisation d'un avion entièrement piloté par une intelligence artificielle 
 
 Tout d'abord, cela pourrait entraîner une **réduction du nombre de pilotes d'avion** nécessaires, pour rappelle il y a **plus de 8.500 pilotes d'avion de ligne en France**. Les compagnies aériennes pourraient être tentées de **remplacer les pilotes humains** par des avions entièrement autonomes pour **économiser des coûts** et améliorer l'efficacité. Cela pourrait avoir un impact direct sur les emplois des **pilotes**, qui pourraient être **remplacés par des ingénieurs en informatique** ou des techniciens spécialisés dans l'entretien de l'IA.
 
-Imaginez encore une nouvelle crise, et de nouvelles grosse manifestations comme nous subissons à
+*Imaginez encore une nouvelle crise, et de nouvelles grosse manifestations comme nous subissons à l'heure actuelle, est-ce que vous souhaitez réellement cela ?*
+
+
+## __Risque d'accident__
+
+L'utilisation d'un avion entièrement piloté par une intelligence artificielle comporte **des risques importants en termes de sécurité**. Tout comme les accidents Tesla, il y a des risques potentiels d'accidents causés par des défaillances de l'IA ou des erreurs de programmation.
