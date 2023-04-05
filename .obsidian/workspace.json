@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Email.md",
+                "file": "OSINT/Osint-Utils.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Email.md",
+                "file": "OSINT/Osint-Utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Email.md",
+                "file": "OSINT/Osint-Utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Email.md"
+                "file": "OSINT/Osint-Utils.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "d212cc1d1ecf5387",
   "lastOpenFiles": [
-    "misc/VPN.md",
     "misc/Comptes.md",
+    "misc/Email.md",
+    "misc/VPN.md",
     "Forensic/Windows Register.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
@@ -193,7 +194,6 @@
     "Exploit/Metasploit-Modules.md",
     "Pentest_Notion_de_base.md",
     "web_hacking/Bypass_File_upload_filters.md",
-    "misc/Email.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
