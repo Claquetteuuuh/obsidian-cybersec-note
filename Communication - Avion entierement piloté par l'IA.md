@@ -48,3 +48,5 @@ De plus, les programmes informatiques peuvent contenir des **erreurs ou des bugs
 
 L'un des **défis les plus importants** dans la conception d'un avion entièrement piloté par une intelligence artificielle est de s'assurer que l'IA est **capable de prendre des décisions complexes** en temps réel, en fonction de **diverses situations et de nombreux facteurs**. Cela soulève des questions sur la capacité de l'IA à faire face à des situations imprévues et à **prendre des décisions appropriées**.
 
+Un des défis est de garantir que l'IA prend des **décisions éthiques et responsables**. Par exemple, si un avion rencontre un problème technique qui compromet la sécurité des passagers, l'IA doit être capable de prendre une décision rapide sur la meilleure action à entreprendre. Cela peut inclure l'**atterrissage d'urgence** ou le **retour à l'aéroport le plus proche**. L'IA doit être programmée pour prendre des décisions qui sont **conformes aux normes éthiques et juridiques** en matière d'aviation.
+
