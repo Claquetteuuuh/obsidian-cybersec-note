@@ -5,4 +5,9 @@ Un **avion entièrement piloté par une intelligence artificielle** pourrait êt
 
 Exemples :
 
-Piratage des **systèmes de commande de l'avion** : Les pirates informatiques pourraient s'**infiltrer** dans les **systèmes de commande** de l'avion et **prendre le contrôle** de l'avion. Cela pourrait se traduire par un changement de trajectoire ou d'altitude de l'avion, ou encore par un arrêt brutal des moteurs.
+- Piratage des **systèmes de commande de l'avion** : Les pirates informatiques pourraient s'**infiltrer** dans les **systèmes de commande** de l'avion et **prendre le contrôle** de l'avion. Cela pourrait se traduire par un **changement de trajectoire ou d'altitude** de l'avion, ou encore par un arrêt brutal des moteurs.
+
+- **Vol de données sensibles** : Les pirates informatiques pourraient également s'infiltrer dans les **systèmes de stockage de données** de l'avion et voler des **informations sensibles** sur les **passagers**, les **équipages** ou les plans de vol.
+
+
+## __Problè____
