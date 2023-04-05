@@ -11,12 +11,8 @@
             "id": "d3b16b93c2ec923c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web_hacking/Authentification-Bypass.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_hacking/Authentification-Bypass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web_hacking/Authentification-Bypass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "web_hacking/Authentification-Bypass.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,6 +158,10 @@
   },
   "active": "d3b16b93c2ec923c",
   "lastOpenFiles": [
+    "web_hacking/XSS.md",
+    "cryptographie/Hash.md",
+    "cryptographie/Encryption_Chiffrement.md",
+    "web_hacking/Authentification-Bypass.md",
     "system/Reverse_Shell.md",
     "OSINT/Osint-Utils.md",
     "OSINT/Enumeration_des_sous_domaines.md",
@@ -183,18 +179,14 @@
     "Forensic/Digital Forensic.md",
     "misc/VPN.md",
     "misc/Email.md",
-    "web_hacking/XSS.md",
     "web_hacking/Bypass_File_upload_filters.md",
-    "web_hacking/Authentification-Bypass.md",
     "network/Protocoles_Serveur.md",
     "network/NMAP-TCP_UDP_Port_Scan.md",
     "network/NMAP-Post_Port_Scan.md",
-    "cryptographie/Encryption_Chiffrement.md",
     "Forensic/Windows Register.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
-    "conflict-files-obsidian-git.md",
     "assets/imgs/basics/1673300469140.jpg",
     "assets/imgs/basics/1673300469140.jpg.crdownload",
     "assets/imgs/basics/mindmap_pentest.png",
