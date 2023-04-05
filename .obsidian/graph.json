@@ -36,10 +36,24 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Forensic",
       "color": {
         "a": 1,
         "rgb": 13652704
+      }
+    },
+    {
+      "query": "path:network",
+      "color": {
+        "a": 1,
+        "rgb": 11136
+      }
+    },
+    {
+      "query": "path:system",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
