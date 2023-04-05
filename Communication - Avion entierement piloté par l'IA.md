@@ -1,6 +1,6 @@
 
-Scénario :
-Nous faisons partie des 1000 experts qui souhaite que l'IA s'arrête pendant 6 mois.
+*Scénario :
+Nous faisons partie des 1000 experts qui souhaite que l'IA s'arrête pendant 6 mois.*
 
 ## __Cyber attaque__
 
@@ -26,3 +26,6 @@ En fin de compte, la question de la responsabilité juridique en cas d'accident 
 
 ## __Pertes d'Emploi__
 
+L'utilisation d'un avion entièrement piloté par une intelligence artificielle pourrait potentiellement entraîner des **perturbations importantes** dans l'**emploi** dans **l'industrie de l'aviation**.
+
+Tout d'abord, cela pourrait entraîner une réduction du nombre de pilotes d'avion nécessaires, pour rappelle il y a plus de 8.500 pilotes d'avion de ligne en france. Les compagnies aériennes pourraient être tentées de remplacer les pilotes humains par des avions entièrement autonomes pour économiser des coûts et améliorer l'efficacité. Cela pourrait avoir un impact direct sur les emplois des pilotes, qui pourraient être remplacés par des ingénieurs en informatique ou des techniciens spécialisés dans l'entretien de l'IA.
