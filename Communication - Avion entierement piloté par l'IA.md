@@ -41,4 +41,8 @@ Le principal risque est que l'IA pourrait ne pas être capable de **faire face �
 
 Par exemple, si un avion rencontre des *conditions météorologiques extrêmes*, un *problème technique inattendu* ou un *incident de sécurité*, l'IA pourrait ne **pas être en mesure de réagir correctement**.
 
-De plus, les programmes informatiques peuvent contenir des erreurs ou des bogues qui pourraient entraîner des accidents. Même les tests les plus rigoureux ne peuvent garantir que l'IA fonctionnera parfaitement dans toutes les situations possibles. Il y a toujours une possibilité d'erreurs de programmation qui pourraient avoir des conséquences catastrophiques en termes de sécurité des passagers et des membres d'équipage.
+De plus, les programmes informatiques peuvent contenir des **erreurs ou des bugs** qui pourraient **entraîner des accidents**. Même les tests les plus rigoureux ne peuvent garantir que l'IA fonctionnera parfaitement dans toutes les situations possibles. Il y a **toujours une possibilité d'erreurs de programmation** qui pourraient avoir des **conséquences catastrophiques** en termes de sécurité des passagers et des membres d'équipage.
+
+
+## __Capacité de décision__
+
