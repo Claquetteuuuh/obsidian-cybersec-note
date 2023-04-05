@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d52999f973ca97b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communication - Avion entierement piloté par l'IA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "Communication - Avion entierement piloté par l'IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "Communication - Avion entierement piloté par l'IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Comptes.md"
+                "file": "Communication - Avion entierement piloté par l'IA.md"
               }
             }
           },
@@ -177,10 +189,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d212cc1d1ecf5387",
+  "active": "3d52999f973ca97b",
   "lastOpenFiles": [
-    "OSINT/Osint-Utils.md",
     "misc/Comptes.md",
+    "Communication - Avion entierement piloté par l'IA.md",
+    "OSINT/Osint-Utils.md",
     "misc/Email.md",
     "misc/VPN.md",
     "Forensic/Windows Register.md",
