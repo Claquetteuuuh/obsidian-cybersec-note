@@ -35,4 +35,5 @@ Tout d'abord, cela pourrait entraîner une **réduction du nombre de pilotes d'a
 
 ## __Risque d'accident__
 
-L'utilisation d'un avion entièrement piloté par une intelligence artificielle comporte **des risques importants en termes de sécurité**. Tout comme les accidents Tesla, il y a des risques potentiels d'accidents causés par des défaillances de l'IA ou des erreurs de programmation.
+L'utilisation d'un avion entièrement piloté par une intelligence artificielle comporte **des risques importants en termes de sécurité**. Tout comme les **accidents des Tesla**, il y a des risques potentiels d'accidents causés par des **défaillances de l'IA** ou des **erreurs de programmation**.
+
