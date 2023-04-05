@@ -46,3 +46,5 @@ De plus, les programmes informatiques peuvent contenir des **erreurs ou des bugs
 
 ## __Capacité de décision__
 
+L'un des **défis les plus importants** dans la conception d'un avion entièrement piloté par une intelligence artificielle est de s'assurer que l'IA est **capable de prendre des décisions complexes** en temps réel, en fonction de **diverses situations et de nombreux facteurs**. Cela soulève des questions sur la capacité de l'IA à faire face à des situations imprévues et à **prendre des décisions appropriées**.
+
