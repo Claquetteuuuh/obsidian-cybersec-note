@@ -18,4 +18,7 @@ Tout d'abord, il est important de noter que la responsabilité juridique pourrai
 
 En outre, les **lois** et les **réglementations** **varient selon les pays**. Les règles régissant la responsabilité juridique pourraient donc être **différentes selon l'endroit** où l'accident se produit et les parties impliquées.
 
-En fin de compte, la question de la responsabilité juridique en cas d'accident d'un avion entièrement piloté par une intelligence artificielle **reste complexe** et doit être **examinée au cas par cas**. Cel
+En fin de compte, la question de la responsabilité juridique en cas d'accident d'un avion entièrement piloté par une intelligence artificielle **reste complexe** et doit être **examinée au cas par cas**, cela **augmentera encore le temps de traitement des affaires**, malgré le fait que ce sont déjà des temps très long.
+
+
+## 
