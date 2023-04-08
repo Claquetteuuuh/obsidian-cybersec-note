@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "93ffd1aac99d7a2d",
+        "id": "a41345b9dd21daec",
         "type": "tabs",
         "children": [
           {
-            "id": "62fb0c963dd24299",
+            "id": "cac3371cf73817ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploit/Metasploit_Msfvenom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d212cc1d1ecf5387",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/Comptes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploit/Metasploit_Msfvenom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploit/Metasploit_Msfvenom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Exploit/Metasploit_Msfvenom.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,12 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62fb0c963dd24299",
+  "active": "cac3371cf73817ec",
   "lastOpenFiles": [
-    "Exploit/Metasploit-use_modules.md",
     "misc/Comptes.md",
-    "misc/Email.md",
     "Exploit/Metasploit_Msfvenom.md",
+    "Exploit/Metasploit-use_modules.md",
+    "misc/Email.md",
     "Exploit/Metasploit_scan.md",
     "Communication - Avion entierement piloté par l'IA.md",
     "OSINT/Osint-Utils.md",
