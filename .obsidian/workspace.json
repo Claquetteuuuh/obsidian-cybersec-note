@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,7 +164,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19b4ff070db0582e",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
     "misc/Comptes.md",
     "Exploit/Metasploit_Msfvenom.md",
