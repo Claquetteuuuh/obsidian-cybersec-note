@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "188b4bc26fac9394",
+        "id": "93ffd1aac99d7a2d",
         "type": "tabs",
         "children": [
           {
-            "id": "d3b16b93c2ec923c",
+            "id": "62fb0c963dd24299",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "Exploit/Metasploit-use_modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d212cc1d1ecf5387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exploit/Metasploit_scan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "Exploit/Metasploit_scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "Exploit/Metasploit_scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Comptes.md"
+                "file": "Exploit/Metasploit_scan.md"
               }
             }
           },
@@ -164,43 +177,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3b16b93c2ec923c",
+  "active": "d212cc1d1ecf5387",
   "lastOpenFiles": [
-    "misc/VPN.md",
-    "OSINT/Osint-Utils.md",
-    "misc/Comptes.md",
-    "web_hacking/XSS.md",
-    "cryptographie/Hash.md",
-    "cryptographie/Encryption_Chiffrement.md",
-    "web_hacking/Authentification-Bypass.md",
-    "system/Reverse_Shell.md",
-    "OSINT/Enumeration_des_sous_domaines.md",
-    "OSINT/Decouvertes_du_contenu.md",
-    "network/NMAP-Advanced_Port_Scan.md",
-    "network/Network.md",
-    "network/DNS-Domain_Name_System.md",
+    "Communication - Avion entierement piloté par l'IA.md",
     "Exploit/Metasploit_scan.md",
-    "Exploit/Metasploit-use_modules.md",
-    "Exploit/Metasploit-Modules.md",
-    "Exploit/Metasploit-msfconsole.md",
-    "network/NMAP-Host_active_directory.md",
-    "Pentest_Notion_de_base.md",
-    "Forensic/Digital Forensic.md",
+    "misc/Comptes.md",
+    "OSINT/Osint-Utils.md",
     "misc/Email.md",
-    "web_hacking/Bypass_File_upload_filters.md",
-    "network/Protocoles_Serveur.md",
-    "network/NMAP-TCP_UDP_Port_Scan.md",
-    "network/NMAP-Post_Port_Scan.md",
+    "misc/VPN.md",
     "Forensic/Windows Register.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
+    "Forensic/Digital Forensic.md",
+    "Exploit/Metasploit-use_modules.md",
     "Forensic",
-    "assets/imgs/basics/1673300469140.jpg",
-    "assets/imgs/basics/1673300469140.jpg.crdownload",
-    "assets/imgs/basics/mindmap_pentest.png",
-    "assets/imgs/basics/mindmap_pentest.png.crdownload",
-    "OSINT.zip",
-    "Excalidraw",
+    "app.netlas.io.md",
+    "Exploit/Metasploit-msfconsole.md",
+    "Exploit/Metasploit-Modules.md",
+    "Pentest_Notion_de_base.md",
+    "web_hacking/Bypass_File_upload_filters.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
@@ -208,10 +203,28 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number4.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number2.png",
+    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
+    "Exploit/Metasploit_Modules.md",
+    "Exploit/Metasploit_MSFCONSOLE.md",
     "Exploit",
+    "conflict-files-obsidian-git.md",
+    "OSINT/Decouvertes_du_contenu.md",
+    "OSINT/Enumeration_des_sous_domaines.md",
+    "Nouveau document texte.txt",
+    "[[Decouvertes_du_contenu]].md",
+    "web_hacking/Authentification-Bypass.md",
+    "obsidian-cybersec-note",
+    "cryptographie/Hash.md",
+    "cryptographie/Encryption_Chiffrement.md",
+    "network/Protocoles_Serveur.md",
+    "network/NMAP-TCP_UDP_Port_Scan.md",
+    "network/NMAP-Post_Port_Scan.md",
+    "assets/imgs/basics",
+    "Social_engenering",
     "Untitled.canvas"
   ]
 }
