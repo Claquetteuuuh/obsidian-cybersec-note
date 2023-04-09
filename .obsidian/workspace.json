@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a41345b9dd21daec",
+        "id": "87bed9896dff04da",
         "type": "tabs",
         "children": [
           {
-            "id": "cac3371cf73817ec",
+            "id": "1d60818392fdf7cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/Comptes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Comptes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Comptes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "misc/Comptes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,11 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cac3371cf73817ec",
+  "active": "1d60818392fdf7cf",
   "lastOpenFiles": [
+    "misc/Comptes.md",
     "misc/Email.md",
     "Forensic/Digital Forensic.md",
-    "misc/Comptes.md",
     "Exploit/Metasploit_Msfvenom.md",
     "Exploit/Metasploit-use_modules.md",
     "Exploit/Metasploit_scan.md",
