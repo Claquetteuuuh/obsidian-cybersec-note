@@ -7,4 +7,8 @@ https://tryhackme.com/room/picklerick
 
 Observer le code source
 
-#### 2- 
+#### 2- Trouver les routes
+
+[[Decouvertes_du_contenu]]
+
+#### 4- Trouver un
