@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pickle rick.md",
+                "file": "cryptographie/Hash.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pickle rick.md",
+                "file": "cryptographie/Hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pickle rick.md",
+                "file": "cryptographie/Hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pickle rick.md"
+                "file": "cryptographie/Hash.md"
               }
             }
           },
@@ -166,12 +166,13 @@
   },
   "active": "01ed3ebe815d78e5",
   "lastOpenFiles": [
+    "cryptographie/Encryption_Chiffrement.md",
+    "pickle rick.md",
     "OSINT/Decouvertes_du_contenu.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "web_hacking/Authentification-Bypass.md",
     "web_hacking/XSS.md",
     "Pentest_Notion_de_base.md",
-    "pickle rick.md",
     "system/Shell.md",
     "system/Socat.md",
     "assets/imgs/system/shell-non-interactif.png",
@@ -203,7 +204,6 @@
     "Hacking physique",
     "Forensic/Digital Forensic.md",
     "misc/Comptes.md",
-    "misc/Email.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
