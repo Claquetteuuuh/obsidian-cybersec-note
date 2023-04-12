@@ -113,4 +113,9 @@ Videos
 ### Interactive shell
 
 Un shell interactif est un shell ou une action utilisateur est requise. 
-![[Pasted image 20230412141954.png]]
+
+![[shell-interactif.png]]
+
+Ici, on peut utiliser la commande ssh car on peut répondre à l'interaction.
+
+### Non  
