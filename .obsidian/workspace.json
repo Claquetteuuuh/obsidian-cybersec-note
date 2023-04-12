@@ -11,8 +11,12 @@
             "id": "44fa1c72be70e386",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "network/NMAP-TCP_UDP_Port_Scan.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "network/NMAP-TCP_UDP_Port_Scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "network/NMAP-TCP_UDP_Port_Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "network/NMAP-TCP_UDP_Port_Scan.md"
+              }
             }
           },
           {
@@ -158,6 +166,11 @@
   },
   "active": "44fa1c72be70e386",
   "lastOpenFiles": [
+    "network/NMAP-Post_Port_Scan.md",
+    "network/NMAP-Host_active_directory.md",
+    "network/NMAP-Advanced_Port_Scan.md",
+    "network/Network.md",
+    "network/Protocoles_Serveur.md",
     "Pentest_Notion_de_base.md",
     "OSINT/Enumeration_des_sous_domaines.md",
     "OSINT/Decouvertes_du_contenu.md",
@@ -166,7 +179,6 @@
     "Exploit/Metasploit_Msfvenom.md",
     "Exploit/Metasploit-Modules.md",
     "system/Shell.md",
-    "network/Network.md",
     "web_hacking/Authentification-Bypass.md",
     "fuff.md",
     "Hacking physique/Capteur.md",
@@ -188,13 +200,9 @@
     "cryptographie/Hash.md",
     "Exploit/Metasploit-use_modules.md",
     "Exploit/Metasploit_scan.md",
-    "Communication - Avion entierement piloté par l'IA.md",
-    "Forensic/Windows Register.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
-    "app.netlas.io.md",
-    "Exploit/Metasploit-msfconsole.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
