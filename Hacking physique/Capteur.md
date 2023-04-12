@@ -21,7 +21,7 @@ Il faut bien respecter le branchement sinon on pourrai endomager le matériel.
 | NSS         | 24 - GPIO7  |
 | IRQ         | -            |
 
-![[Drawing 2023-04-11 16.55.21.excalidraw]]
+![[schema-RPi]]
 
 
 ## **Software**

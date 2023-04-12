@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7764b9a987bc10",
+        "id": "57de17dcf9fddba6",
         "type": "tabs",
         "children": [
           {
-            "id": "dd81d53a395ee459",
+            "id": "fd73bb69853216a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/Excalidraw/Drawing 2023-04-11 16.55.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "688e576115f2e4a2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/imgs/physical/MFRC522/schema-pin.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Excalidraw/Drawing 2023-04-11 16.55.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Excalidraw/Drawing 2023-04-11 16.55.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/Excalidraw/Drawing 2023-04-11 16.55.21.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,13 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "fd73bb69853216a5",
   "lastOpenFiles": [
+    "fuff.md",
+    "Hacking physique/Capteur.md",
+    "assets/Excalidraw/schema-RPi.md",
     "assets/imgs/physical/MFRC522/interface2.png",
-    "assets/Excalidraw/Drawing 2023-04-11 16.55.21.excalidraw.md",
     "assets/imgs/physical/MFRC522/interface1.png",
     "assets/imgs/physical/MFRC522/mode-emploi.png",
-    "Hacking physique/Capteur.md",
     "system/Shell.md",
     "assets/imgs/physical/MFRC522/schema-pin.png",
     "assets/imgs/physical/MFRC522/interface3.png",
