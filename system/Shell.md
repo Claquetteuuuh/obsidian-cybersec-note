@@ -150,7 +150,8 @@ Cela rendra notre shell **plus beau** mais les touches comme les flèches et les
 
 Pour acceder aux **commandes de termes** comme `clear`, on doit executer la commande **`export TERM=xterm`**.
 
-#### 4- Acces aux touches
+#### 3- Acces aux touches
 
 Pour retirer les problèmes principaux, on va d'abord mettre notre **shell en arrière plan** en utilisant ***CTRL + Z***.
-Une fois dans notre terminal on va executer la commande **`stty raw -echo; fg`** qui va donner accès aux touches et à l'auto-completion
+**Une fois dans notre terminal** on va executer la commande **`stty raw -echo; fg`** qui va **désactiver notre propre echo** et donc donner accès aux touches et à l'auto-completion puis remettre en premier plan notre shell.
+
