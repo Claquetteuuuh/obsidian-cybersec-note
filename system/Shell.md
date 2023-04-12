@@ -193,4 +193,4 @@ speed 38400 baud; rows 30; columns 120; line = 0;
 
 On peut ici voir les attributs **rows** et **columns**.
 
-On va e
+On va ensuite régler notre shell avec ces attributs. Pour cela on va utiliser dans notre reverse shell les commandes **`stty rows <number>`** et **`stty cols <number>`**
