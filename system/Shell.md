@@ -143,3 +143,5 @@ Comme python est installé dans la plupart des machines on peut l'utiliser pour 
 
 #### 1- Embélissement
 
+Une fois dans notre shell la première commande à executer est **`python -c 'import pty;pty.spawn("/bin/bash")'`**.
+Cela rendra notre shell plus beau mais les touches comme les flèches et les tabulations ne nous serront toujours pas accessible, tout comme le problème du
