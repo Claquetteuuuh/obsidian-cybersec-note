@@ -39,4 +39,5 @@ Un **reverse shell** est ce qui se produit quand une cible **éxécute un code q
 
 ### Bind shell
 
-Un blind shell est ce qui se produit quand une cible va démarrer un listener attaché à un shell. Ce port est alors ouvert et on peut s'y connecter et obtenir l'execution du shell. L'avantage est qu'on a aucune configuration à faire sur notre réseau mais il peut être empeché par des firewalls.
+Un **blind shell** est ce qui se produit quand une cible va **démarrer un listener** attaché à un shell. Ce **port** est alors **ouvert** et on peut s'y connecter et obtenir l'execution du shell. L'avantage est qu'**on a aucune configuration à faire sur notre réseau** mais il peut être **empeché par des firewalls**.
+
