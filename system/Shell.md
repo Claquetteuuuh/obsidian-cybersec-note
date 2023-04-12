@@ -13,7 +13,8 @@ Pour mettre en place des reverses shells, on a une mutltitude d'outils disponibl
 
 **Socat** peut faire **tous ce que Netcat peut faire** mais aussi **beaucoup d'autres choses**. Les shells socat sont **plus stable** que les shells Netcat.
 
-Les 2 problèmes de socat comparé à netcat sont :
-- La syntaxe est plus difficile
-- Netcat est installé sur pratiquement toutes les distributions Linux par défaut. Socat est très rarement installé par défaut.
+Les 2 problèmes de socat comparé à Netcat sont :
+- La syntaxe est **plus difficile**
+- Netcat est installé sur pratiquement toutes les distributions Linux par défaut. Socat est **très rarement installé** par défaut.
 
+###
