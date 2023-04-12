@@ -39,3 +39,4 @@ Un **reverse shell** est ce qui se produit quand une cible **éxécute un code q
 
 ### Bind shell
 
+Un blind shell est ce qui se produit quand une cible va démarrer un listener attaché à un shell. 
