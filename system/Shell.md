@@ -152,7 +152,7 @@ whoami
 root
 
 python -c 'import pty;pty.spawn("/bin/bash")'
-root@raspberrypi:/home/thomas#
+root@raspberrypi:/home/user#
 ```
 
 #### 2- Commande de terme
@@ -160,7 +160,7 @@ root@raspberrypi:/home/thomas#
 Pour acceder aux **commandes de termes** comme `clear`, on doit executer la commande **`export TERM=xterm`**.
 
 ```shell
-root@raspberrypi:/home/thomas# export TERM=xterm
+root@raspberrypi:/home/user# export TERM=xterm
 export TERM=xterm
 ```
 
@@ -170,5 +170,11 @@ Pour retirer les problèmes principaux, on va d'abord mettre notre **shell en ar
 **Une fois dans notre terminal** on va executer la commande **`stty raw -echo; fg`** qui va **désactiver notre propre echo** et donc **donner accès aux touches et à l'auto-completion** puis remettre en premier plan notre shell.
 
 ```shell
+root@raspberrypi:/home/user# ^Z
+[1]+  Stopped                 nc 192.168.1.104 4433
+user@ip:~$ stty raw -echo; fg
+nc 192.168.1.104 4433
 
+root@raspberrypi:/home/thomas# ^C
+root@raspberrypi:/home/thomas#
 ```
