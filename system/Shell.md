@@ -185,3 +185,12 @@ root@raspberrypi:/home/user#
 Pour **regler la taille du terminal** on va utiliser **`stty`**.
 
 D'abord il faut **connaitre la taille de notre vrai terminal**. Pour cela il faut **ouvrir un autre terminal** et effectuer la commande **`stty -a`**.
+
+```shell
+claquetteuuuh@DESKTOP-PC1BC1G:~$ stty -a
+speed 38400 baud; rows 30; columns 120; line = 0;
+```
+
+On peut ici voir les attributs **rows** et **columns**.
+
+On va e
