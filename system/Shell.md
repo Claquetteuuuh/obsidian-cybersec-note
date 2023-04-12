@@ -110,4 +110,7 @@ Videos
 ```
 **Connection au port**.
 
-### Interacti
+### Interactive shell
+
+Un shell interactif est un shell ou une action utilisateur est requise. 
+![[Pasted image 20230412141954.png]]

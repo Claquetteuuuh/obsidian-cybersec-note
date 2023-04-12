@@ -164,8 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a046e74e9808f8e",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "assets/imgs/system",
+    "Pasted image 20230412141954.png",
     "system/Reverse_Shell.md",
     "network/Protocoles_Serveur.md",
     "network/Network.md",
@@ -199,14 +201,12 @@
     "misc/VPN.md",
     "cryptographie/Encryption_Chiffrement.md",
     "cryptographie/Hash.md",
-    "Exploit/Metasploit-use_modules.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
