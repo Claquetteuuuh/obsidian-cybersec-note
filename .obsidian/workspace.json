@@ -23,12 +23,8 @@
             "id": "83e203b74cef157f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/Socat.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Socat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Socat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "system/Socat.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,8 +171,8 @@
   },
   "active": "83e203b74cef157f",
   "lastOpenFiles": [
-    "system/Shell.md",
     "system/Socat.md",
+    "system/Shell.md",
     "assets/imgs/system/shell-non-interactif.png",
     "Pasted image 20230412142136.png",
     "assets/imgs/system",
