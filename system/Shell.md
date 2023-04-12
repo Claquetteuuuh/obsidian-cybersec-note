@@ -34,7 +34,7 @@ On peut **[créer des reverses shell pour des langages de programation en partic
 
 ### Reverse shell
 
-Un **reverse shell** est ce qui se produit quand une cible **éxécute un code qui connecte un shell à notre machine**. L'avantage d'un reverse shell est qu'on **contourne les règles des firewalls**, cependant le problème est qu'on est obligé de notre coté de **configurer notre réseau pour accepter ce shell**.
+Un **reverse shell** est ce qui se produit quand une cible **éxécute un code qui connecte un shell à notre machine** (`/bin/bash` sur linux et `cmd.exe` sur windows). L'avantage d'un reverse shell est qu'on **contourne les règles des firewalls**, cependant le problème est qu'on est obligé de notre coté de **configurer notre réseau pour accepter ce shell**.
 
 Notre machine
 
@@ -86,4 +86,26 @@ Ncat: Listening on 0.0.0.0:4433
 Ncat: Connection from 192.168.1.100.
 Ncat: Connection from 192.168.1.100:57085.
 ```
-Lancement du serveur netcat.
+**Lancement du serveur netcat.**
+
+Notre machine
+
+```shell
+claquetteuuuh@DESKTOP-PC1BC1G:~$ nc 192.168.1.104 4433
+ls
+Bookshelf
+Desktop
+Documents
+Downloads
+Music
+Pictures
+pi-rfid
+prog.py
+Public
+script.py
+script.py.save
+Templates
+Videos
+
+```
+Connection au port.
