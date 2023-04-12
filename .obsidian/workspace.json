@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pickle rick.md",
+                "file": "OSINT/Decouvertes_du_contenu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pickle rick.md",
+                "file": "OSINT/Decouvertes_du_contenu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pickle rick.md",
+                "file": "OSINT/Decouvertes_du_contenu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pickle rick.md"
+                "file": "OSINT/Decouvertes_du_contenu.md"
               }
             }
           },
@@ -166,9 +166,13 @@
   },
   "active": "01ed3ebe815d78e5",
   "lastOpenFiles": [
+    "web_hacking/Bypass_File_upload_filters.md",
+    "web_hacking/Authentification-Bypass.md",
+    "web_hacking/XSS.md",
+    "Pentest_Notion_de_base.md",
+    "pickle rick.md",
     "system/Shell.md",
     "OSINT/Decouvertes_du_contenu.md",
-    "pickle rick.md",
     "system/Socat.md",
     "assets/imgs/system/shell-non-interactif.png",
     "Pasted image 20230412142136.png",
@@ -181,13 +185,11 @@
     "network/NMAP-Post_Port_Scan.md",
     "network/NMAP-Host_active_directory.md",
     "network/NMAP-Advanced_Port_Scan.md",
-    "Pentest_Notion_de_base.md",
     "OSINT/Enumeration_des_sous_domaines.md",
     "OSINT/Osint-Utils.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "Exploit/Metasploit_Msfvenom.md",
     "Exploit/Metasploit-Modules.md",
-    "web_hacking/Authentification-Bypass.md",
     "fuff.md",
     "Hacking physique/Capteur.md",
     "assets/Excalidraw/schema-RPi.md",
@@ -202,8 +204,6 @@
     "Forensic/Digital Forensic.md",
     "misc/Comptes.md",
     "misc/Email.md",
-    "misc/VPN.md",
-    "cryptographie/Encryption_Chiffrement.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
