@@ -193,4 +193,11 @@ speed 38400 baud; rows 30; columns 120; line = 0;
 
 On peut ici voir les attributs **rows** et **columns**.
 
-On va ensuite régler notre shell avec ces attributs. Pour cela on va utiliser dans notre reverse shell les commandes **`stty rows <number>`** et **`stty cols <number>`**
+On va ensuite régler notre shell avec ces attributs. Pour cela on va executer dans notre reverse shell les commandes
+**`stty rows <number>`** et **`stty cols <number>`**
+
+```shell
+root@raspberrypi:/home/thomas# stty rows 30
+root@raspberrypi:/home/thomas# stty columns 120
+root@raspberrypi:/home/thomas# jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+```
