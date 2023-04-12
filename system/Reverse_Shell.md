@@ -21,6 +21,7 @@ On peut ensuite utiliser **`su`** pour se connecter.
 
 ## __Nmap --interactive__
 
+Seulement pour les version 2
 Si notre utilisateur a les permissions d'utiliser nmap, on peut utiliser [nmap pour se connecter en root](https://gtfobins.github.io/gtfobins/nmap/#shell) sur notre shell, pour cela :
 
 ```shell
