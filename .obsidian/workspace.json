@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25743988408ddeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF/Pickle rick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pickle rick.md",
+                "file": "CTF/Pickle rick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pickle rick.md",
+                "file": "CTF/Pickle rick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pickle rick.md"
+                "file": "CTF/Pickle rick.md"
               }
             }
           },
@@ -164,11 +177,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2de1472924baf42",
+  "active": "25743988408ddeb7",
   "lastOpenFiles": [
+    "pickle rick.md",
+    "CTF/Pickle rick.md",
+    "CTF",
     "system/Shell.md",
     "system/Reverse_Shell.md",
-    "pickle rick.md",
     "cryptographie/Hash.md",
     "cryptographie/Encryption_Chiffrement.md",
     "OSINT/Decouvertes_du_contenu.md",
@@ -203,7 +218,6 @@
     "assets/imgs/physical/MFRC522",
     "assets/imgs/physical",
     "Hacking physique",
-    "Forensic/Digital Forensic.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
@@ -211,7 +225,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
-    "Exploit",
     "Untitled.canvas"
   ]
 }
