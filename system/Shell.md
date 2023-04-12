@@ -23,5 +23,5 @@ C'est le module **`exploit/multi/handler`** de metasploit, il a les **mêmes fon
 
 ### Msfvenom
 
-Msfvenom fait aussi partie de msf - metasploit framework 
+Msfvenom fait aussi partie de msf - metasploit framework, mais c'est un outil indépendant. Il est utilisé pour créer des payloads et aussi des reverses shell.
 
