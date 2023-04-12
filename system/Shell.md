@@ -112,17 +112,17 @@ Videos
 
 ### Interactive shell
 
-Un shell interactif est un shell ou une **action utilisateur est requise**. 
+Un **shell interactif** est un shell ou une **action utilisateur est requise**. 
 
 ![[shell-interactif.png]]
 
-Ici, on peut utiliser la commande ssh car on peut répondre à l'interaction.
+Ici, on peut utiliser la commande **ssh** car **on peut répondre à l'interaction**.
 
 ### Non Interactive shell
 
-Un shell non interactif n'offre pas le luxe des shells interactif.
+Un **shell non interactif** n'offre **pas** le luxe des shells *interactif*.
 
 ![[shell-non-interactif.png]]
 
-On peut utiliser la commande whoami car elle n'est pas interactive mais pas la commande ssh.
+On peut utiliser la commande **whoami** car elle **n'est pas interactive** mais **pas la commande ssh**.
 
