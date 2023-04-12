@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "80934c6ea6b8dc29",
+        "id": "aeebad0dd69d713e",
         "type": "tabs",
         "children": [
           {
-            "id": "b54ff3f54db65b83",
+            "id": "44fa1c72be70e386",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT/Enumeration_des_sous_domaines.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Enumeration_des_sous_domaines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Enumeration_des_sous_domaines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OSINT/Enumeration_des_sous_domaines.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,10 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b54ff3f54db65b83",
+  "active": "44fa1c72be70e386",
   "lastOpenFiles": [
-    "OSINT/Decouvertes_du_contenu.md",
+    "Pentest_Notion_de_base.md",
     "OSINT/Enumeration_des_sous_domaines.md",
+    "OSINT/Decouvertes_du_contenu.md",
+    "OSINT/Osint-Utils.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "Exploit/Metasploit_Msfvenom.md",
     "Exploit/Metasploit-Modules.md",
@@ -193,7 +187,6 @@
     "cryptographie/Encryption_Chiffrement.md",
     "cryptographie/Hash.md",
     "Exploit/Metasploit-use_modules.md",
-    "OSINT/Osint-Utils.md",
     "Exploit/Metasploit_scan.md",
     "Communication - Avion entierement piloté par l'IA.md",
     "Forensic/Windows Register.md",
@@ -202,7 +195,6 @@
     "Forensic",
     "app.netlas.io.md",
     "Exploit/Metasploit-msfconsole.md",
-    "Pentest_Notion_de_base.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
