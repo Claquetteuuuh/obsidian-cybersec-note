@@ -21,5 +21,7 @@ Les 2 problèmes de socat comparé à Netcat sont :
 
 C'est le module **`exploit/multi/handler`** de metasploit, il a les **mêmes fonctionnalités** que Netcat ou Socat mais c'est le seul moyen d'intéragir avec un **shell meterpreter** et de gérer des **payloads metasploit**.
 
+### Msfvenom
 
+Msfvenom fait aussi partie de msf - metasploit framework 
 
