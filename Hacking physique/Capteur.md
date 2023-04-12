@@ -32,11 +32,11 @@ On doit effectuer quelques parametrage et téléchargement avant d'écrire notre
 pi@raspberrypi:~ $ sudo raspi-config
 ```
 
-![[Pasted image 20230411173822.png]]
+![[interface1.png]]
 
-![[Pasted image 20230411173842.png]]
+![[interface2.png]]
 
-![[Pasted image 20230411173910.png]]
+![[interface3.png]]
 
 ```shell
 pi@raspberrypi:~ $ sudo reboot
@@ -111,6 +111,6 @@ finally:
 
 - [Scripts](https://pimylifeup.com/raspberry-pi-rfid-rc522/)
 
-- ![[Pasted image 20230411165500.png]]
+- ![[mode-emploi.png]]
 
 - ![[schema-pin.png]]
