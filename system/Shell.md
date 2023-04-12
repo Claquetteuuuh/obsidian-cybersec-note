@@ -11,4 +11,4 @@ Pour mettre en place des reverses shells, on a une mutltitude d'outils disponibl
 
 ### Socat
 
-Socat 
+Socat peut faire tous ce que Netcat est en capacité de faire mais aussi beaucoup d'autres choses. Les shells socat sont plus stable 
