@@ -19,4 +19,4 @@ Les 2 problèmes de socat comparé à Netcat sont :
 
 ### Metasploit multi/handler
 
-C'est le module exploit/multi/handler de metasploit, 
+C'est le module exploit/multi/handler de metasploit, il a les même fonctionnalités que Netcat ou Socat mais c'est le seul moyen d'intéragir avec meterpreter 
