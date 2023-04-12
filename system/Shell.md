@@ -197,7 +197,8 @@ On va ensuite régler notre shell avec ces attributs. Pour cela on va executer d
 **`stty rows <number>`** et **`stty cols <number>`**
 
 ```shell
-root@raspberrypi:/home/thomas# stty rows 30
-root@raspberrypi:/home/thomas# stty columns 120
-root@raspberrypi:/home/thomas# jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+root@raspberrypi:/home/user# stty rows 30
+root@raspberrypi:/home/user# stty columns 120
+root@raspberrypi:/home/user# jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 ```
+
