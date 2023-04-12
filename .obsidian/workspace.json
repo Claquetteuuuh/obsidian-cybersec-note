@@ -11,8 +11,12 @@
             "id": "03d1853fe295bf06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/Shell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/imgs/system/shell-non-interactif.png",
+                "file": "system/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/imgs/system/shell-non-interactif.png",
+                "file": "system/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/imgs/system/shell-non-interactif.png"
+                "file": "system/Shell.md"
               }
             }
           },
@@ -160,10 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "03d1853fe295bf06",
   "lastOpenFiles": [
-    "system/Shell.md",
     "assets/imgs/system/shell-non-interactif.png",
+    "system/Shell.md",
     "Pasted image 20230412142136.png",
     "assets/imgs/system",
     "assets/imgs/system/shell-interactif.png",
