@@ -1,4 +1,4 @@
-Les ports sont utilisé pour savoir si un service écoute ce port ou non.
+Les ports sont utilisé pour savoir si un **[service](Protocoles_Serveur) écoute** ce port ou non.
 
 Il y a 6 états pour les ports :
 
