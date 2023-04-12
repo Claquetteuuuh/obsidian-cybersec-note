@@ -113,4 +113,4 @@ finally:
 
 - ![[Pasted image 20230411165500.png]]
 
-- ![[image.png]]
+- ![[schema-pin.png]]

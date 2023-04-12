@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Shell.md",
+                "file": "Hacking physique/Capteur.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "688e576115f2e4a2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/imgs/physical/MFRC522/schema-pin.png"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Shell.md",
+                "file": "Hacking physique/Capteur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Shell.md",
+                "file": "Hacking physique/Capteur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Shell.md"
+                "file": "Hacking physique/Capteur.md"
               }
             }
           },
@@ -166,11 +176,17 @@
   },
   "active": "3b3aae7675efef97",
   "lastOpenFiles": [
-    "assets/imgs/Untitled",
+    "system/Shell.md",
+    "assets/imgs/physical/MFRC522/schema-pin.png",
     "Hacking physique/Capteur.md",
+    "assets/imgs/physical/MFRC522/Pasted image 20230411173822.png",
+    "assets/imgs/physical/MFRC522/Pasted image 20230411173910.png",
+    "assets/imgs/physical/MFRC522/Pasted image 20230411173842.png",
+    "assets/imgs/physical/MFRC522/Pasted image 20230411165500.png",
+    "assets/imgs/physical/MFRC522",
+    "assets/imgs/physical",
     "Hacking physique",
     "system/Reverse_Shell.md",
-    "system/Shell.md",
     "Forensic/Digital Forensic.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "misc/Comptes.md",
@@ -196,11 +212,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting1.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number4.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number2.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
@@ -210,8 +221,6 @@
     "conflict-files-obsidian-git.md",
     "OSINT/Decouvertes_du_contenu.md",
     "Nouveau document texte.txt",
-    "obsidian-cybersec-note",
-    "assets/imgs/basics",
     "Untitled.canvas"
   ]
 }
