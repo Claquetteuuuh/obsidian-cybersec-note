@@ -135,4 +135,7 @@ Lorsque l'on a un shell sur une machine, **plusieurs problèmes** s'expose :
 - On ne peut **pas utiliser la tabulations**.
 - Un simple **CTRL + C tue tout notre shell**.
 
-Pour pa
+Pour palier ces problèmes on doit le stabiliser.
+
+### Python
+
