@@ -170,4 +170,5 @@ Pour retirer les problèmes principaux, on va d'abord mettre notre **shell en ar
 **Une fois dans notre terminal** on va executer la commande **`stty raw -echo; fg`** qui va **désactiver notre propre echo** et donc **donner accès aux touches et à l'auto-completion** puis remettre en premier plan notre shell.
 
 ```shell
+
 ```
