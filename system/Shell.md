@@ -182,3 +182,6 @@ root@raspberrypi:/home/user#
 
 ### Taille du terminal
 
+Pour regler la taille du terminal on va utiliser **`stty`**.
+
+D'abord i
