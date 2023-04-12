@@ -17,4 +17,6 @@ Les 2 problèmes de socat comparé à Netcat sont :
 - La syntaxe est **plus difficile**
 - Netcat est installé sur pratiquement toutes les distributions Linux par défaut. Socat est **très rarement installé** par défaut.
 
-###
+### Metasploit multi/handler
+
+C'est le module exploit/multi/handler de metasploit, 
