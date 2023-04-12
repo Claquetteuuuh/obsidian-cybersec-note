@@ -139,3 +139,7 @@ Pour palier ces problèmes on doit le stabiliser.
 
 ### Python
 
+Comme python est installé dans la plupart des machines on peut l'utiliser pour stabiliser notre shell.
+
+#### 1- Embélissement
+
