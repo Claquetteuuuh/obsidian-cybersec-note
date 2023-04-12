@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Shell.md",
+                "file": "pickle rick.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Shell.md",
+                "file": "pickle rick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Shell.md",
+                "file": "pickle rick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Shell.md"
+                "file": "pickle rick.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "e2de1472924baf42",
   "lastOpenFiles": [
-    "system/Reverse_Shell.md",
     "system/Shell.md",
+    "system/Reverse_Shell.md",
     "pickle rick.md",
     "cryptographie/Hash.md",
     "cryptographie/Encryption_Chiffrement.md",
