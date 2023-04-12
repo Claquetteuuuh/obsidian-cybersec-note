@@ -179,3 +179,6 @@ root@raspberrypi:/home/user# ^C
 root@raspberrypi:/home/user#
 ```
 
+
+### Taille du terminal
+
