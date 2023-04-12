@@ -11,4 +11,8 @@ Observer le code source
 
 [[Decouvertes_du_contenu]]
 
-#### 4- Trouver un
+#### 3- Trouver le shell
+
+#### 4- Exploiter le shell
+
+[[Reverse_Shell#Python]]
