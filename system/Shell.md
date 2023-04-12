@@ -153,3 +153,4 @@ Pour acceder aux **commandes de termes** comme `clear`, on doit executer la comm
 #### 4- Acces aux touches
 
 Pour retirer les problèmes principaux, on va d'abord mettre notre **shell en arrière plan** en utilisant ***CTRL + Z***.
+Une fois dans notre terminal on va executer la commande **`stty raw -echo; fg`** qui va donner accès aux touches et à l'auto-completion
