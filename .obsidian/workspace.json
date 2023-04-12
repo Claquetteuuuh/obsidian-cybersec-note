@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "57de17dcf9fddba6",
+        "id": "ebe120b9363e2220",
         "type": "tabs",
         "children": [
           {
-            "id": "fd73bb69853216a5",
+            "id": "f72ebd261fcb0961",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/Shell.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "system/Shell.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd73bb69853216a5",
+  "active": "f72ebd261fcb0961",
   "lastOpenFiles": [
+    "Exploit/Metasploit_Msfvenom.md",
+    "system/Shell.md",
     "network/Network.md",
     "web_hacking/Authentification-Bypass.md",
     "fuff.md",
@@ -174,7 +168,6 @@
     "assets/imgs/physical/MFRC522/interface2.png",
     "assets/imgs/physical/MFRC522/interface1.png",
     "assets/imgs/physical/MFRC522/mode-emploi.png",
-    "system/Shell.md",
     "assets/imgs/physical/MFRC522/schema-pin.png",
     "assets/imgs/physical/MFRC522/interface3.png",
     "assets/imgs/physical/MFRC522",
@@ -190,7 +183,6 @@
     "cryptographie/Hash.md",
     "Exploit/Metasploit-use_modules.md",
     "OSINT/Osint-Utils.md",
-    "Exploit/Metasploit_Msfvenom.md",
     "Exploit/Metasploit_scan.md",
     "Communication - Avion entierement piloté par l'IA.md",
     "Forensic/Windows Register.md",
