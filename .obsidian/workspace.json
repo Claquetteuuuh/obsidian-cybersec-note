@@ -166,6 +166,8 @@
   },
   "active": "b54ff3f54db65b83",
   "lastOpenFiles": [
+    "OSINT/Decouvertes_du_contenu.md",
+    "OSINT/Enumeration_des_sous_domaines.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "Exploit/Metasploit_Msfvenom.md",
     "Exploit/Metasploit-Modules.md",
@@ -201,7 +203,6 @@
     "app.netlas.io.md",
     "Exploit/Metasploit-msfconsole.md",
     "Pentest_Notion_de_base.md",
-    "web_hacking/Bypass_File_upload_filters.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
@@ -209,7 +210,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
-    "Exploit/Metasploit_Modules.md",
     "Exploit",
     "Nouveau document texte.txt",
     "Untitled.canvas"

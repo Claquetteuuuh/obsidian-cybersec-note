@@ -1,5 +1,5 @@
 
-Pour **trouver** les noms de domaines, on a plusieurs méthodes : **Brute force, OSINT, Virtual Host**.
+Pour **trouver** les noms de domaines, on a plusieurs méthodes : **[Brute force](Decouvertes_du_contenu##__Automatised), OSINT, Virtual Host**.
 
 ## __OSINT__
 
