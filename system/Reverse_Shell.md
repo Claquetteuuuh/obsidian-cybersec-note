@@ -1,5 +1,5 @@
 
-Un reverse shell est un code à éxécuter sur une machine cible dans le but de pouvoir executer du code shell en elle.
+Un reverse shell est un [[Shell]] entre une machine cible et la notre.
 
 ## __Setup Netcat Listener__
 

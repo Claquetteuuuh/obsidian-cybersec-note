@@ -11,8 +11,12 @@
             "id": "dd81d53a395ee459",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/Shell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/Shell.md"
+              }
             }
           },
           {
@@ -156,8 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "dd81d53a395ee459",
   "lastOpenFiles": [
+    "system/Reverse_Shell.md",
+    "system/Shell.md",
     "Forensic/Digital Forensic.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "misc/Comptes.md",
@@ -199,9 +209,7 @@
     "OSINT/Enumeration_des_sous_domaines.md",
     "Nouveau document texte.txt",
     "[[Decouvertes_du_contenu]].md",
-    "web_hacking/Authentification-Bypass.md",
     "obsidian-cybersec-note",
-    "network/Protocoles_Serveur.md",
     "assets/imgs/basics",
     "Social_engenering",
     "Untitled.canvas"
