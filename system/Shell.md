@@ -127,4 +127,4 @@ Un **shell non interactif** n'offre **pas** le luxe des shells *interactif*.
 On peut utiliser la commande **whoami** car elle **n'est pas interactive** mais **pas la commande ssh**.
 
 
-## __d__
+## __Stabiliser un shell n__
