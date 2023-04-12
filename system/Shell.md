@@ -7,4 +7,4 @@ Pour mettre en place des reverses shells, on a une mutltitude d'outils disponibl
 
 ### Netcat
 
-Netcat peut être utilisé pour effectuer beaucoup de choses comme du banner grabbing pendant des énumérations. Mais l'usage principale qu'on
+Netcat peut être utilisé pour effectuer beaucoup de choses comme du banner grabbing pendant des énumérations. Mais l'usage principale qu'on va en faire 
