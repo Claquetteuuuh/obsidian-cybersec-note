@@ -37,6 +37,8 @@ On peut **[créer des reverses shell pour des langages de programation en partic
 Un **reverse shell** est ce qui se produit quand une cible **éxécute un code qui se connecte à notre machine**. L'avantage d'un reverse shell est qu'on **contourne les règles des firewalls**, cependant le problème est qu'on est obligé de notre coté de **configurer notre réseau pour accepter ce shell**.
 
 
+
+
 ### Bind shell
 
 Un **blind shell** est ce qui se produit quand une cible va **démarrer un listener** attaché à un shell. Ce **port** est alors **ouvert** et on peut s'y connecter et obtenir l'execution du shell. L'avantage est qu'**on a aucune configuration à faire sur notre réseau** mais il peut être **empeché par des firewalls**.
