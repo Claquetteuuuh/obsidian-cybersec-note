@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "761bb668abd90f78",
+        "id": "430d61299b97ee21",
         "type": "tabs",
         "children": [
           {
-            "id": "39bdbc69d5f2c7db",
+            "id": "4178fbc52ab0b494",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hacking physique/Capteur.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking physique/Capteur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking physique/Capteur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hacking physique/Capteur.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39bdbc69d5f2c7db",
+  "active": "4178fbc52ab0b494",
   "lastOpenFiles": [
+    "Hacking physique/Capteur.md",
     "pickle rick.md",
     "CTF/Pickle rick.md",
     "system/Reverse_Shell.md",
@@ -195,7 +188,6 @@
     "Exploit/Metasploit_Msfvenom.md",
     "Exploit/Metasploit-Modules.md",
     "fuff.md",
-    "Hacking physique/Capteur.md",
     "assets/Excalidraw/schema-RPi.md",
     "assets/imgs/physical/MFRC522/interface2.png",
     "assets/imgs/physical/MFRC522/interface1.png",
