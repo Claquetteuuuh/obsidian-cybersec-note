@@ -175,6 +175,7 @@ root@raspberrypi:/home/user# ^Z
 user@ip:~$ stty raw -echo; fg
 nc 192.168.1.104 4433
 
-root@raspberrypi:/home/thomas# ^C
-root@raspberrypi:/home/thomas#
+root@raspberrypi:/home/user# ^C
+root@raspberrypi:/home/user#
 ```
+
