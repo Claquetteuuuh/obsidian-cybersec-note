@@ -129,6 +129,10 @@ On peut utiliser la commande **whoami** car elle **n'est pas interactive** mais 
 
 ## __Stabilisation__
 
-Lorsque l'on a un shell sur une machine, plusieurs problème s'expose :
-- On ne peut pas utiliser les flèches.
-- On ne peut pas 
+Lorsque l'on a un shell sur une machine, **plusieurs problèmes** s'expose :
+
+- On ne peut **pas utiliser les flèches**.
+- On ne peut **pas utiliser la tabulations**.
+- Un simple **CTRL + C tue tout notre shell**.
+
+Pour pa
