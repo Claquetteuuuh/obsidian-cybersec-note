@@ -149,3 +149,7 @@ Cela rendra notre shell plus beau mais les touches comme les flèches et les tab
 #### 2- Commande de terme
 
 Pour acceder au commande de termes comme `clear`, on doit executer la commande **`export TERM=xterm`**.
+
+#### 4- Acces aux touches
+
+Pour retirer les problèmes principaux, on va d'abord mettre notre
