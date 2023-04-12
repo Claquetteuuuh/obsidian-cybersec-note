@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/Pickle rick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/Pickle rick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CTF/Pickle rick.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,8 +158,8 @@
   },
   "active": "3b3aae7675efef97",
   "lastOpenFiles": [
-    "system/Reverse_Shell.md",
     "CTF/Pickle rick.md",
+    "system/Reverse_Shell.md",
     "pickle rick.md",
     "OSINT/Decouvertes_du_contenu.md",
     "CTF",
