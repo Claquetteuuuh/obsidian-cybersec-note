@@ -44,7 +44,7 @@ For more information on Whois status codes, please visit https://icann.org/epp
 La commande **nslookup \<domain\>** permet de récupérer les informations sur les registres d'un domaine. On peut spécifier un type de record à cibler avec l’option **-type=\<record\>**. On peut effectuer les mêmes recherche avec l’outil Dig et la commande **dig \<domain\> \<record\>**.
 
 
-Commande [[nslookup]]
+Commande Nslookup
 
 ```shell
 user@ip$ nslookup -type=MX 
@@ -59,7 +59,7 @@ tryhackme.com   mail exchanger = 10 alt3.aspmx.l.google.com.
 tryhackme.com   mail exchanger = 5 alt2.aspmx.l.google.com.
 ```
 
-Commande [[dig]]
+Commande Dig
 
 ```shell
 user@ip$ dig tryhackme.com MX 
