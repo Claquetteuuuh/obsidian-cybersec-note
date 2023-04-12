@@ -118,4 +118,8 @@ Un shell interactif est un shell ou une action utilisateur est requise.
 
 Ici, on peut utiliser la commande ssh car on peut répondre à l'interaction.
 
-### Non  
+### Non Interactive shell
+
+Un shell non interactif n'offre pas le luxe des shells interactif.
+
+![[shell-non-interactif.png]]

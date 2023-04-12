@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c7bafe760d233397",
+        "id": "4ba0043b83d143c8",
         "type": "tabs",
         "children": [
           {
-            "id": "2a046e74e9808f8e",
+            "id": "03d1853fe295bf06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/Shell.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Shell.md",
+                "file": "assets/imgs/system/shell-non-interactif.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Shell.md",
+                "file": "assets/imgs/system/shell-non-interactif.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Shell.md"
+                "file": "assets/imgs/system/shell-non-interactif.png"
               }
             }
           },
@@ -166,12 +162,14 @@
   },
   "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "system/Shell.md",
+    "assets/imgs/system/shell-non-interactif.png",
+    "Pasted image 20230412142136.png",
     "assets/imgs/system",
     "assets/imgs/system/shell-interactif.png",
     "system/Reverse_Shell.md",
     "network/Protocoles_Serveur.md",
     "network/Network.md",
-    "system/Shell.md",
     "network/NMAP-TCP_UDP_Port_Scan.md",
     "network/NMAP-Post_Port_Scan.md",
     "network/NMAP-Host_active_directory.md",
@@ -205,13 +203,10 @@
     "assets/imgs/forensic",
     "Forensic",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
     "Exploit",
-    "Nouveau document texte.txt",
     "Untitled.canvas"
   ]
 }
