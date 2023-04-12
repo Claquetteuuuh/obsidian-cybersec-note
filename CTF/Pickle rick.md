@@ -16,3 +16,7 @@ Observer le code source
 #### 4- Exploiter le shell
 
 [[Reverse_Shell#Python]]
+
+#### 5- Elever les privileges
+
+#### 6- naviguer dans les fichiers
