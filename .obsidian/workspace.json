@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "aeebad0dd69d713e",
+        "id": "0a49a8a68aa905a9",
         "type": "tabs",
         "children": [
           {
-            "id": "44fa1c72be70e386",
+            "id": "023857f8ea92452a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/Shell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/Shell.md"
+              }
             }
           },
           {
@@ -156,7 +164,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44fa1c72be70e386",
+  "active": "023857f8ea92452a",
   "lastOpenFiles": [
     "network/NMAP-TCP_UDP_Port_Scan.md",
     "network/Protocoles_Serveur.md",
