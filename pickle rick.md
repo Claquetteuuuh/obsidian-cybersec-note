@@ -1,15 +1,15 @@
 
 username : R1ckRul3s
+password : Wubbalubbadubdub
 
 Server: nginx/1.14.0
 
-routes :
+**routes :**
 assets 301
 server-status 403
 robots.txt 200
+/portal.php
 
-
-Wubbalubbadubdub
 
 base64:
 
