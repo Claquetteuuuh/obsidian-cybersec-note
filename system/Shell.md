@@ -11,7 +11,7 @@ Pour mettre en place des reverses shells, on a une mutltitude d'outils disponibl
 
 ### Socat
 
-**Socat** peut faire **tous ce que Netcat peut faire** mais aussi **beaucoup d'autres choses**. Les shells socat sont **plus stable** que les shells Netcat.
+**[Socat](Socat)** peut faire **tous ce que Netcat peut faire** mais aussi **beaucoup d'autres choses**. Les shells socat sont **plus stable** que les shells Netcat.
 
 Les 2 problèmes de socat comparé à Netcat sont :
 - La syntaxe est **plus difficile**
