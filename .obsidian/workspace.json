@@ -11,8 +11,12 @@
             "id": "17ced6d695a59667",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/Shell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/Shell.md"
+              }
             }
           },
           {
@@ -158,6 +166,7 @@
   },
   "active": "17ced6d695a59667",
   "lastOpenFiles": [
+    "system/Socat.md",
     "Pentest_Notion_de_base.md",
     "Hacking physique/Capteur.md",
     "pickle rick.md",
@@ -171,7 +180,6 @@
     "web_hacking/Bypass_File_upload_filters.md",
     "web_hacking/Authentification-Bypass.md",
     "web_hacking/XSS.md",
-    "system/Socat.md",
     "assets/imgs/system/shell-non-interactif.png",
     "Pasted image 20230412142136.png",
     "assets/imgs/system",
