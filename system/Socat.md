@@ -13,3 +13,10 @@ user@ip:~$ socat TCP-L:1345 -
 
 Cette commande est équivalente à faire **`nc -vnlp 1234`**.
 
+#### 2- Connection
+
+Sur la machine cible, on va effectuer la commande :
+
+```shell
+
+```
