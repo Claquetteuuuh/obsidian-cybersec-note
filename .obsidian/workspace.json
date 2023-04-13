@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "Hacking physique/Capteur.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "Hacking physique/Capteur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "Hacking physique/Capteur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Comptes.md"
+                "file": "Hacking physique/Capteur.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "17ced6d695a59667",
   "lastOpenFiles": [
+    "misc/Comptes.md",
     "system/Socat.md",
     "system/Shell.md",
     "Pentest_Notion_de_base.md",
@@ -196,7 +197,6 @@
     "Exploit/Metasploit_Msfvenom.md",
     "Exploit/Metasploit-Modules.md",
     "fuff.md",
-    "assets/Excalidraw/schema-RPi.md",
     "assets/imgs/physical/MFRC522/interface2.png",
     "assets/imgs/physical/MFRC522/interface1.png",
     "assets/imgs/physical/MFRC522/mode-emploi.png",
