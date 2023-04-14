@@ -108,3 +108,5 @@ Fusion des 2 fichiers dans un fichier **shell.pem**.
 ```shell
 user@ip: ~$ socat OPENSSL-LISTEN:<PORT>,cert=shell.pem,verify=0 -
 ```
+
+**verify=0** précise qu'on 
