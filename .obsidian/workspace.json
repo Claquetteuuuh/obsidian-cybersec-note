@@ -11,7 +11,7 @@
             "id": "486314f92dc71133",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -156,7 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "486314f92dc71133",
   "lastOpenFiles": [
     "Exploit/Metasploit_Msfvenom.md",
     "Exploit/Metasploit_scan.md",
