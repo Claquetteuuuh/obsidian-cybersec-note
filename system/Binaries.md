@@ -19,3 +19,13 @@
 
 - https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/python?raw=true
 
+
+### ARM
+
+
+## __Windows__
+
+## x86
+
+#### Nmap
+
