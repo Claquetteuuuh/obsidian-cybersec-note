@@ -93,5 +93,6 @@ La **syntaxe** pour les shells encrypté n'est pas différente à l'exception qu
 user@ip: ~$ openssl req --newkey rsa:2048 -nodes -keyout shell.key -x509 -days 362 -out shell.crt
 ```
 
-Crée une clé RSA de 2048 bits dans un fichier shell.key et un certificat correspondant 
+Crée une **clé RSA de 2048 bits** dans un fichier **shell.key** et un **certificat correspondant** valide pendant 362 jours dans **shell.crt**.
 
+#### 2- Fusion des clé et certificat
