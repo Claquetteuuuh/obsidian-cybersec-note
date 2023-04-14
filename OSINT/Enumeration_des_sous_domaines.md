@@ -63,3 +63,4 @@ user@machine$ ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -
 
 Hackertarget est un modules de [recon-ng](https://hackertarget.com/recon-ng-tutorial/).
 
+Une fois le module chargé avec la commande **`modules load hackertarget`**, 
