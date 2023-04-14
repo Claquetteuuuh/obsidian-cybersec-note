@@ -27,5 +27,11 @@
 
 ## x86
 
+#### Ncat
+
+- https://github.com/andrew-d/static-binaries/blob/master/binaries/windows/x86/ncat.exe?raw=true
+
 #### Nmap
+
+- https://github.com/andrew-d/static-binaries/blob/master/binaries/windows/x86/nmap.exe?raw=true
 
