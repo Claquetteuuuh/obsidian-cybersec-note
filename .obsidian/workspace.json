@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f6fc826afe9b93a6",
+        "id": "d56ce7756c80d4a0",
         "type": "tabs",
         "children": [
           {
-            "id": "7ec657f4f92e078c",
+            "id": "486314f92dc71133",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploit/Metasploit_Msfvenom.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploit/Metasploit_Msfvenom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploit/Metasploit_Msfvenom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Exploit/Metasploit_Msfvenom.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,10 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ec657f4f92e078c",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
-    "Exploit/Metasploit_scan.md",
     "Exploit/Metasploit_Msfvenom.md",
+    "Exploit/Metasploit_scan.md",
     "system/Msfvenom.md",
     "system/Socat.md",
     "system/Shell.md",
