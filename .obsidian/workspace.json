@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f4345e91417282b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/Binaries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "327991b6d45532e8",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Utils.md",
+                "file": "system/Binaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Utils.md",
+                "file": "system/Binaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Utils.md"
+                "file": "system/Binaries.md"
               }
             }
           },
@@ -176,11 +189,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dee46296f98147f5",
+  "active": "f4345e91417282b4",
   "lastOpenFiles": [
+    "misc/Utils.md",
+    "system/Binaries.md",
     "system/Socat.md",
     "system/Shell.md",
-    "misc/Utils.md",
     "system/Reverse_Shell.md",
     "cryptographie/Encryption_Chiffrement.md",
     "OSINT/Decouvertes_du_contenu.md",
@@ -208,7 +222,6 @@
     "OSINT/Osint-Utils.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "Exploit/Metasploit_Msfvenom.md",
-    "Exploit/Metasploit-Modules.md",
     "assets/imgs/physical/MFRC522/interface2.png",
     "assets/imgs/physical/MFRC522/interface1.png",
     "assets/imgs/physical/MFRC522/mode-emploi.png",
