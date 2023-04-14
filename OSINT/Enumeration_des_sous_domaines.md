@@ -61,4 +61,4 @@ user@machine$ ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -
 
 ## __HackerTarget__
 
-Hackertarget est un modules de [recon-ng](https://hackertarget.com/recon-ng-tutorial/).
+[Hackertarget](Network) est un modules de recon-ng qui permet d'énumérer les sous domaines d'un domaine.
