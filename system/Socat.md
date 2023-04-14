@@ -109,4 +109,6 @@ Fusion des 2 fichiers dans un fichier **shell.pem**.
 user@ip: ~$ socat OPENSSL-LISTEN:<PORT>,cert=shell.pem,verify=0 -
 ```
 
-**verify=0** précise qu'on 
+**verify=0** indique qu'on ne veut **pas valider** que notre certificat a été signé par une **autorité reconnue**.
+
+#### 4è-
