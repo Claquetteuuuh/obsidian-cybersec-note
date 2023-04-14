@@ -11,8 +11,12 @@
             "id": "67a255ac86115674",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/Reverse_Shell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/Reverse_Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/Reverse_Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/Reverse_Shell.md"
+              }
             }
           },
           {
@@ -156,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "67a255ac86115674",
   "lastOpenFiles": [
+    "system/Reverse_Shell.md",
     "system/Reverse_Shell.md",
     "system/Shell.md",
     "system/Socat.md",
@@ -184,7 +193,6 @@
     "CTF/Pickle rick.md",
     "CTF",
     "cryptographie/Hash.md",
-    "web_hacking/Bypass_File_upload_filters.md",
     "assets/imgs/system/shell-non-interactif.png",
     "Pasted image 20230412142136.png",
     "assets/imgs/system",
