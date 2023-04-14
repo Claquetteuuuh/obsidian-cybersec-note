@@ -11,12 +11,8 @@
             "id": "67a255ac86115674",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/Shell.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "system/Shell.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,9 +158,9 @@
   },
   "active": "67a255ac86115674",
   "lastOpenFiles": [
-    "system/Socat.md",
-    "system/Shell.md",
     "system/Reverse_Shell.md",
+    "system/Shell.md",
+    "system/Socat.md",
     "system/Binaries.md",
     "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Osint-Utils.md",
