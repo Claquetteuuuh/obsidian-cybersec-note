@@ -87,6 +87,8 @@ Les **shells chiffré** sont très utile pour **bypass les IDS** car ils ne peuv
 
 La **syntaxe** pour les shells encrypté n'est pas différente à l'exception que le mot clé **TCP** est remplacé par **OPENSSL**.
 
+Notez qu'on peut combiner cette syntaxe avec celle de [[Socat#__Stable Reverse shell__]]
+
 #### 1- Générer le certificat -- Notre machine
 
 ```shell
