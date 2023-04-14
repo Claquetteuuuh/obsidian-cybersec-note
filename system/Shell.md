@@ -7,7 +7,7 @@ Pour mettre en place des reverses shells, on a une mutltitude d'outils disponibl
 
 ### Netcat
 
-**[Netcat](Binaries## __Linux__###x86-64####Ncat)** peut être utilisé pour effectuer beaucoup de choses comme du **banner grabbing** pendant des énumérations. Mais l'usage principale qu'on va en faire est de **pouvoir recevoir une connection** depuis un port.
+**[Netcat](Binaries##__Linux__###x86-64####Ncat)** peut être utilisé pour effectuer beaucoup de choses comme du **banner grabbing** pendant des énumérations. Mais l'usage principale qu'on va en faire est de **pouvoir recevoir une connection** depuis un port.
 
 ### Socat
 
@@ -39,7 +39,7 @@ Un **reverse shell** est ce qui se produit quand une cible **éxécute un code q
 Notre machine
 
 ```shell
-user@ip:~$ sudo nc -lvnp 443
+user@ip:~$ sudo ncat -lvnp 443
 Listening on 0.0.0.0 443
 ```
 **Mise en place du listener**.
@@ -91,7 +91,7 @@ Ncat: Connection from 192.168.1.100:57085.
 Notre machine
 
 ```shell
-user@ip:~$ nc 192.168.1.104 4433
+user@ip:~$ ncat 192.168.1.104 4433
 ls
 Bookshelf
 Desktop
@@ -147,7 +147,7 @@ Une fois dans notre shell la première commande à executer est **`python -c 'im
 Cela rendra notre shell **plus beau** mais les touches comme les flèches et les tabulations ne nous serront toujours pas accessible, tout comme le problème du CTRL + C.
 
 ```shell
-user@ip:~$ nc 192.168.1.104 4433
+user@ip:~$ ncat 192.168.1.104 4433
 whoami
 root
 
@@ -171,9 +171,9 @@ Pour retirer les problèmes principaux, on va d'abord mettre notre **shell en ar
 
 ```shell
 root@raspberrypi:/home/user# ^Z
-[1]+  Stopped                 nc 192.168.1.104 4433
+[1]+  Stopped                 ncat 192.168.1.104 4433
 user@ip:~$ stty raw -echo; fg
-nc 192.168.1.104 4433
+ncat 192.168.1.104 4433
 
 root@raspberrypi:/home/user# ^C
 root@raspberrypi:/home/user#
