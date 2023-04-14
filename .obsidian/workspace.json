@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e81fe2eb9e3c6b18",
+        "id": "0d072d8aec0fc99b",
         "type": "tabs",
         "children": [
           {
-            "id": "a7298af1627f4ce6",
+            "id": "1fca5b17b8278a37",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/Socat.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/Socat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/Socat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/Socat.md"
+              }
             }
           },
           {
@@ -156,13 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7298af1627f4ce6",
+  "active": "1fca5b17b8278a37",
   "lastOpenFiles": [
+    "system/Shell.md",
+    "system/Reverse_Shell.md",
     "system/Socat.md",
     "system/Binaries.md",
     "misc/Utils.md",
-    "system/Shell.md",
-    "system/Reverse_Shell.md",
     "cryptographie/Encryption_Chiffrement.md",
     "OSINT/Decouvertes_du_contenu.md",
     "Hacking physique/Capteur.md",
