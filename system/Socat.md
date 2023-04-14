@@ -95,4 +95,12 @@ user@ip: ~$ openssl req --newkey rsa:2048 -nodes -keyout shell.key -x509 
 
 Crée une **clé RSA de 2048 bits** dans un fichier **shell.key** et un **certificat correspondant** valide pendant 362 jours dans **shell.crt**.
 
-#### 2- Fusion des clé et certificat
+#### 2- Fusion des clé et certificats
+
+```shell
+user@ip: ~$ cat shell.key shell.crt > shell.pem
+```
+
+Fusion des 2 fichiers dans un fichier **shell.pem**.
+
+###
