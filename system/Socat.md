@@ -87,3 +87,9 @@ Les **shells chiffré** sont très utile pour **bypass les IDS** car ils ne peuv
 
 La **syntaxe** pour les shells encrypté n'est pas différente à l'exception que le mot clé **TCP** est remplacé par **OPENSSL**.
 
+#### 1- Générer le certificat -- Notre machine
+
+```shell
+user@ip: ~$ openssl req --newkey rsa:2048 -nodes -keyout shell.key -x509 -days 362 -out shell.crt
+```
+
