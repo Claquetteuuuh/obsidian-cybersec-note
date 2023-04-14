@@ -1,6 +1,7 @@
 
 ## __Reverse shell__
 
+https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/socat 
 Pour setup un reverse shell avec socat c'est légèrement plus compliqué qu'avec netcat.
 
 #### 1- Listener -- Notre machine
