@@ -168,6 +168,7 @@
   "lastOpenFiles": [
     "system/Reverse_Shell.md",
     "system/Shell.md",
+    "system/Binaries.md",
     "system/Socat.md",
     "network/Network.md",
     "network/DNS-Domain_Name_System.md",
@@ -182,7 +183,6 @@
     "Exploit/Metasploit-Modules.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "Exploit/Metasploit-use_modules.md",
-    "system/Binaries.md",
     "misc/Utils.md",
     "cryptographie/Encryption_Chiffrement.md",
     "Hacking physique/Capteur.md",
