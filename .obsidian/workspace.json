@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "327991b6d45532e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc/Utils.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Shell.md",
+                "file": "misc/Utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Shell.md",
+                "file": "misc/Utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Shell.md"
+                "file": "misc/Utils.md"
               }
             }
           },
@@ -164,15 +177,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dee46296f98147f5",
+  "active": "327991b6d45532e8",
   "lastOpenFiles": [
+    "system/Shell.md",
+    "misc/Utils.md",
     "system/Reverse_Shell.md",
     "system/Socat.md",
     "cryptographie/Encryption_Chiffrement.md",
     "OSINT/Decouvertes_du_contenu.md",
     "Hacking physique/Capteur.md",
     "misc/Comptes.md",
-    "system/Shell.md",
     "Pentest_Notion_de_base.md",
     "pickle rick.md",
     "CTF/Pickle rick.md",
@@ -196,7 +210,6 @@
     "Exploit/Meterpreter-Post_exploitation.md",
     "Exploit/Metasploit_Msfvenom.md",
     "Exploit/Metasploit-Modules.md",
-    "fuff.md",
     "assets/imgs/physical/MFRC522/interface2.png",
     "assets/imgs/physical/MFRC522/interface1.png",
     "assets/imgs/physical/MFRC522/mode-emploi.png",
