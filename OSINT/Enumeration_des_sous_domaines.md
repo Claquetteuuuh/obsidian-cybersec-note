@@ -1,5 +1,5 @@
 
-Pour **trouver** les noms de domaines, on a plusieurs méthodes : **Brute force, OSINT, Virtual Host**.
+Pour **trouver** les noms de domaines, on a plusieurs méthodes : **[Brute force](Decouvertes_du_contenu##__Automatised_Discovery__), [OSINT](Osint-Utils), Virtual Host**.
 
 ## __OSINT__
 
@@ -58,3 +58,7 @@ Etant donné que cette requête renverra forcement un résultat valide, on doit 
 user@machine$ ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -H "Host: FUZZ.acmeitsupport.thm" -u http://MACHINE_IP -fs {size}
 ```
 
+
+## __HackerTarget__
+
+**[Hackertarget](Network##__Passive_reconnaissance__###Hackertarget)** est un modules de recon-ng qui permet d'énumérer les sous domaines d'un domaine.

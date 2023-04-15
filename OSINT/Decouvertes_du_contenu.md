@@ -16,7 +16,7 @@ Il y a plusieurs manière pour trouver manuellement les **routes d’un site** 
 - **OSINT-S3Bucket**, le S3 bucket est un **service de stockage fournis par AWS** qui permet aux utilisateurs de sauvegarder des fichiers. Parfois les autorisations sont mal configuré le format des s3 buckets est : http(s)://{name}. s3.amazonaws.com
 
 
-## __Automatised Discovery__
+## __Automatised_Discovery__
 
 Grace à des **[listes de mots](https://github.com/danielmiessler/SecLists)**, on peut **fuzzer** (tester toutes les routes accessible d’un site)
 Pour fuzzer, on peut utiliser l’outil **fuff** disponible sur les distributions linux comme ubuntu, debian, kali etc

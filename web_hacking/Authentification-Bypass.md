@@ -6,7 +6,7 @@ Par exemple, si l’on essaye de créer un compte avec le nom *‘admin’* dans
 pourrai nous renvoyer le message **‘username already exists’**, par conséquent, on peut connaitre savoir que le nom
 que nous essayons d’entrer **existe déjà dans la base de donné du site**.
 
-Pour automatiser ce processus, on peut utiliser un outil comme [[fuff]] et effectuer la commande suivante :
+Pour automatiser ce processus, on peut utiliser un outil comme Fuff et effectuer la commande suivante :
 ```shell
 user@ip$ ffuf -w /usr/share/wordlists/SecLists/Usernames/Names/names.txt -X POST -d "username=FUZZ&email=x&password=x&cpassword=x" -H "Content-Type: application/x-www-form-urlencoded" -u http://MACHINE_IP/customers/signup -mr "username already exists"
 ```
