@@ -11,8 +11,12 @@
             "id": "a23502609a54df54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/Reverse_Shell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/Network.md",
+                "file": "system/Reverse_Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/Network.md",
+                "file": "system/Reverse_Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/Network.md"
+                "file": "system/Reverse_Shell.md"
               }
             }
           },
@@ -160,7 +164,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "a23502609a54df54",
   "lastOpenFiles": [
     "network/DNS-Domain_Name_System.md",
     "system/Binaries.md",
