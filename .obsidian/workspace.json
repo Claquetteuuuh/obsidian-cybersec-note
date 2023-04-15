@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27183099758fcbdf",
+        "id": "85ef4818ed0490bb",
         "type": "tabs",
         "children": [
           {
-            "id": "5165eddc270a69a2",
+            "id": "79e479597fae2fe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Email.md",
+                "file": "system/Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Email.md",
+                "file": "system/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Email.md",
+                "file": "system/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Email.md"
+                "file": "system/Shell.md"
               }
             }
           },
@@ -166,6 +166,15 @@
   },
   "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "system/Reverse_Shell.md",
+    "system/Binaries.md",
+    "OSINT/Enumeration_des_sous_domaines.md",
+    "OSINT/Osint-Utils.md",
+    "OSINT/Decouvertes_du_contenu.md",
+    "network/NMAP-Post_Port_Scan.md",
+    "network/NMAP-Host_active_directory.md",
+    "network/NMAP-Advanced_Port_Scan.md",
+    "network/Protocoles_Serveur.md",
     "misc/Email.md",
     "misc/Comptes.md",
     "Hacking physique/Capteur.md",
@@ -180,15 +189,12 @@
     "Exploit/Metasploit-use_modules.md",
     "Exploit/Metasploit_scan.md",
     "Communication - Avion entierement piloté par l'IA.md",
-    "OSINT/Osint-Utils.md",
     "misc/VPN.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
     "app.netlas.io.md",
     "Exploit/Metasploit-msfconsole.md",
-    "Pentest_Notion_de_base.md",
-    "web_hacking/Bypass_File_upload_filters.md",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
@@ -201,14 +207,8 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
-    "Exploit/Metasploit_Modules.md",
-    "Exploit/Metasploit_MSFCONSOLE.md",
     "Exploit",
-    "conflict-files-obsidian-git.md",
-    "OSINT/Decouvertes_du_contenu.md",
-    "OSINT/Enumeration_des_sous_domaines.md",
     "Nouveau document texte.txt",
-    "[[Decouvertes_du_contenu]].md",
     "obsidian-cybersec-note",
     "assets/imgs/basics",
     "Social_engenering",
