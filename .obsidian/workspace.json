@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f10fc664108d93ac",
+        "id": "27183099758fcbdf",
         "type": "tabs",
         "children": [
           {
-            "id": "50c3e6df087b1388",
+            "id": "5165eddc270a69a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking physique/Capteur.md",
+                "file": "misc/Email.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking physique/Capteur.md",
+                "file": "misc/Email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking physique/Capteur.md",
+                "file": "misc/Email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking physique/Capteur.md"
+                "file": "misc/Email.md"
               }
             }
           },
@@ -164,8 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c3e6df087b1388",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "misc/Email.md",
+    "misc/Comptes.md",
+    "Hacking physique/Capteur.md",
     "Forensic/Windows Register.md",
     "Forensic/Digital Forensic.md",
     "Exploit/Metasploit-Modules.md",
@@ -174,9 +177,7 @@
     "cryptographie/Encryption_Chiffrement.md",
     "cryptographie/Hash.md",
     "assets/Excalidraw/dns1.excalidraw.md",
-    "misc/Comptes.md",
     "Exploit/Metasploit-use_modules.md",
-    "misc/Email.md",
     "Exploit/Metasploit_scan.md",
     "Communication - Avion entierement piloté par l'IA.md",
     "OSINT/Osint-Utils.md",
@@ -208,7 +209,6 @@
     "OSINT/Enumeration_des_sous_domaines.md",
     "Nouveau document texte.txt",
     "[[Decouvertes_du_contenu]].md",
-    "web_hacking/Authentification-Bypass.md",
     "obsidian-cybersec-note",
     "assets/imgs/basics",
     "Social_engenering",
