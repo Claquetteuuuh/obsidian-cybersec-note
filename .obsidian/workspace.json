@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Shell.md",
+                "file": "Exploit/Metasploit_Msfvenom.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Shell.md",
+                "file": "Exploit/Metasploit_Msfvenom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Shell.md",
+                "file": "Exploit/Metasploit_Msfvenom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Shell.md"
+                "file": "Exploit/Metasploit_Msfvenom.md"
               }
             }
           },
@@ -166,9 +166,11 @@
   },
   "active": "0066c706090f39bc",
   "lastOpenFiles": [
+    "Exploit/Meterpreter-Post_exploitation.md",
+    "Exploit/Metasploit_Msfvenom.md",
     "system/Reverse_Shell.md",
-    "system/Binaries.md",
     "system/Shell.md",
+    "system/Binaries.md",
     "system/Socat.md",
     "Hacking physique/Capteur.md",
     "OSINT/Decouvertes_du_contenu.md",
@@ -187,11 +189,9 @@
     "Forensic/Windows Register.md",
     "Forensic/Digital Forensic.md",
     "Exploit/Metasploit-Modules.md",
-    "Exploit/Metasploit_Msfvenom.md",
     "CTF/Pickle rick.md",
     "cryptographie/Encryption_Chiffrement.md",
     "cryptographie/Hash.md",
-    "assets/Excalidraw/dns1.excalidraw.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
