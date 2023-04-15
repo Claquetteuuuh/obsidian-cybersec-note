@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6903e97bb14d940b",
+        "id": "fdde86fad068152f",
         "type": "tabs",
         "children": [
           {
-            "id": "7b9f66890e9a35a8",
+            "id": "a23502609a54df54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/Binaries.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Binaries.md",
+                "file": "network/Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Binaries.md",
+                "file": "network/Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Binaries.md"
+                "file": "network/Network.md"
               }
             }
           },
@@ -164,13 +160,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b9f66890e9a35a8",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "network/DNS-Domain_Name_System.md",
+    "system/Binaries.md",
     "Exploit/Metasploit_Msfvenom.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "system/Reverse_Shell.md",
     "system/Shell.md",
-    "system/Binaries.md",
     "system/Socat.md",
     "Hacking physique/Capteur.md",
     "OSINT/Decouvertes_du_contenu.md",
@@ -191,7 +188,6 @@
     "Exploit/Metasploit-Modules.md",
     "CTF/Pickle rick.md",
     "cryptographie/Encryption_Chiffrement.md",
-    "cryptographie/Hash.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
