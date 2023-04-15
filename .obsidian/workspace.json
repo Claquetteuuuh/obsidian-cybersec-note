@@ -11,8 +11,12 @@
             "id": "0066c706090f39bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/Socat.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/Socat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/Socat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/Socat.md"
+              }
             }
           },
           {
@@ -158,8 +166,8 @@
   },
   "active": "0066c706090f39bc",
   "lastOpenFiles": [
-    "Hacking physique/Capteur.md",
     "system/Shell.md",
+    "Hacking physique/Capteur.md",
     "system/Reverse_Shell.md",
     "OSINT/Decouvertes_du_contenu.md",
     "network/NMAP-Post_Port_Scan.md",
