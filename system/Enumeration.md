@@ -43,3 +43,5 @@ Ubuntu 14.04 LTS \n \l
 ## __ps__
 
 La commande **`ps`** est utilisé pour avoir la liste des processus en cour d'éxécution sur la machine.
+
+| 
