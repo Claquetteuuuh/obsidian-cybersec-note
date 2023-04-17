@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "486314f92dc71133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/Reverse_Shell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f119004be3102d8",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
