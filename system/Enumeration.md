@@ -94,7 +94,7 @@ La commande **`sudo -l`** liste les commandes que l'**utilisateur peut effectuer
 
 ## __ls -la__
 
-La commande **`ls -la`** affiche tous les fichiers présent dans le répertoire, même les fichiers caché, ainsi que leurs droits.
+La commande **`ls -la`** **lister tous les fichiers** présent dans le répertoire, même les **fichiers caché**, ainsi que leurs **droits**.
 
 ```shell
 $ ls -la
@@ -126,3 +126,7 @@ drwxr-xr-x  13 root root  4096 Apr 16  2014 var
 lrwxrwxrwx   1 root root    30 Jun 18  2021 vmlinuz -> boot/vmlinuz-3.13.0-24-generic
 ```
 
+
+## __id__
+
+La commande **`id`** nous donne les informations sur les privilèges de l'utilisateur.
