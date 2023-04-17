@@ -42,7 +42,7 @@ Ubuntu 14.04 LTS \n \l
 
 ## __ps__
 
-La commande **`ps`** est utilisé pour avoir la liste des processus en cour d'éxécution sur la machine.
+La commande **`ps`** est utilisé pour avoir la **liste des processus** en cour d'éxécution sur la machine.
 
 -   **PID** : L'**ID** du processus (unique au processus)
 -   **TTY** : **Type de terminal** utilisé par l'utilisateur
@@ -65,7 +65,7 @@ $ ps
 
 ## __env__
 
-La commande **`env`** affiche toutes les variables d'environnement de la machine.
+La commande **`env`** affiche toutes les **variables d'environnements** de la machine.
 
 ```shell
 $ env
@@ -85,4 +85,9 @@ SHELL=/bin/sh
 PWD=/
 SSH_CONNECTION=10.10.148.226 50742 10.10.179.158 22
 ```
+
+
+## __sudo -l__
+
+La commande **`sudo -l`** liste les commandes que l'utilisateur peut effectuer en sudoer.
 
