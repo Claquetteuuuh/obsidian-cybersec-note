@@ -89,5 +89,8 @@ SSH_CONNECTION=10.10.148.226 50742 10.10.179.158 22
 
 ## __sudo -l__
 
-La commande **`sudo -l`** liste les commandes que l'utilisateur peut effectuer en sudoer.
+La commande **`sudo -l`** liste les commandes que l'**utilisateur peut effectuer en sudoer**.
+
+
+## __ls -la__
 
