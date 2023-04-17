@@ -140,9 +140,10 @@ uid=1001(karen) gid=1001(karen) groups=1001(karen)
 ## __/etc/passwd__
 
 Le fichier **`/etc/passwd`** nous donne la possibilité de voir simplements les **utilisateurs du systemes**.
+On peut 
 
 ```shell
-$ cat /etc/passwd
+$ cat /etc/passwd | cut -d ":" -f 1
 root:x:0:0:root:/root:/bin/bash
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 bin:x:2:2:bin:/bin:/usr/sbin/nologin
