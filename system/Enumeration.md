@@ -44,4 +44,7 @@ Ubuntu 14.04 LTS \n \l
 
 La commande **`ps`** est utilisé pour avoir la liste des processus en cour d'éxécution sur la machine.
 
-| 
+-   **PID** : L'**ID** du processus (unique au processus)
+-   **TTY** : **Type de terminal** utilisé par l'utilisateur
+-   Temps : quantité de temps CPU utilisée par le processus (ce n'est PAS la durée d'exécution de ce processus)
+-   CMD : La commande ou l'exécutable en cours d'exécution (n'affichera PAS de paramètre de ligne de commande)
