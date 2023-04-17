@@ -130,3 +130,13 @@ lrwxrwxrwx   1 root root    30 Jun 18  2021 vmlinuz -> boot/vmlinuz-3.13.0-24-ge
 ## __id__
 
 La commande **`id`** nous donne les informations sur les privilèges de l'utilisateur.
+
+```shell
+$ id
+uid=1001(karen) gid=1001(karen) groups=1001(karen)
+```
+
+
+## __/etc/passwd__
+
+Le fichier `/etc`
