@@ -32,6 +32,4 @@ Linux version 3.13.0-24-generic (buildd@panlong) (gcc version 4.8.2 (Ubuntu 4.8.
 
 ```
 
-
-## __etc/issue__
-
+Le fichier `/etc/issue` peut aussi nous donner des informations similaire mais peut être plus facilement modifier.
