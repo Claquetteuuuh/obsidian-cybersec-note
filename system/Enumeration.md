@@ -33,3 +33,13 @@ Linux version 3.13.0-24-generic (buildd@panlong) (gcc version 4.8.2 (Ubuntu 4.8.
 ```
 
 Le fichier `/etc/issue` peut aussi nous donner des informations similaire mais peut être plus facilement modifier.
+
+```shell
+$ cat /etc/issue
+Ubuntu 14.04 LTS \n \l
+```
+
+
+## __ps__
+
+La commande **`ps`** est utilisé pour avoir la liste des processus en cour d'éxécution sur la machine.
