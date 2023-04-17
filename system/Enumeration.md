@@ -55,3 +55,8 @@ $ ps
  2064 pts/3    00:00:00 sh
  2177 pts/3    00:00:00 ps
 ```
+
+| Option      | Description                                  |
+| ----------- | -------------------------------------------- |
+| **`ps -A`** | Donne tous les processus en cour d'execution |
+|             |                                              |
