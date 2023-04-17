@@ -61,3 +61,8 @@ $ ps
 | **`ps -A`**   | Donne tous les processus en cour d'execution |
 | **`ps axjf`** | Affiche une arborescense des processus       |
 | **`ps aux`**  | Affiche les processus de tous les utilisateurs                                             |
+
+
+## __env__
+
+La commande **`env`** affiche toutes les variables d'environnement de la machine.
