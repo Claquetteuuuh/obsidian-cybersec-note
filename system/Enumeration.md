@@ -96,3 +96,33 @@ La commande **`sudo -l`** liste les commandes que l'**utilisateur peut effectuer
 
 La commande **`ls -la`** affiche tous les fichiers présent dans le répertoire, même les fichiers caché, ainsi que leurs droits.
 
+```shell
+$ ls -la
+total 104
+drwxr-xr-x  23 root root  4096 Jun 18  2021 .
+drwxr-xr-x  23 root root  4096 Jun 18  2021 ..
+drwxr-xr-x   2 root root  4096 Jun 18  2021 bin
+drwxr-xr-x   3 root root  4096 Jun 18  2021 boot
+drwxrwxr-x   2 root root  4096 Jun 18  2021 cdrom
+drwxr-xr-x  13 root root  3920 Apr 17 15:05 dev
+drwxr-xr-x 129 root root 12288 Apr 17 15:06 etc
+drwxr-xr-x   3 root root  4096 Jun 18  2021 home
+lrwxrwxrwx   1 root root    33 Jun 18  2021 initrd.img -> boot/initrd.img-3.13.0-24-generic
+drwxr-xr-x  23 root root  4096 Jun 18  2021 lib
+drwxr-xr-x   2 root root  4096 Apr 16  2014 lib64
+drwx------   2 root root 16384 Jun 18  2021 lost+found
+drwxr-xr-x   2 root root  4096 Apr 16  2014 media
+drwxr-xr-x   2 root root  4096 Apr 10  2014 mnt
+drwxr-xr-x   2 root root  4096 Apr 16  2014 opt
+dr-xr-xr-x 150 root root     0 Apr 17 15:05 proc
+drwx------   2 root root  4096 Jun 18  2021 root
+drwxr-xr-x  22 root root   780 Apr 17 15:23 run
+drwxr-xr-x   2 root root 12288 Jun 18  2021 sbin
+drwxr-xr-x   2 root root  4096 Apr 16  2014 srv
+dr-xr-xr-x  13 root root     0 Apr 17 15:05 sys
+drwxrwxrwt   4 root root  4096 Apr 17 15:23 tmp
+drwxr-xr-x  10 root root  4096 Apr 16  2014 usr
+drwxr-xr-x  13 root root  4096 Apr 16  2014 var
+lrwxrwxrwx   1 root root    30 Jun 18  2021 vmlinuz -> boot/vmlinuz-3.13.0-24-generic
+```
+
