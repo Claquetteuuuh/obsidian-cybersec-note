@@ -94,3 +94,5 @@ La commande **`sudo -l`** liste les commandes que l'**utilisateur peut effectuer
 
 ## __ls -la__
 
+La commande **`ls -la`** affiche tous les fichiers présent dans le répertoire, même les fichiers caché, ainsi que leurs droits.
+
