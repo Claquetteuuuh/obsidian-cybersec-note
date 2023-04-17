@@ -49,3 +49,9 @@ La commande **`ps`** est utilisé pour avoir la liste des processus en cour d'é
 -   **TIME** : quantité de **CPU time** utilisée par le processus
 -   **CMD** : La **commande** ou l'**exécutable** en cours d'exécution
 
+```shell
+$ ps
+  PID TTY          TIME CMD
+ 2064 pts/3    00:00:00 sh
+ 2177 pts/3    00:00:00 ps
+```
