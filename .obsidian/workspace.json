@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "17188b7d1f1d2917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8f119004be3102d8",
             "type": "leaf",
             "state": {
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Osint-Utils.md",
+                "file": "system/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Osint-Utils.md",
+                "file": "system/Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Osint-Utils.md"
+                "file": "system/Enumeration.md"
               }
             }
           },
@@ -164,8 +176,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f119004be3102d8",
+  "active": "17188b7d1f1d2917",
   "lastOpenFiles": [
+    "OSINT/Osint-Utils.md",
     "system/Enumeration.md",
     "system/Reverse_Shell.md",
     "misc/Comptes.md",
@@ -179,7 +192,6 @@
     "cryptographie/Encryption_Chiffrement.md",
     "cryptographie/Hash.md",
     "OSINT/Decouvertes_du_contenu.md",
-    "OSINT/Osint-Utils.md",
     "OSINT/Enumeration_des_sous_domaines.md",
     "network/Network.md",
     "network/DNS-Domain_Name_System.md",
