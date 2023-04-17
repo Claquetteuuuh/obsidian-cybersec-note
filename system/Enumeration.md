@@ -67,3 +67,22 @@ $ ps
 
 La commande **`env`** affiche toutes les variables d'environnement de la machine.
 
+```shell
+$ env
+MAIL=/var/mail/karen
+USER=karen
+SSH_CLIENT=10.10.148.226 50742 22
+HOME=/home/karen
+SSH_TTY=/dev/pts/3
+QT_QPA_PLATFORMTHEME=appmenu-qt5
+LOGNAME=karen
+TERM=xterm
+XDG_SESSION_ID=2
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+XDG_RUNTIME_DIR=/run/user/1001
+LANG=en_US.UTF-8
+SHELL=/bin/sh
+PWD=/
+SSH_CONNECTION=10.10.148.226 50742 10.10.179.158 22
+```
+
