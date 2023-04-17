@@ -56,7 +56,8 @@ $ ps
  2177 pts/3    00:00:00 ps
 ```
 
-| Option      | Description                                  |
-| ----------- | -------------------------------------------- |
-| **`ps -A`** | Donne tous les processus en cour d'execution |
-|             |                                              |
+| Option        | Description                                  |
+| ------------- | -------------------------------------------- |
+| **`ps -A`**   | Donne tous les processus en cour d'execution |
+| **`ps axjf`** | Affiche une arborescense des processus       |
+| **`ps aux`**  | Affiche les processus de tous les utilisateurs                                             |
