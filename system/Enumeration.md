@@ -66,3 +66,4 @@ $ ps
 ## __env__
 
 La commande **`env`** affiche toutes les variables d'environnement de la machine.
+
