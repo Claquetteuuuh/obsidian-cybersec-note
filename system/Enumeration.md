@@ -140,9 +140,46 @@ uid=1001(karen) gid=1001(karen) groups=1001(karen)
 ## __/etc/passwd__
 
 Le fichier **`/etc/passwd`** nous donne la possibilité de voir simplements les **utilisateurs du systemes**.
-On peut utiliser la liste d'utilisateur pour un payload de bruteforce ou alors les filtrers pour ne récupérer que ceux qui sont utile.
+On peut utiliser la liste d'utilisateur pour un **bruteforce** ou alors les **filtrers** pour ne récupérer que ceux qui sont utile avec **`grep home`**.
 
 ```shell
 $ cat /etc/passwd | cut -d ":" -f 1
+root
+daemon
+bin
+sys
+sync
+games
+man
+lp
+mail
+news
+uucp
+proxy
+www-data
+backup
+list
+irc
+gnats
+nobody
+libuuid
+syslog
+messagebus
+usbmux
+dnsmasq
+avahi-autoipd
+kernoops
+rtkit
+saned
+whoopsie
+speech-dispatcher
+avahi
+lightdm
+colord
+hplip
+pulse
+matt
+karen
+sshd
 ```
 
