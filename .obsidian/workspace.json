@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Binaries.md",
+                "file": "OSINT/Osint-Utils.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Binaries.md",
+                "file": "OSINT/Osint-Utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Binaries.md",
+                "file": "OSINT/Osint-Utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Binaries.md"
+                "file": "OSINT/Osint-Utils.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "8da225db1e548789",
   "lastOpenFiles": [
+    "system/Binaries.md",
     "system/Enumeration.md",
     "system/Reverse_Shell.md",
     "system/Shell.md",
@@ -173,7 +174,6 @@
     "web_hacking/Authentification-Bypass.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "web_hacking/XSS.md",
-    "system/Binaries.md",
     "assets/Excalidraw/dns1.excalidraw.md",
     "network/DNS-Domain_Name_System.md",
     "cryptographie/Encryption_Chiffrement.md",
