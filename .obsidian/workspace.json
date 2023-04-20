@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3db882597d90d123",
+        "id": "a34ec225c9571570",
         "type": "tabs",
         "children": [
           {
-            "id": "7b0d9db1da2a451c",
+            "id": "4271da7e307ee71e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Binaries.md",
+                "file": "web_hacking/XSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Binaries.md",
+                "file": "web_hacking/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Binaries.md",
+                "file": "web_hacking/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Binaries.md"
+                "file": "web_hacking/XSS.md"
               }
             }
           },
@@ -164,10 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b0d9db1da2a451c",
+  "active": "4271da7e307ee71e",
   "lastOpenFiles": [
-    "system/Enumeration.md",
     "system/Binaries.md",
+    "system/Enumeration.md",
     "assets/Excalidraw/dns1.excalidraw.md",
     "network/DNS-Domain_Name_System.md",
     "cryptographie/Encryption_Chiffrement.md",
