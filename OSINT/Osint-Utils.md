@@ -7,6 +7,7 @@ Pour s'entrainer, on peut utiliser les sites: [Ozint](https://ozint.eu/), ou [Tr
 
 - [Platesmania](https://platesmania.com/?&lang=fr), Pour **récuperer des informations** sur des voitures.
 - [Evaluer-chauffeur](https://evaluer-chauffeur.fr/), Pour connaitre si le mec **à déjà effectué une infraction**.
+- [Carvertical](https://www.carvertical.com/be/fr), avoir les **infos sur un vehicule**.
 
 ```python
 import requests from pprint 
