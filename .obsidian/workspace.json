@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Shell.md",
+                "file": "system/Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Shell.md",
+                "file": "system/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Shell.md",
+                "file": "system/Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Shell.md"
+                "file": "system/Enumeration.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "ec02688f29753750",
   "lastOpenFiles": [
-    "system/Reverse_Shell.md",
     "system/Shell.md",
+    "system/Reverse_Shell.md",
     "system/Enumeration.md",
     "network/DNS-Domain_Name_System.md",
     "system/Binaries.md",
