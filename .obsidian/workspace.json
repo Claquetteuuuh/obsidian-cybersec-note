@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8943088b9f31ca5",
+        "id": "c58926e285c74953",
         "type": "tabs",
         "children": [
           {
-            "id": "ec02688f29753750",
+            "id": "e2e12d0ab65ccd5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "system/Shell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ca095d4076373a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/Comptes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,12 +164,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19b4ff070db0582e",
+  "active": "e2e12d0ab65ccd5a",
   "lastOpenFiles": [
-    "system/Reverse_Shell.md",
     "misc/Comptes.md",
-    "Exploit/Metasploit_Msfvenom.md",
     "system/Shell.md",
+    "system/Reverse_Shell.md",
+    "Exploit/Metasploit_Msfvenom.md",
     "misc/Email.md",
     "system/Enumeration.md",
     "network/DNS-Domain_Name_System.md",
