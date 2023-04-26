@@ -260,3 +260,4 @@ Linux Privesc Checklist: https://book.hacktricks.xyz/linux-hardening/linux-privi
                                 ╚════════════════╝
 Regexes to search for API keys aren't activated, use param '-r'
 ```
+
