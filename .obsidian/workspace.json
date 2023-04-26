@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac8119676aa8b531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Enumeration.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Enumeration.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Enumeration.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,13 +177,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1012c6b63c1d8694",
+  "active": "ac8119676aa8b531",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "system/Enumeration.md",
     "Hacking physique/Capteur.md",
     "OSINT/Osint-Utils.md",
     "web_hacking/Authentification-Bypass.md",
     "Exploit/Metasploit-msfconsole.md",
-    "system/Enumeration.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "Forensic/Digital Forensic.md",
     "Forensic/Windows Register.md",
@@ -191,7 +205,6 @@
     "system/Shell.md",
     "system/Socat.md",
     "web_hacking/Bypass_File_upload_filters.md",
-    "web_hacking/XSS.md",
     "CTF",
     "assets/imgs/system/shell-non-interactif.png",
     "Pasted image 20230412142136.png",
