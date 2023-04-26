@@ -183,3 +183,11 @@ karen
 sshd
 ```
 
+
+## __Automatised__
+
+On peut effectuer une enumeration automatisé avec des outils comme [LinPeas](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS). 
+
+```shell
+curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh | sh
+```
