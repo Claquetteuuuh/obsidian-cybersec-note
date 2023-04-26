@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,7 +164,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2e12d0ab65ccd5a",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
     "web_hacking/Authentification-Bypass.md",
     "system/Enumeration.md",
