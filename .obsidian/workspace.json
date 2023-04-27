@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Enumeration.md",
+                "file": "system/Privilege_Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Enumeration.md",
+                "file": "system/Privilege_Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Enumeration.md",
+                "file": "system/Privilege_Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Enumeration.md"
+                "file": "system/Privilege_Escalation.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "1012c6b63c1d8694",
   "lastOpenFiles": [
-    "system/Privilege_Escalation.md",
     "system/Enumeration.md",
+    "system/Binaries.md",
+    "system/Privilege_Escalation.md",
     "conflict-files-obsidian-git.md",
     "Hacking physique/Capteur.md",
     "OSINT/Osint-Utils.md",
@@ -200,7 +201,6 @@
     "network/NMAP-Post_Port_Scan.md",
     "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Enumeration_des_sous_domaines.md",
-    "system/Binaries.md",
     "system/Reverse_Shell.md",
     "system/Shell.md",
     "system/Socat.md",
