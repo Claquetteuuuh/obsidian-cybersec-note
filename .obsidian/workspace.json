@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Untitled.md",
+                "file": "system/Privilege_Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Untitled.md",
+                "file": "system/Privilege_Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Untitled.md",
+                "file": "system/Privilege_Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Untitled.md"
+                "file": "system/Privilege_Escalation.md"
               }
             }
           },
@@ -180,7 +180,7 @@
   "active": "8eff817b52b000da",
   "lastOpenFiles": [
     "system/Enumeration.md",
-    "system/Untitled.md",
+    "system/Privilege_Escalation.md",
     "conflict-files-obsidian-git.md",
     "Hacking physique/Capteur.md",
     "OSINT/Osint-Utils.md",
