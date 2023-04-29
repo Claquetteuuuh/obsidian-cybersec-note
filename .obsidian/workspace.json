@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cf019378735d49f0",
+        "id": "c3abd2cf0dac6947",
         "type": "tabs",
         "children": [
           {
-            "id": "1012c6b63c1d8694",
+            "id": "6181ca34a467a473",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hacking physique/Capteur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8eff817b52b000da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/Privilege_Escalation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Privilege_Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Privilege_Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "system/Privilege_Escalation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,11 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8eff817b52b000da",
+  "active": "6181ca34a467a473",
   "lastOpenFiles": [
     "Hacking physique/Capteur.md",
-    "assets/Excalidraw/schema-RPi.md",
     "system/Privilege_Escalation.md",
+    "assets/Excalidraw/schema-RPi.md",
     "system/Enumeration.md",
     "system/Binaries.md",
     "conflict-files-obsidian-git.md",
