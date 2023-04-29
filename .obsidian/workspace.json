@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "c58926e285c74953",
+        "id": "cf019378735d49f0",
         "type": "tabs",
         "children": [
           {
-            "id": "e2e12d0ab65ccd5a",
+            "id": "1012c6b63c1d8694",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "Hacking physique/Capteur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b73067e4b44cba3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/Excalidraw/schema-RPi.md"
+              }
+            }
+          },
+          {
+            "id": "8eff817b52b000da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/Privilege_Escalation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enumerati",
+                "query": "robots.txt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "assets/Excalidraw/schema-RPi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "assets/Excalidraw/schema-RPi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Comptes.md"
+                "file": "assets/Excalidraw/schema-RPi.md"
               }
             }
           },
@@ -164,54 +187,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2e12d0ab65ccd5a",
+  "active": "3b73067e4b44cba3",
   "lastOpenFiles": [
-    "system/Enumeration.md",
-    "system/Privilege_Escalation.md",
-    "web_hacking/Authentification-Bypass.md",
-    "misc/Comptes.md",
-    "system/Shell.md",
-    "system/Reverse_Shell.md",
-    "Exploit/Metasploit_Msfvenom.md",
-    "misc/Email.md",
-    "network/DNS-Domain_Name_System.md",
-    "system/Binaries.md",
-    "Exploit/Meterpreter-Post_exploitation.md",
-    "system/Socat.md",
     "Hacking physique/Capteur.md",
-    "OSINT/Decouvertes_du_contenu.md",
-    "network/NMAP-Post_Port_Scan.md",
+    "system/Privilege_Escalation.md",
+    "system/Enumeration.md",
+    "system/Binaries.md",
+    "conflict-files-obsidian-git.md",
+    "OSINT/Osint-Utils.md",
+    "web_hacking/Authentification-Bypass.md",
+    "Exploit/Metasploit-msfconsole.md",
+    "Exploit/Meterpreter-Post_exploitation.md",
+    "Forensic/Digital Forensic.md",
+    "Forensic/Windows Register.md",
+    "misc/Comptes.md",
+    "misc/Email.md",
+    "misc/VPN.md",
+    "network/DNS-Domain_Name_System.md",
+    "network/Network.md",
+    "network/NMAP-Advanced_Port_Scan.md",
     "network/NMAP-Host_active_directory.md",
     "network/NMAP-TCP_UDP_Port_Scan.md",
-    "Pentest_Notion_de_base.md",
-    "web_hacking/Bypass_File_upload_filters.md",
-    "OSINT/Enumeration_des_sous_domaines.md",
-    "OSINT/Osint-Utils.md",
-    "network/NMAP-Advanced_Port_Scan.md",
     "network/Protocoles_Serveur.md",
-    "Forensic/Windows Register.md",
-    "Forensic/Digital Forensic.md",
-    "Exploit/Metasploit-Modules.md",
+    "network/NMAP-Post_Port_Scan.md",
+    "OSINT/Decouvertes_du_contenu.md",
+    "OSINT/Enumeration_des_sous_domaines.md",
+    "system/Reverse_Shell.md",
+    "system/Shell.md",
+    "system/Socat.md",
+    "CTF",
+    "assets/imgs/system/shell-non-interactif.png",
+    "Pasted image 20230412142136.png",
+    "assets/imgs/system",
+    "assets/imgs/system/shell-interactif.png",
+    "assets/imgs/physical/MFRC522/interface2.png",
+    "assets/imgs/physical/MFRC522/interface1.png",
+    "assets/imgs/physical/MFRC522/mode-emploi.png",
+    "assets/imgs/physical/MFRC522/schema-pin.png",
+    "assets/imgs/physical/MFRC522/interface3.png",
+    "assets/imgs/physical/MFRC522",
+    "assets/imgs/physical",
+    "Hacking physique",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting1.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number4.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number2.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
     "assets/imgs/web_hacking",
-    "Exploit",
-    "Nouveau document texte.txt",
-    "obsidian-cybersec-note",
-    "assets/imgs/basics",
-    "Social_engenering",
     "Untitled.canvas"
   ]
 }
