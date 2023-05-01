@@ -183,6 +183,13 @@ karen
 sshd
 ```
 
+## __/etc/shadow__
+
+Le fichier **`/etc/shadow`** permet d'avoir accès à la base de donnée de mot de passe hashé du systeme.
+
+```shell
+
+```
 
 ## __Automatised__
 
