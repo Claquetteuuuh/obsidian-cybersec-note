@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Privilege_Escalation.md",
+                "file": "system/Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Privilege_Escalation.md",
+                "file": "system/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Privilege_Escalation.md",
+                "file": "system/Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Privilege_Escalation.md"
+                "file": "system/Enumeration.md"
               }
             }
           },
@@ -166,11 +166,12 @@
   },
   "active": "6181ca34a467a473",
   "lastOpenFiles": [
+    "system/Reverse_Shell.md",
+    "system/Privilege_Escalation.md",
     "misc/Comptes.md",
     "system/Enumeration.md",
     "system/Binaries.md",
     "Hacking physique/Capteur.md",
-    "system/Privilege_Escalation.md",
     "assets/Excalidraw/schema-RPi.md",
     "conflict-files-obsidian-git.md",
     "OSINT/Osint-Utils.md",
@@ -190,7 +191,6 @@
     "network/NMAP-Post_Port_Scan.md",
     "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Enumeration_des_sous_domaines.md",
-    "system/Reverse_Shell.md",
     "system/Shell.md",
     "CTF",
     "assets/imgs/system/shell-non-interactif.png",
