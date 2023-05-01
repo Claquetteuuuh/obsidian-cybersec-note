@@ -25,3 +25,5 @@ On peut voir sur **[gtfobins](https://gtfobins.github.io/gtfobins/nano/)** qu'on
 ```
 
 On peut ensuite voir qu'on passe en root.
+
+
