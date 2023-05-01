@@ -16,4 +16,4 @@ User karen may run the following commands on ip-10-10-127-120:
 
 Ici on peut voir que l'utilisateur peut utiliser nano en sudoer.
 
-On peut voir ici https://gtfobins.github.io/gtfobins/nano/
+On peut voir sur **[gtfobins](https://gtfobins.github.io/gtfobins/nano/)** qu'on peut effectuer une élévation des privilèges avec nano 
