@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "system/Privilege_Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "system/Privilege_Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Comptes.md",
+                "file": "system/Privilege_Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Comptes.md"
+                "file": "system/Privilege_Escalation.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "6181ca34a467a473",
   "lastOpenFiles": [
+    "misc/Comptes.md",
     "system/Enumeration.md",
     "system/Binaries.md",
     "Hacking physique/Capteur.md",
@@ -178,7 +179,6 @@
     "Exploit/Meterpreter-Post_exploitation.md",
     "Forensic/Digital Forensic.md",
     "Forensic/Windows Register.md",
-    "misc/Comptes.md",
     "misc/Email.md",
     "misc/VPN.md",
     "network/DNS-Domain_Name_System.md",
