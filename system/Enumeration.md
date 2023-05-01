@@ -185,11 +185,48 @@ sshd
 
 ## __/etc/shadow__
 
-Le fichier **`/etc/shadow`** permet d'avoir accès à la base de donnée de mot de passe hashé du systeme.
+Le fichier **`/etc/shadow`** permet d'avoir accès à la **base de donnée** des **mots de passes hashés** du systeme.
 
 ```shell
-
+# cat /etc/shadow
+root:*:18561:0:99999:7:::
+daemon:*:18561:0:99999:7:::
+bin:*:18561:0:99999:7:::
+sys:*:18561:0:99999:7:::
+sync:*:18561:0:99999:7:::
+games:*:18561:0:99999:7:::
+man:*:18561:0:99999:7:::
+lp:*:18561:0:99999:7:::
+mail:*:18561:0:99999:7:::
+news:*:18561:0:99999:7:::
+uucp:*:18561:0:99999:7:::
+proxy:*:18561:0:99999:7:::
+www-data:*:18561:0:99999:7:::
+backup:*:18561:0:99999:7:::
+list:*:18561:0:99999:7:::
+irc:*:18561:0:99999:7:::
+gnats:*:18561:0:99999:7:::
+nobody:*:18561:0:99999:7:::
+systemd-network:*:18561:0:99999:7:::
+systemd-resolve:*:18561:0:99999:7:::
+systemd-timesync:*:18561:0:99999:7:::
+messagebus:*:18561:0:99999:7:::
+syslog:*:18561:0:99999:7:::
+_apt:*:18561:0:99999:7:::
+tss:*:18561:0:99999:7:::
+uuidd:*:18561:0:99999:7:::
+tcpdump:*:18561:0:99999:7:::
+sshd:*:18561:0:99999:7:::
+landscape:*:18561:0:99999:7:::
+pollinate:*:18561:0:99999:7:::
+ec2-instance-connect:!:18561:0:99999:7:::
+systemd-coredump:!!:18796::::::
+ubuntu:!:18796:0:99999:7:::
+lxd:!:18796::::::
+karen:$6$QHTxjZ77ZcxU54ov$DCV2wd1mG5wJoTB.cXJoXtLVDZe1Ec1jbQFv3ICAYbnMqdhJzIEi3H4qyyKO7T75h4hHQWuWWzBH7brjZiSaX0:18796:0:99999:7:::
+frank:$6$2.sUUDsOLIpXKxcr$eImtgFExyr2ls4jsghdD3DHLHHP9X50Iv.jNmwo/BJpphrPRJWjelWEz2HH.joV14aDEwW1c3CahzB1uaqeLR1:18796:0:99999:7:::
 ```
+
 
 ## __Automatised__
 
