@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Binaries.md",
+                "file": "system/Socat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Binaries.md",
+                "file": "system/Socat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Binaries.md",
+                "file": "system/Socat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Binaries.md"
+                "file": "system/Socat.md"
               }
             }
           },
@@ -166,6 +166,11 @@
   },
   "active": "c8ed8409e5d56996",
   "lastOpenFiles": [
+    "system/Shell.md",
+    "system/Reverse_Shell.md",
+    "system/Privilege_Escalation.md",
+    "system/Enumeration.md",
+    "system/Binaries.md",
     "OSINT/Osint-Utils.md",
     "OSINT/Enumeration_des_sous_domaines.md",
     "OSINT/Decouvertes_du_contenu.md",
@@ -180,12 +185,7 @@
     "cryptographie/Hash.md",
     "cryptographie/Encryption_Chiffrement.md",
     "conflict-files-obsidian-git.md",
-    "system/Shell.md",
-    "system/Binaries.md",
-    "system/Enumeration.md",
-    "system/Privilege_Escalation.md",
     "web_hacking/Authentification-Bypass.md",
-    "system/Reverse_Shell.md",
     "network/DNS-Domain_Name_System.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "system/Socat.md",
