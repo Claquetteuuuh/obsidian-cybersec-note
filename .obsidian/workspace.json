@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c58926e285c74953",
+        "id": "eac4eb0777e3c761",
         "type": "tabs",
         "children": [
           {
-            "id": "e2e12d0ab65ccd5a",
+            "id": "84049ce75e1f8d65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Enumeration.md",
+                "file": "cryptographie/Encryption_Chiffrement.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enumerati",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Enumeration.md",
+                "file": "cryptographie/Encryption_Chiffrement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Enumeration.md",
+                "file": "cryptographie/Encryption_Chiffrement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Enumeration.md"
+                "file": "cryptographie/Encryption_Chiffrement.md"
               }
             }
           },
@@ -164,18 +164,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2e12d0ab65ccd5a",
+  "active": "84049ce75e1f8d65",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "cryptographie/Encryption_Chiffrement.md",
+    "system/Shell.md",
+    "Exploit/Metasploit_Msfvenom.md",
+    "system/Binaries.md",
+    "system/Enumeration.md",
     "system/Privilege_Escalation.md",
     "misc/Comptes.md",
-    "system/Enumeration.md",
     "web_hacking/Authentification-Bypass.md",
-    "system/Shell.md",
     "system/Reverse_Shell.md",
-    "Exploit/Metasploit_Msfvenom.md",
     "misc/Email.md",
     "network/DNS-Domain_Name_System.md",
-    "system/Binaries.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "system/Socat.md",
     "Hacking physique/Capteur.md",
@@ -190,8 +192,6 @@
     "network/NMAP-Advanced_Port_Scan.md",
     "network/Protocoles_Serveur.md",
     "Forensic/Windows Register.md",
-    "Forensic/Digital Forensic.md",
-    "Exploit/Metasploit-Modules.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
