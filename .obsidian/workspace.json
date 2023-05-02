@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eac4eb0777e3c761",
+        "id": "867e3644edca7d61",
         "type": "tabs",
         "children": [
           {
-            "id": "84049ce75e1f8d65",
+            "id": "c8ed8409e5d56996",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/Binaries.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/Binaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/Binaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/Binaries.md"
+              }
             }
           },
           {
@@ -156,8 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84049ce75e1f8d65",
+  "active": "c8ed8409e5d56996",
   "lastOpenFiles": [
+    "OSINT/Osint-Utils.md",
+    "OSINT/Enumeration_des_sous_domaines.md",
     "OSINT/Decouvertes_du_contenu.md",
     "misc/Email.md",
     "misc/Comptes.md",
@@ -182,8 +192,6 @@
     "network/NMAP-Post_Port_Scan.md",
     "network/NMAP-Host_active_directory.md",
     "network/NMAP-TCP_UDP_Port_Scan.md",
-    "Pentest_Notion_de_base.md",
-    "web_hacking/Bypass_File_upload_filters.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
