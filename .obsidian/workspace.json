@@ -166,8 +166,9 @@
   },
   "active": "84049ce75e1f8d65",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "cryptographie/Hash.md",
     "cryptographie/Encryption_Chiffrement.md",
+    "conflict-files-obsidian-git.md",
     "system/Shell.md",
     "Exploit/Metasploit_Msfvenom.md",
     "system/Binaries.md",
@@ -191,7 +192,6 @@
     "OSINT/Osint-Utils.md",
     "network/NMAP-Advanced_Port_Scan.md",
     "network/Protocoles_Serveur.md",
-    "Forensic/Windows Register.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
