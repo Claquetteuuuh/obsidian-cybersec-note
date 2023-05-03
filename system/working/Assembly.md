@@ -98,6 +98,11 @@ LSL R0,R0,#2 ; Stock dans R0 le resultat de R0 * 4
 ```
 
 
+### __CMP__
+
+#### Description
+
+CMP effectue une comparaison entre 2 nombres en faisant une soustraction. Il est suivis 
 
 
 ## __Condition__
