@@ -11,8 +11,12 @@
             "id": "993dc35961e8ada7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/Reverse_Shell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/Reverse_Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/Reverse_Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/Reverse_Shell.md"
+              }
             }
           },
           {
@@ -166,6 +174,7 @@
   },
   "active": "993dc35961e8ada7",
   "lastOpenFiles": [
+    "system/Privilege_Escalation.md",
     "system/PowerShell_Obfuscation.md",
     "system/Reverse_Shell.md",
     "system/Shell.md",
@@ -178,7 +187,6 @@
     "web_hacking/Bypass_File_upload_filters.md",
     "web_hacking/Authentification-Bypass.md",
     "system/Socat.md",
-    "system/Privilege_Escalation.md",
     "system/Enumeration.md",
     "system/Binaries.md",
     "OSINT/Osint-Utils.md",
