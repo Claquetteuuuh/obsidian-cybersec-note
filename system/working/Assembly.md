@@ -304,9 +304,12 @@ suite :
 MOV R0, #0
 STR R0, [SP, #8]
 
-LDR R0, [SP, #8]
-LDR R1, [SP, #4]
-LDR R2, [SP]
+boucle:
+	LDR R0, [SP, #8]
+	LDR R1, [SP, #4]
+	LDR R2, [SP]
 
+	CMP R0, #100
+	
 
 ```
