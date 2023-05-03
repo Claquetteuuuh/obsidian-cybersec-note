@@ -108,9 +108,9 @@ CMP effectue une comparaison entre 2 nombres en faisant une soustraction. Il est
 
 **CMP RX, n**
 **Bxx suite** 
-	**code du if**
+	**code du cas ou c'est bas Bxx**
 **suite :**
-	**code apres le if**
+	**si c'est Bxx**
 
 ## __Condition__
 
@@ -266,16 +266,15 @@ STR R4,[R3,R1]
 2)
 
 ```
-LDR R0, [SP, #4]
-LDR R1, [SP]
+LDR R0,[SP,#4]
+CMP R0,#28
+BGE suite
+    MOV R0,#54
+    STR R0,[SP]
+suite:
+    MOV R0,#73
+    STR R0,[SP,#4]
 
-CMP R0, #28
-BLT suite
-	MOV R1, #54
-	STR R1, [SP]
-suite: 
-	MOV R0, #73
-	STR R0, [SP, #4]
 ```
 
 3)
