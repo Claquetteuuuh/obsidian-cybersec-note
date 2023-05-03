@@ -33,4 +33,9 @@ LDR R1, [10, #5]  ; Charge dans R1 la valeur à l'adresse 0x10 + 5
 ```
 
 
-## __
+## __STR__
+
+### Description
+
+STR sert à stocker une valeur dans une adresse mémoire.
+
