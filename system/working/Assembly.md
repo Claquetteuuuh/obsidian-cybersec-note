@@ -184,10 +184,11 @@ STR R0, [SP, #4]
 2)
 
 ```
-LDR R0, [SP, 28]
-LDR R1, [SP, 4]
+LDR R0, [SP, #28]
+LDR R1, [SP, #4]
 LDR R2, [SP]
 ADD R0, R0, R1
-STR R0, [SP, 8]
-ADD R2, [SP, 20]
+STR R0, [SP, #8]
+ADD R2, [SP, #20], [SP, #24]
+STR R2, [SP]
 ```
