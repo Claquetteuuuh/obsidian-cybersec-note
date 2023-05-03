@@ -100,7 +100,9 @@ LSL R0,R0,#2 ; Stock dans R0 le resultat de R0 * 4
 
 ## __Condition__
 
-| 
+| Condition   | Resultat | Z   | N   | V   | Instruction |
+| ----------- | -------- | --- | --- | --- | ----------- |
+| (R1) = (R0) | (R1) - (R0)         |     |     |     |             |
 
 ## __Exercices__
 
