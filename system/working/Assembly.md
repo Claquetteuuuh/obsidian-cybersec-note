@@ -37,8 +37,13 @@ LDR R1, [10, #5]  ; Charge dans R1 la valeur à l'adresse 0x10 + 5
 
 ### Description
 
-STR sert à stocker une valeur dans une adresse mémoire.
+STR sert à stocker un registre dans une adresse mémoire.
 
 ### Usage
 
-**STR \<REGISTRE> **
+**STR RX, \<ADR>**
+
+```
+ADD R0, #4, #2  ; 
+STR R0, 36208   ;
+```
