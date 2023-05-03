@@ -240,6 +240,13 @@ STR R2, [SP]
 
 3)
 
+```c
+int tab[100];
+int x = 33;
+
+tab[x] = tab[x + 8];
+```
+
 ```
 MOV R0, #33
 STR R0, [SP]
@@ -381,5 +388,8 @@ STR R2, [SP]
 6)
 
 ```
-
+MOV R0, #36
+STR R0, [SP, #4]
+MOV R1, #0
+STR R
 ```
