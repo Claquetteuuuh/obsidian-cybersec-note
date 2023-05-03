@@ -43,3 +43,5 @@ print(entropy(content))
 
 Avant d'effectuer une tentative d'obscusissement du code, il faut **savoir ce qui déclanche l'alerte**, pour se faire, on peut utiliser **[AMSITrigger](https://github.com/RythmStick/AMSITrigger)**.
 
+On peut également le faire à la main en regardant les erreurs.
+
