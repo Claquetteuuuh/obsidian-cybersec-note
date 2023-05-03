@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "f8c0bd5619abfdca",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6bbce3be5073b73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "943b89a9f442327e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e8adae6cb6ad324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7022277ca81070c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d6a296b81b33bd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3aae7675efef97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19b4ff070db0582e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "robots.txt",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aad7d8028f10421c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1eafb4857463d10",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1692184e1741b59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519223614e578f2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1db4fd7d86bd7b91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "485559b267c17bd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8d96d76226bfba9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          },
+          {
+            "id": "f12e24e0fe78b7ac",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d68d501aa19161d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7e8adae6cb6ad324",
+  "lastOpenFiles": [
+    "assets/imgs/system/shell-non-interactif.png",
+    "assets/imgs/system/shell-interactif.png",
+    "conflict-files-obsidian-git.md",
+    "system/PowerShell_Obfuscation.md",
+    "assets/imgs/system/shell/shell-non-interactif.png",
+    "assets/imgs/system/shell/shell-interactif.png",
+    "assets/imgs/system/shell",
+    "assets/imgs/system/obfuscation/renameObj1.png",
+    "assets/imgs/system/obfuscation/Entropy1.png",
+    "assets/imgs/system/obfuscation",
+    "system/shell",
+    "system/working",
+    "Hacking physique/Capteur.md",
+    "system/Privilege_Escalation.md",
+    "system/Enumeration.md",
+    "system/Reverse_Shell.md",
+    "misc/Comptes.md",
+    "system/Binaries.md",
+    "assets/Excalidraw/schema-RPi.md",
+    "OSINT/Osint-Utils.md",
+    "web_hacking/Authentification-Bypass.md",
+    "Exploit/Metasploit-msfconsole.md",
+    "Exploit/Meterpreter-Post_exploitation.md",
+    "Forensic/Digital Forensic.md",
+    "Forensic/Windows Register.md",
+    "misc/Email.md",
+    "misc/VPN.md",
+    "network/DNS-Domain_Name_System.md",
+    "network/Network.md",
+    "network/NMAP-Advanced_Port_Scan.md",
+    "network/NMAP-Host_active_directory.md",
+    "network/NMAP-TCP_UDP_Port_Scan.md",
+    "network/Protocoles_Serveur.md",
+    "network/NMAP-Post_Port_Scan.md",
+    "OSINT/Decouvertes_du_contenu.md",
+    "CTF",
+    "Pasted image 20230412142136.png",
+    "assets/imgs/system",
+    "assets/imgs/physical/MFRC522/interface2.png",
+    "assets/imgs/physical/MFRC522/interface1.png",
+    "assets/imgs/physical/MFRC522/mode-emploi.png",
+    "assets/imgs/physical/MFRC522",
+    "assets/imgs/physical",
+    "Hacking physique",
+    "assets/imgs/forensic",
+    "Untitled.canvas"
+  ]
+}
