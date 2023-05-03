@@ -4,4 +4,4 @@ L'**obfuscation** est le fait de **rendre** un payload **plus obscure** afin d'*
 
 ## __Entropie__
 
-L'entropie est une notion mathématique qui vise à mesurer l
+L'entropie est une notion mathématique qui vise à mesurer à quel point un payload est aléatoire, plus 
