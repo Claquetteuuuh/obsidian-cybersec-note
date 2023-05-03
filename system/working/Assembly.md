@@ -87,7 +87,7 @@ STR R0, 36208   ; Stock R0 à l'adresse 0x36208
 
 #### Description
 
-
+LSL decale la valeur de n bit vers la gauche en binaire, soit elle multiplie par un multiple d
 
 
 ## __Exercices__
