@@ -303,18 +303,18 @@ suite :
 ```
 MOV R0, #0
 STR R0, [SP, #8]
+LDR R0, [SP, #8]
+LDR R1, [SP, #4]
+LDR R2, [SP]
 
-boucle:
-	LDR R0, [SP, #8]
-	LDR R1, [SP, #4]
-	LDR R2, [SP]
-
+boucle:	
 	CMP R0, #100
 	BGE suite
 		ADD R1, R1, R2
 		STR R1, [SP, #4]
 		ADD R0, R0, #3
 		STR R0, [SP, #8]
+		BAL boucle
 
 suite:
 ADD R2, R1, #9
