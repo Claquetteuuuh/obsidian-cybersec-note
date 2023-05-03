@@ -288,8 +288,10 @@ CMP R0, R1
 BNE suite
 	MOV R1, #54
 	STR R1, [SP]
-BEQ else
+BEQ suite
 	MOV R1, #28
 	STR R1, [SP]
-
+suite :
+	MOV R0, #73
+	STR R1, [SP, #4]
 ```
