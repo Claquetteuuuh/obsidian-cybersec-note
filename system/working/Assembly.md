@@ -271,5 +271,7 @@ LDR R1, [SP]
 
 CMP R0, #28
 BLT suite
-	
+
+suite: 
+	MOV R0, #73
 ```
