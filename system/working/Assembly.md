@@ -269,5 +269,7 @@ STR R4,[R3,R1]
 LDR R0, [SP, #4]
 LDR R1, [SP]
 
-CMP
+CMP R0, #28
+BLT suite
+	
 ```
