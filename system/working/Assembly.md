@@ -312,6 +312,11 @@ boucle:
 	CMP R0, #100
 	BGE suite
 		ADD R1, R1, R2
-		ADD 
+		STR R1, [SP, #4]
+		ADD R0, R0, #3
+		STR R0, [SP, #8]
+
+suite:
+MOV 
 
 ```
