@@ -284,12 +284,13 @@ LDR R0, [SP, #4]
 LDR R1, [SP]
 
 CMP R0, R1
-BNE suite
+BNE else
 	MOV R1, #54
 	STR R1, [SP]
-BEQ suite
-	MOV R1, #28
-	STR R1, [SP]
+BAL suite
+	else: 
+		MOV R1, #28
+		STR R1, [SP]
 suite :
 	MOV R0, #73
 	STR R1, [SP, #4]
