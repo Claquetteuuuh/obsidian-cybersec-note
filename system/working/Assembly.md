@@ -86,4 +86,67 @@ STR R0, 36208   ; Stock R0 à l'adresse 0x36208
 ### 
 
 
-## __
+## __Exercices__
+
+Partie 1
+
+1)
+
+```
+MOV R0, #36
+MOV R1, #24
+ADD R2, R0, R1
+```
+
+2)
+
+```
+LDR R0, 36200
+LDR R1, 36204
+ADD R1, R1, R0
+STR R1, 36208
+```
+
+3)
+.1)
+LDR R0, 60504
+ADD R0, R0, #2
+STR R0, 60504
+.2)
+MOV R1, #60504
+LDR R0, [R1]
+ADD R0, R0, #2
+STR R0, [R1]
+
+4)
+MOV R0, #33
+STR R0, [SP]
+
+5)
+MOV R0, #9
+STR R0, [SP, #8]
+MOV R1, #7
+STR R1, [SP, #4]
+ADD R1, R1, R0
+STR R1, [SP]
+
+6)
+MOV R0, #11
+STR R0, [SP, #12]
+SUB R1, R0, #22
+STR R1, [SP, #8]
+MOV R2, #33
+STR R2, [SP, #4]
+ADD R3, R1, #44
+SUB R3, R3, R2
+ADD R3, R3, R0
+STR R3, [SP]
+
+7)
+MOV R0, #19
+STR R0, [SP, #4]
+MOV R1, [SP, #4]
+STR R1, [SP]
+MOV R0, #34
+STR R0, [R1]
+
