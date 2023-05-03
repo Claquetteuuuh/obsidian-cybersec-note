@@ -323,5 +323,11 @@ STR R2, [SP]
 5)
 
 ```
-MOV R0, #
+MOV R0, #7
+STR R0, [SP, #8]
+MOV R1, #0
+STR R1, [SP, #4]
+
+boucle:
+	C
 ```
