@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e3527438bad09e7e",
+        "id": "c6bbce3be5073b73",
         "type": "tabs",
         "children": [
           {
-            "id": "ded3efbb25eb6d54",
+            "id": "943b89a9f442327e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/Privilege_Escalation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Privilege_Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Privilege_Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "system/Privilege_Escalation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,14 +156,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ded3efbb25eb6d54",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "system/shell",
+    "system/working",
+    "Hacking physique/Capteur.md",
+    "system/Privilege_Escalation.md",
     "system/Enumeration.md",
     "system/Reverse_Shell.md",
-    "system/Privilege_Escalation.md",
     "misc/Comptes.md",
     "system/Binaries.md",
-    "Hacking physique/Capteur.md",
     "assets/Excalidraw/schema-RPi.md",
     "conflict-files-obsidian-git.md",
     "OSINT/Osint-Utils.md",
@@ -191,7 +185,6 @@
     "network/NMAP-Post_Port_Scan.md",
     "OSINT/Decouvertes_du_contenu.md",
     "OSINT/Enumeration_des_sous_domaines.md",
-    "system/Shell.md",
     "CTF",
     "assets/imgs/system/shell-non-interactif.png",
     "Pasted image 20230412142136.png",
@@ -211,7 +204,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
     "assets/imgs/web_hacking/xss",
-    "assets/imgs/web_hacking",
     "Untitled.canvas"
   ]
 }
