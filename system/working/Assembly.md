@@ -1,11 +1,12 @@
 
-## __MOV__
 
-### Description
+### __MOV__
+
+#### Description
 
 MOV sert à stocker des valeurs dans un registre. Cela peut être un nombre, une adresse mémoire.
 
-### Usage
+#### Usage
 
 **MOV RX , \<VAL>**
  
@@ -16,13 +17,13 @@ MOV R2, [R1]   ; Stock la valeur de l'adresse stocké dans R1 dans R2
 ```
 
 
-## __LDR__
+### __LDR__
 
-### Description
+#### Description
 
 LDR sert à charger une valeur stocké à une adresse mémoire dans un registre.
 
-### Usage
+#### Usage
 
 **LDR RX, \<ADR>**
 
@@ -33,9 +34,9 @@ LDR R1, [10, #5]  ; Charge dans R1 la valeur à l'adresse 0x10 + 5
 ```
 
 
-## __ADD__
+### __ADD__
 
-### Description
+###"" Description
 
 ADD sert à stocker le resultat d'une addition dans un registre.
 
