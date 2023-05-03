@@ -50,7 +50,9 @@ On peut également le faire à la main en regardant les erreurs.
 
 Il est important de renommer le nom de nos variables en respectant le concept de [Entropie](PowerShell_Obfuscation#__Entropie__), cela rend le travail plus difficile pour les antivirus.
 
-V
+Voici un code détecté par les antivirus classique dont windows defender :
+
+![[Pasted image 20230503054431.png]]
 
 
 ```powershell
