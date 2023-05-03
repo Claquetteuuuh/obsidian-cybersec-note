@@ -329,5 +329,8 @@ MOV R1, #0
 STR R1, [SP, #4]
 
 boucle:
-	C
+	CMP R1, #1000
+	BGE suite
+suite:
+ADD R2, R0, 
 ```
