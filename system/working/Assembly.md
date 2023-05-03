@@ -102,7 +102,7 @@ LSL R0,R0,#2 ; Stock dans R0 le resultat de R0 * 4
 
 #### Description
 
-CMP effectue une comparaison entre 2 nombres en faisant une soustraction. Il est suivis 
+CMP effectue une comparaison entre 2 nombres en faisant une soustraction. Il est suivis d'une [instruction](Assembly## __Condition__) (BEQ, BNE ...)
 
 
 ## __Condition__

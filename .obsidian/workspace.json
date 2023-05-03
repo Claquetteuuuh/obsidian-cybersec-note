@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6bbce3be5073b73",
+        "id": "76a4a3a382f32b7c",
         "type": "tabs",
         "children": [
           {
-            "id": "943b89a9f442327e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/shell/Shell_explanation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f8fad93acfe4dc8",
+            "id": "53377e6e1a8fe85d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,9 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "53377e6e1a8fe85d",
   "lastOpenFiles": [
     "system/shell/Shell_explanation.md",
+    "().md",
     "system/working/Assembly.md",
     "system/priv_esc",
     "conflict-files-obsidian-git.md",
@@ -215,7 +203,6 @@
     "network/NMAP-Host_active_directory.md",
     "network/NMAP-TCP_UDP_Port_Scan.md",
     "network/Protocoles_Serveur.md",
-    "network/NMAP-Post_Port_Scan.md",
     "CTF",
     "Pasted image 20230412142136.png",
     "assets/imgs/system",
