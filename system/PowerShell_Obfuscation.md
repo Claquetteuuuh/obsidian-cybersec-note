@@ -48,7 +48,9 @@ On peut également le faire à la main en regardant les erreurs.
 
 ## __Rename Objects__
 
-Il est important de renommer le nom de nos variables en respectant le concept de [[, cela rend le travail plus difficile pour les antivirus
+Il est important de renommer le nom de nos variables en respectant le concept de [Entropie](PowerShell_Obfuscation#__Entropie__), cela rend le travail plus difficile pour les antivirus.
+
+V
 
 
 ```powershell
