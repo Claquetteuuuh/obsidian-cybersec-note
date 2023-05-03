@@ -310,6 +310,8 @@ boucle:
 	LDR R2, [SP]
 
 	CMP R0, #100
-	
+	BGE suite
+		ADD R1, R1, R2
+		ADD 
 
 ```
