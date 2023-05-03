@@ -3,7 +3,7 @@
 
 ### Description
 
-MOV sert à stocker des valeurs dans un registre. Cela peut être un nombre, une adresse.
+MOV sert à stocker des valeurs dans un registre. Cela peut être un nombre, une adresse mémoire.
 
 ### Usage
 
@@ -20,7 +20,7 @@ MOV R2, [R1]   ; Stock la valeur de l'adresse stocké dans R1 dans R2
 
 ### Description
 
-LDR sert à charger une valeur stocké à une adresse dans un registre.
+LDR sert à charger une valeur stocké à une adresse mémoire dans un registre.
 
 ### Usage
 
@@ -39,3 +39,6 @@ LDR R1, [10, #5]  ; Charge dans R1 la valeur à l'adresse 0x10 + 5
 
 STR sert à stocker une valeur dans une adresse mémoire.
 
+### Usage
+
+**STR \<REGISTRE> **
