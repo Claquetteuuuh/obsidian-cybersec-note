@@ -33,22 +33,6 @@ LDR R1, [10, #5]  ; Charge dans R1 la valeur à l'adresse 0x10 + 5
 ```
 
 
-## __STR__
-
-### Description
-
-STR sert à stocker un registre dans une adresse mémoire.
-
-### Usage
-
-**STR RX, \<ADR>**
-
-```asm
-ADD R0, #4, #2  ; Met le resultat de 4 + 2 dans R0
-STR R0, 36208   ; Stock R0 à l'adresse 0x36208
-```
-
-
 ## __ADD__
 
 ### Description
@@ -60,5 +44,24 @@ ADD sert à stocker le resultat d'une addition dans un registre.
 **ADD RX, \<n1>, \<n2>**
 
 ```asm
-
+ADD R0, #4, #2 ; Met le resultat de 4 + 2 dans R0
 ```
+
+
+## __STR__
+
+### Description
+
+STR sert à stocker un registre dans une adresse mémoire.
+
+### Usage
+
+**STR RX, \<ADR>**
+
+```asm
+ADD R0, #4, #2
+STR R0, 36208   ; Stock R0 à l'adresse 0x36208
+```
+
+
+## 
