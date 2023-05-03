@@ -174,8 +174,9 @@ STR R0, [R1]
 
 ```
 MOV R0, #5
-STR R0, [SP, #8]
+STR R0, [SP, #12]
 MOV R0, #9
 STR R0, [SP]
-LDR R0, [SP, ]
+LDR R0, [SP, #16]
+STR R0, [SP, #4]
 ```
