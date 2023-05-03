@@ -27,6 +27,8 @@ LDR sert à charger une valeur stocké à une adresse dans un registre.
 **LDR RX, \<ADR>**
 
 ```asm
-MOV 
+MOV R0, #0x01
+LDR R0, [R0]
+LDR R1, [10, ]
 ```
 
