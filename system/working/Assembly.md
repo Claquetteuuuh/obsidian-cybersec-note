@@ -94,7 +94,7 @@ LSL decale la valeur de n bit vers la gauche en binaire, soit elle multiplie par
 **LSL RX, RX, \#n**
 
 ```
-LSL R0,R0,#2 ; Stock d
+LSL R0,R0,#2 ; Stock dans R0 le resultat de R0 * 4
 ```
 
 
