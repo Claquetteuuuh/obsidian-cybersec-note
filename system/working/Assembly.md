@@ -1,4 +1,10 @@
+## __Registres__
 
+Les registres sont des endroits dans le processeur où l'on peut stocker des valeurs.
+
+On dispose de 1
+
+## __Instruction__
 
 ### __MOV__
 
@@ -36,11 +42,11 @@ LDR R1, [10, #5]  ; Charge dans R1 la valeur à l'adresse 0x10 + 5
 
 ### __ADD__
 
-###"" Description
+#### Description
 
 ADD sert à stocker le resultat d'une addition dans un registre.
 
-### Usage
+#### Usage
 
 **ADD RX, \<n1>, \<n2>**
 
@@ -49,13 +55,13 @@ ADD R0, #4, #2 ; Met le resultat de 4 + 2 dans R0
 ```
 
 
-## __STR__
+### __STR__
 
-### Description
+#### Description
 
 STR sert à stocker un registre dans une adresse mémoire.
 
-### Usage
+#### Usage
 
 **STR RX, \<ADR>**
 
@@ -65,4 +71,4 @@ STR R0, 36208   ; Stock R0 à l'adresse 0x36208
 ```
 
 
-## 
+### 
