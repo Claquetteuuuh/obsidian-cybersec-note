@@ -184,5 +184,8 @@ STR R0, [SP, #4]
 2)
 
 ```
-
+LDR R0, [SP, 28]
+LDR R1, [SP, 4]
+LDR R2, [SP]
+ADD R
 ```
