@@ -41,3 +41,4 @@ print(entropy(content))
 
 ## __Identify Detection Triggers__
 
+Avant d'effectuer une tentative d'obscusissement du code, il faut savoir ce qui déclanche l'alerte, pour se faire
