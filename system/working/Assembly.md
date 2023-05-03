@@ -301,5 +301,9 @@ suite :
 4)
 
 ```
+LDR R0, [SP, #8]
+LDR R1, [SP, #4]
+LDR R2, [SP]
+
 
 ```
