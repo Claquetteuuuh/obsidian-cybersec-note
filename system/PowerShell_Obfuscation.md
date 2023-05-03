@@ -6,7 +6,7 @@ L'**obfuscation** est le fait de **rendre** un payload **plus obscure** afin d'*
 
 L'**entropie** est une notion mathématique qui vise à **mesurer** à quel point un **payload est aléatoire**, si une chaine est composé exclusivement d'un seul caractère son entropie sera 0, **plus il y a de caractère différent plus l'entropie va augmenter**, le calcul prend aussi en compte la **fréquence d'apparition** de ces caractères.
 
-Pour la calculer on a implémenté la **formule** de **Claude E. Shannon** en python :
+Pour la calculer on a implémenté la **formule de Claude E. Shannon** en python :
 
 ```python
 #!/bin/python3
@@ -41,5 +41,5 @@ print(entropy(content))
 
 ## __Identify Detection Triggers__
 
-Avant d'effectuer une tentative d'obscusissement du code, il faut savoir ce qui déclanche l'alerte, pour se faire, on peut utiliser **[AMSITrigger](https://github.com/RythmStick/AMSITrigger)**.
+Avant d'effectuer une tentative d'obscusissement du code, il faut **savoir ce qui déclanche l'alerte**, pour se faire, on peut utiliser **[AMSITrigger](https://github.com/RythmStick/AMSITrigger)**.
 
