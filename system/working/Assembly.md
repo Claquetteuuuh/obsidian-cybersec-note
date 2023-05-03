@@ -212,5 +212,5 @@ STR R2, [SP]
 ```
 MOV R0, #33
 STR R0, [SP]
-
+LSL R1, 
 ```
