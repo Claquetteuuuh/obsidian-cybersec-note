@@ -106,8 +106,8 @@ LSL R0,R0,#2 ; Stock dans R0 le resultat de R0 * 4
 | (R1) != (R0) | (R1) - (R0) != 0       | 0      | x      | 0   | BNE         |
 | (R1) < (R0)  | (R1) - (R0) < 0        | 0      | 1      | 0   | BLT         |
 | (R1) > (R0)  | (R1) - (R0) > 0        | 0      | 0      | 0   | BGT         |
-| (R1) <= (R0) | (R1) - (R0) < 0 ou = 0 | 1 ou 0 | 0 ou 1 | 0   | BLE         |
-| (R1) >= (R0) | (R1) - (R0) > 0 ou =                        |        |        |     |             |
+| (R1) <= (R0) | (R1) - (R0) < 0 ou = 0 | 0 ou 1 | 1 ou 0 | 0   | BLE         |
+| (R1) >= (R0) | (R1) - (R0) > 0 ou = 0 | 0 ou 1 | 0      | 0   | BGE            |
 
 ## __Exercices__
 
