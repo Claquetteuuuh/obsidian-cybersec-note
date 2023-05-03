@@ -249,5 +249,8 @@ STR R4,[R3,R1]
 
 <u>Partie 3 - if tous ca</u>
 
-1)
+2)
 
+```
+
+```
