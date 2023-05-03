@@ -4,13 +4,16 @@ Les registres sont des endroits dans le processeur où l'on peut stocker des val
 
 On dispose de 16 registres en ARM.
 
-| Registres         | Usages                             |
-| ----------------- | ---------------------------------- |
-| **R0 -> R6**      | nous servent à stocker des valeurs |
-| **R7**            | stock des nombres SYSCALL          |
-| **R8 -> R10**     | utilisé pour FIQ                   |
-| **R11** ou **BP** | Base pointer                       |
-| **R12**           | Stack                                   |
+| Registres         | Usages                                               |
+| ----------------- | ---------------------------------------------------- |
+| **R0 -> R6**      | nous servent à stocker des valeurs                   |
+| **R7**            | stock des nombres SYSCALL                            |
+| **R8 -> R10**     | utilisé pour FIQ                                     |
+| **R11** ou **BP** | Base pointer                                         |
+| **R12**           | Scratch registre                                     |
+| **R13** ou **SP** | Stack pointer (haut de la pile)                      |
+| **R14** ou **LR** | Link register (pointe vers la prochaine instruction) |
+| **R15**           | Program counter                                                     |
 
 
 ## __Instruction__
