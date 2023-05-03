@@ -45,3 +45,4 @@ Avant d'effectuer une tentative d'obscusissement du code, il faut **savoir ce qu
 
 On peut également le faire à la main en regardant les erreurs.
 
+
