@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "35623e142b87f3ed",
+        "id": "4352c1865b171c22",
         "type": "tabs",
         "children": [
           {
-            "id": "915d8b80d00b3df4",
+            "id": "2c96693bcdae0958",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "b4bd2916958bf399",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,6 +71,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d48edad24ad0bb5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Decouvertes_du_contenu.md",
+                "file": "CTF/Pickle rick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Decouvertes_du_contenu.md",
+                "file": "CTF/Pickle rick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Decouvertes_du_contenu.md"
+                "file": "CTF/Pickle rick.md"
               }
             }
           },
@@ -160,8 +179,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "b4bd2916958bf399",
   "lastOpenFiles": [
+    "OSINT/Decouvertes_du_contenu.md",
     "web_hacking/XSS.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "web_hacking/Authentification-Bypass.md",
@@ -173,7 +193,6 @@
     "system/Binaries.md",
     "OSINT/Osint-Utils.md",
     "OSINT/Enumeration_des_sous_domaines.md",
-    "OSINT/Decouvertes_du_contenu.md",
     "misc/Email.md",
     "misc/Comptes.md",
     "Hacking physique/Capteur.md",
