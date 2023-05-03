@@ -391,5 +391,13 @@ STR R2, [SP]
 MOV R0, #36
 STR R0, [SP, #4]
 MOV R1, #0
-STR R
+STR R1, [SP]
+etiq1:
+	CMP R1, #100
+	BGE etiq2
+	ADD R0, R0, R1
+	ADD R0, R0, #2
+	STR R0, [SP, #4]
+	ADD R1, R1, #1
+	STR 
 ```
