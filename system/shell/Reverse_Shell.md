@@ -1,6 +1,6 @@
 
   
-Un reverse shell est un [[Shell_working]] entre une machine cible et la notre.
+Un reverse shell est un [[Shell_explanation]] entre une machine cible et la notre.
 
 ## __Setup Netcat Listener__
 

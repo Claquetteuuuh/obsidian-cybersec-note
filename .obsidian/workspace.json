@@ -11,11 +11,28 @@
             "id": "943b89a9f442327e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/shell/Shell_explanation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f8fad93acfe4dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/working/Assembly.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/working/Assembly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/working/Assembly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/working/Assembly.md"
+              }
             }
           },
           {
@@ -156,10 +177,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "2f8fad93acfe4dc8",
   "lastOpenFiles": [
+    "system/shell/Shell_explanation.md",
+    "system/working/Assembly.md",
+    "system/priv_esc",
     "conflict-files-obsidian-git.md",
-    "system/PowerShell_Obfuscation.md",
+    "system/priv_esc/PowerShell_Obfuscation.md",
     "assets/imgs/system/shell-non-interactif.png",
     "assets/imgs/system/shell-interactif.png",
     "assets/imgs/system/shell/shell-non-interactif.png",
@@ -171,9 +195,9 @@
     "system/shell",
     "system/working",
     "Hacking physique/Capteur.md",
-    "system/Privilege_Escalation.md",
-    "system/Enumeration.md",
-    "system/Reverse_Shell.md",
+    "system/priv_esc/Privilege_Escalation.md",
+    "system/priv_esc/Enumeration.md",
+    "system/shell/Reverse_Shell.md",
     "misc/Comptes.md",
     "system/Binaries.md",
     "assets/Excalidraw/schema-RPi.md",
@@ -192,7 +216,6 @@
     "network/NMAP-TCP_UDP_Port_Scan.md",
     "network/Protocoles_Serveur.md",
     "network/NMAP-Post_Port_Scan.md",
-    "OSINT/Decouvertes_du_contenu.md",
     "CTF",
     "Pasted image 20230412142136.png",
     "assets/imgs/system",
@@ -202,7 +225,6 @@
     "assets/imgs/physical/MFRC522",
     "assets/imgs/physical",
     "Hacking physique",
-    "assets/imgs/forensic",
     "Untitled.canvas"
   ]
 }
