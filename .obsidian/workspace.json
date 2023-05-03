@@ -11,22 +11,15 @@
             "id": "2c96693bcdae0958",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b4bd2916958bf399",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "system/PowerShell_Obfuscation_Bible.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/Pickle rick.md",
+                "file": "system/PowerShell_Obfuscation_Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/Pickle rick.md",
+                "file": "system/PowerShell_Obfuscation_Bible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/Pickle rick.md"
+                "file": "system/PowerShell_Obfuscation_Bible.md"
               }
             }
           },
@@ -179,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4bd2916958bf399",
+  "active": "2c96693bcdae0958",
   "lastOpenFiles": [
+    "system/PowerShell_Obfuscation_Bible.md",
     "OSINT/Decouvertes_du_contenu.md",
     "web_hacking/XSS.md",
     "web_hacking/Bypass_File_upload_filters.md",
@@ -206,7 +200,6 @@
     "conflict-files-obsidian-git.md",
     "network/DNS-Domain_Name_System.md",
     "Exploit/Meterpreter-Post_exploitation.md",
-    "network/NMAP-Post_Port_Scan.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
