@@ -108,9 +108,9 @@ CMP effectue une comparaison entre 2 nombres en faisant une soustraction. Il est
 
 **CMP RX, n**
 **Bxx suite** 
-	**le code du else**
+	**code du if**
 **suite :**
-	**le code du if**
+	**code apres le if**
 
 ## __Condition__
 
