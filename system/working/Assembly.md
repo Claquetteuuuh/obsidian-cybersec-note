@@ -91,7 +91,11 @@ LSL decale la valeur de n bit vers la gauche en binaire, soit elle multiplie par
 
 #### Usage
 
-**LDR R0, [R1, R2 LSL #2]**
+**LSL RX, RX, \#n**
+
+```
+LSL R0,R0,#2 ; Stock d
+```
 
 
 ## __Exercices__
