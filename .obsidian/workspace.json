@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "d4ffa810e8bc7498",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/PowerShell_Obfuscation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/PowerShell_Obfuscation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/PowerShell_Obfuscation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "system/PowerShell_Obfuscation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,12 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4ffa810e8bc7498",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "system/PowerShell_Obfuscation.md",
     "assets/imgs/system/shell-non-interactif.png",
     "assets/imgs/system/shell-interactif.png",
-    "system/PowerShell_Obfuscation.md",
     "assets/imgs/system/shell/shell-non-interactif.png",
     "assets/imgs/system/shell/shell-interactif.png",
     "assets/imgs/system/shell",
