@@ -214,5 +214,6 @@ MOV R0, #33
 STR R0, [SP]
 LSL R1, R0, #2
 ADD R2, R1, #8
-MOV 
+MOV R3, [SP, R2]
+STR R3
 ```
