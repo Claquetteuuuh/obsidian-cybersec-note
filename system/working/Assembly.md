@@ -334,8 +334,10 @@ boucle:
 		ADD R0, R0, R1
 		STR R0, [SP, #8]
 		ADD R1, R1, #1
-		STR R1, [SP, ]
+		STR R1, [SP, #4]
 		BAL boucle
 suite:
 ADD R2, R0, #3
+STR R2, [SP]
 ```
+
