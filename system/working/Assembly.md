@@ -7,6 +7,8 @@ MOV sert à stocker des valeurs dans un registre. Cela peut être un nombre, une
 
 ### Usage
 
+**MOV RX \<VAL>**
+ 
 ```asm
 MOV R0 #45    ; Stock 45 dans R0
 MOV R1 #0x01  ; Stock l'adresse 0x01 dans R1
