@@ -407,5 +407,9 @@ etiq2:
 
 ```c
 int x = 36;
-for(int i = 0; i)
+for(int i = 0; i<100;i++){
+	x += i;
+	x += 2;
+	i += 1
+}
 ```
