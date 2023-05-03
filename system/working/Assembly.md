@@ -88,7 +88,7 @@ STR R0, 36208   ; Stock R0 à l'adresse 0x36208
 
 ## __Exercices__
 
-<u>
+<u>Partie 1</u>
 
 1)
 
@@ -168,3 +168,10 @@ MOV R0, #34
 STR R0, [R1]
 ```
 
+<u>Partie 2 - Tableau</u> 
+
+1)
+
+```
+
+```
