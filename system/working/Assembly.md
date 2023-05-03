@@ -100,9 +100,10 @@ LSL R0,R0,#2 ; Stock dans R0 le resultat de R0 * 4
 
 ## __Condition__
 
-Z signifie que le resultat de l'opération = 0
-N signifie qu'il est negatif
+**Z** signifie que le **resultat** de l'opération **= 0**
+**N** signifie que le **resultat** est **negatif**
 V signifie le depassement
+
 | Condition    | Resultat               | Z      | N      | V   | Instruction |
 | ------------ | ---------------------- | ------ | ------ | --- | ----------- |
 | (R1) = (R0)  | (R1) - (R0) = 0        | 1      | 0      | 0   | BEQ         |
