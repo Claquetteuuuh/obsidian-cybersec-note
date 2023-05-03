@@ -266,5 +266,8 @@ STR R4,[R3,R1]
 2)
 
 ```
+LDR R0, [SP, #4]
+LDR R1, [SP]
 
+CMP
 ```
