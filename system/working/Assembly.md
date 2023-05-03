@@ -108,7 +108,7 @@ CMP effectue une comparaison entre 2 nombres en faisant une soustraction. Il est
 
 **CMP RX, n**
 **Bxx suite** 
-	**code du cas ou c'est bas Bxx**
+	**code du cas ou c'est pas Bxx**
 **suite :**
 	**si c'est Bxx**
 
