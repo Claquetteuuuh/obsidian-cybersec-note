@@ -4,8 +4,12 @@ Les registres sont des endroits dans le processeur où l'on peut stocker des val
 
 On dispose de 16 registres en ARM.
 
-R0 -> R6 qui nous servent à stocker des valeurs
-R7
+| Registres    | Usages                             |
+| ------------ | ---------------------------------- |
+| **R0 -> R6** | nous servent à stocker des valeurs |
+| **R7**       | stock des nombres SYSCALL          |
+| **             |                                    |
+
 
 ## __Instruction__
 
