@@ -102,7 +102,7 @@ LSL R0,R0,#2 ; Stock dans R0 le resultat de R0 * 4
 
 **Z** signifie que le **resultat** de l'opération **= 0**
 **N** signifie que le **resultat** est **negatif**
-V signifie le depassement
+**V** signifie qu'il y a un **depassement**
 
 | Condition    | Resultat               | Z      | N      | V   | Instruction |
 | ------------ | ---------------------- | ------ | ------ | --- | ----------- |
@@ -248,4 +248,6 @@ STR R4,[R3,R1]
 ```
 
 <u>Partie 3 - if tous ca</u>
+
+1)
 
