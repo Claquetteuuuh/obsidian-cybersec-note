@@ -44,6 +44,13 @@ STR sert à stocker un registre dans une adresse mémoire.
 **STR RX, \<ADR>**
 
 ```
-ADD R0, #4, #2  ; 
-STR R0, 36208   ;
+ADD R0, #4, #2  ; Met le resultat de 4 + 2 dans R0
+STR R0, 36208   ; Stock R0 à l'adresse 0x36208
 ```
+
+
+## __ADD__
+
+### Description
+
+ADD sert à stocker le resultat d'un 
