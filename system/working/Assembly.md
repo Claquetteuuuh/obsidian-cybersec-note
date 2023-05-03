@@ -286,5 +286,10 @@ LDR R1, [SP]
 
 CMP R0, R1
 BNE suite
-	MOV 
+	MOV R1, #54
+	STR R1, [SP]
+BEQ else
+	MOV R1, #28
+	STR R1, [SP]
+
 ```
