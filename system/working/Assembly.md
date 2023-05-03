@@ -331,6 +331,11 @@ STR R1, [SP, #4]
 boucle:
 	CMP R1, #1000
 	BGE suite
+		ADD R0, R0, R1
+		STR R0, [SP, #8]
+		ADD R1, R1, #1
+		STR R1, [SP, ]
+		BAL boucle
 suite:
-ADD R2, R0, 
+ADD R2, R0, #3
 ```
