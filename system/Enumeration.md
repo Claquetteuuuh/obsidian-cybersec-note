@@ -1,4 +1,9 @@
 
+```powershell
+
+
+```
+
 Une étape importante dans l'escalation de privilège est l'énumération des informations d'une machine.
 
 
