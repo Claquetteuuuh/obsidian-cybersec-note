@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/PowerShell_Obfuscation_Bible.md",
+                "file": "system/Reverse_Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/PowerShell_Obfuscation_Bible.md",
+                "file": "system/Reverse_Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/PowerShell_Obfuscation_Bible.md",
+                "file": "system/Reverse_Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/PowerShell_Obfuscation_Bible.md"
+                "file": "system/Reverse_Shell.md"
               }
             }
           },
@@ -174,9 +174,9 @@
   },
   "active": "09b98d143a47312f",
   "lastOpenFiles": [
+    "system/PowerShell_Obfuscation_Bible.md",
     "assets/imgs/system/Untitled.md",
     "assets/imgs/system/shell",
-    "system/PowerShell_Obfuscation_Bible.md",
     "assets/imgs/system/entropy",
     "assets/imgs/system/entropy/Entropy1.png",
     "system/Reverse_Shell.md",
