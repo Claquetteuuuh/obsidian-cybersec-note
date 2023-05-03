@@ -8,9 +8,9 @@ MOV sert à stocker des valeurs dans un registre. Cela peut être un nombre, une
 ### Usage
 
 ```asm
-MOV R0 #45
-MOV R1 #0x01
-MOV R2 [R1]
+MOV R0 #45    ; Stock 45 dans R0
+MOV R1 #0x01  ; Stock l'adresse 0x01 dans R1
+MOV R2 [R1]   ; Stock la valeur de l'adresse stocké dans R
 ```
 
 
