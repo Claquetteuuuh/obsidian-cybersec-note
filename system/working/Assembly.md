@@ -189,6 +189,8 @@ LDR R1, [SP, #4]
 LDR R2, [SP]
 ADD R0, R0, R1
 STR R0, [SP, #8]
-ADD R2, [SP, #20], [SP, #24]
+LDR R0, [SP, #20]
+LDR R1, [SP, #24]
+ADD R2, R0, R1
 STR R2, [SP]
 ```
