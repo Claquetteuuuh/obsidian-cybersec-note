@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/PowerShell_Obfuscation.md",
+                "file": "system/Reverse_Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/PowerShell_Obfuscation.md",
+                "file": "system/Reverse_Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/PowerShell_Obfuscation.md",
+                "file": "system/Reverse_Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/PowerShell_Obfuscation.md"
+                "file": "system/Reverse_Shell.md"
               }
             }
           },
@@ -174,13 +174,13 @@
   },
   "active": "09b98d143a47312f",
   "lastOpenFiles": [
-    "system/Reverse_Shell.md",
+    "system/Shell.md",
     "system/PowerShell_Obfuscation.md",
+    "system/Reverse_Shell.md",
     "assets/imgs/system/Untitled.md",
     "assets/imgs/system/shell",
     "assets/imgs/system/entropy",
     "assets/imgs/system/entropy/Entropy1.png",
-    "system/Shell.md",
     "OSINT/Decouvertes_du_contenu.md",
     "web_hacking/XSS.md",
     "web_hacking/Bypass_File_upload_filters.md",
