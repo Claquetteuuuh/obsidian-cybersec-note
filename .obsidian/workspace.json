@@ -11,12 +11,8 @@
             "id": "993dc35961e8ada7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/PowerShell_Obfuscation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/PowerShell_Obfuscation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/PowerShell_Obfuscation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "system/PowerShell_Obfuscation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +164,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "993dc35961e8ada7",
   "lastOpenFiles": [
     "system/PowerShell_Obfuscation.md",
     "system/PowerShell_Obfuscation.md",
