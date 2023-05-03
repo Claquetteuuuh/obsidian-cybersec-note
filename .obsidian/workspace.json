@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Reverse_Shell.md",
+                "file": "system/PowerShell_Obfuscation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Reverse_Shell.md",
+                "file": "system/PowerShell_Obfuscation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Reverse_Shell.md",
+                "file": "system/PowerShell_Obfuscation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Reverse_Shell.md"
+                "file": "system/PowerShell_Obfuscation.md"
               }
             }
           },
@@ -174,12 +174,12 @@
   },
   "active": "09b98d143a47312f",
   "lastOpenFiles": [
-    "system/PowerShell_Obfuscation_Bible.md",
+    "system/Reverse_Shell.md",
+    "system/PowerShell_Obfuscation.md",
     "assets/imgs/system/Untitled.md",
     "assets/imgs/system/shell",
     "assets/imgs/system/entropy",
     "assets/imgs/system/entropy/Entropy1.png",
-    "system/Reverse_Shell.md",
     "system/Shell.md",
     "OSINT/Decouvertes_du_contenu.md",
     "web_hacking/XSS.md",
