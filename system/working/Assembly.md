@@ -399,5 +399,13 @@ etiq1:
 	ADD R0, R0, #2
 	STR R0, [SP, #4]
 	ADD R1, R1, #1
-	STR 
+	STR R1, [SP]
+	BAL etiq1
+etiq2:
+
+```
+
+```c
+int x = 36;
+for(int i = 0; i)
 ```
