@@ -164,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53377e6e1a8fe85d",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "system/Untitled",
     "system/shell/Shell_explanation.md",
     "().md",
     "system/working/Assembly.md",
@@ -202,7 +203,6 @@
     "network/NMAP-Advanced_Port_Scan.md",
     "network/NMAP-Host_active_directory.md",
     "network/NMAP-TCP_UDP_Port_Scan.md",
-    "network/Protocoles_Serveur.md",
     "CTF",
     "Pasted image 20230412142136.png",
     "assets/imgs/system",
