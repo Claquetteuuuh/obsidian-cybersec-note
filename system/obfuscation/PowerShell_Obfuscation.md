@@ -43,7 +43,9 @@ Cela donnera une **entropie bien inférieur** à celle précédente et a **proba
 Pour **modifier automatiquement** le nom des variables [voir scripts](PowerShell_Obfuscation##__Scripts__###Edit_variables_names).
 
 
-## __Hide_Boolean_Values____
+## __Hide_Boolean_Values___
+
+Il est facile de replacer $True 
 
 ## __Scripts__
 
