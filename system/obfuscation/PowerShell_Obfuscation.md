@@ -45,7 +45,7 @@ Pour **modifier automatiquement** le nom des variables [voir scripts](PowerShell
 
 ## __Hide_Boolean_Values___
 
-Il est facile de replacer $True 
+Il est facile de replacer $True ou $False par des expressions boolean équivalentes, voici une liste d'expression qui renvoit True, il suffit de rajouter un ! avant le \[bool]
 
 ## __Scripts__
 
