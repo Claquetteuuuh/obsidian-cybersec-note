@@ -434,6 +434,7 @@ STR R0, [SP]
 
 ```
 foo:
-	PUSH
+	PUSH {R0, R1}
+	ADD R0, #
 ```
 
