@@ -13,7 +13,7 @@ On dispose de **16 registres** en ARM.
 | **R12**           | Scratch registre                                     |
 | **R13** ou **SP** | Stack pointer (haut de la pile)                      |
 | **R14** ou **LR** | Link register (pointe vers la prochaine instruction) |
-| **R15**           | Program counter                                                     |
+| **R15**  ou **PC**         | Program counter                                                     |
 
 
 ## __Instruction__
@@ -440,5 +440,6 @@ foo:
 	STR R0, [SP, #8]
 	LDR R0, [SP, #8] ;  Inutile
 	ADD SP, SP, #8
+	MOV PC, LR
 ```
 
