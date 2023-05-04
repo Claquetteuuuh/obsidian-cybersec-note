@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/working/Assembly.md",
+                "file": "system/priv_esc/PowerShell_Obfuscation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/working/Assembly.md",
+                "file": "system/priv_esc/PowerShell_Obfuscation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/working/Assembly.md",
+                "file": "system/priv_esc/PowerShell_Obfuscation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/working/Assembly.md"
+                "file": "system/priv_esc/PowerShell_Obfuscation.md"
               }
             }
           },
@@ -164,15 +164,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "53377e6e1a8fe85d",
   "lastOpenFiles": [
-    "system/Untitled",
+    "system/firewall/PowerShell_Obfuscation.md",
+    "system/priv_esc/PowerShell_Obfuscation.md",
+    "system/working/Assembly.md",
+    "system/firewall",
     "system/shell/Shell_explanation.md",
     "().md",
-    "system/working/Assembly.md",
     "system/priv_esc",
     "conflict-files-obsidian-git.md",
-    "system/priv_esc/PowerShell_Obfuscation.md",
     "assets/imgs/system/shell-non-interactif.png",
     "assets/imgs/system/shell-interactif.png",
     "assets/imgs/system/shell/shell-non-interactif.png",
@@ -211,7 +212,6 @@
     "assets/imgs/physical/MFRC522/mode-emploi.png",
     "assets/imgs/physical/MFRC522",
     "assets/imgs/physical",
-    "Hacking physique",
     "Untitled.canvas"
   ]
 }
