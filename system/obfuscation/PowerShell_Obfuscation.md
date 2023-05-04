@@ -49,7 +49,23 @@ Il est facile de **replacer** **`$True`** ou **`$False`** par des **expressions 
 
 #### Not 0, null, empty String => True
 
-
+```
+```
+\[bool]1254
+\[bool]0x12AE
+\[bool]\[convert]::ToInt32("111011", 2) # Converts a string to int from base 2 (binary)
+!\[bool]$null
+!\[bool]$False
+\[bool]"Any non empty string"
+\[bool](-12354893)   # Boolean typecast of a negative number 
+\[bool](12 + (3 * 6))
+\[bool](Get-ChildItem -Path Env: | Where-Object {$\_.Name -eq "username"})
+\[bool]@(0x01BE)
+\[bool][System.Collections.ArrayList]
+\[bool][System.Collections.CaseInsensitiveComparer]
+\[bool][System.Collections.Hashtable]
+```
+```
 
 
 ## __Scripts__
