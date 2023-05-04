@@ -437,6 +437,7 @@ foo:
 	PUSH {R0, R1}
 	ADD R0, R0, R1
 	ADD R0, #88
-	STR R0, 
+	STR R0, [SP, #8]
+	LDR R0, [SP, #8] 
 ```
 
