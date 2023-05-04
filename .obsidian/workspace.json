@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/priv_esc/PowerShell_Obfuscation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/priv_esc/PowerShell_Obfuscation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "system/priv_esc/PowerShell_Obfuscation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,16 +160,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53377e6e1a8fe85d",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
-    "system/firewall/PowerShell_Obfuscation.md",
     "system/priv_esc/PowerShell_Obfuscation.md",
+    "conflict-files-obsidian-git.md",
+    "system/Untitled",
+    "system/firewall/PowerShell_Obfuscation.md",
     "system/working/Assembly.md",
     "system/firewall",
     "system/shell/Shell_explanation.md",
     "().md",
     "system/priv_esc",
-    "conflict-files-obsidian-git.md",
     "assets/imgs/system/shell-non-interactif.png",
     "assets/imgs/system/shell-interactif.png",
     "assets/imgs/system/shell/shell-non-interactif.png",
@@ -203,7 +200,6 @@
     "network/Network.md",
     "network/NMAP-Advanced_Port_Scan.md",
     "network/NMAP-Host_active_directory.md",
-    "network/NMAP-TCP_UDP_Port_Scan.md",
     "CTF",
     "Pasted image 20230412142136.png",
     "assets/imgs/system",
@@ -211,7 +207,6 @@
     "assets/imgs/physical/MFRC522/interface1.png",
     "assets/imgs/physical/MFRC522/mode-emploi.png",
     "assets/imgs/physical/MFRC522",
-    "assets/imgs/physical",
     "Untitled.canvas"
   ]
 }
