@@ -11,8 +11,12 @@
             "id": "993dc35961e8ada7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/working/Assembly.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/working/Assembly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/working/Assembly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/working/Assembly.md"
+              }
             }
           },
           {
@@ -164,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d68d501aa19161d",
+  "active": "993dc35961e8ada7",
   "lastOpenFiles": [
+    "system/PowerShell_Obfuscation.md",
     "system/working/Assembly.md",
     "system/working",
     "system/shell/Socat.md",
@@ -179,7 +188,6 @@
     "Pentest_Basics.md",
     "assets/imgs/system/obfuscation/renameObj1.png",
     "system/Enumeration.md",
-    "system/PowerShell_Obfuscation.md",
     "system/Reverse_Shell.md",
     "system/Privilege_Escalation.md",
     "system/Shell.md",
