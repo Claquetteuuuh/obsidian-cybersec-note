@@ -88,6 +88,16 @@ Il est facile de **replacer** **`$True`** ou **`$False`** par des **expressions 
 [Math]::E -ne [Math]::PI
 ```
 
+#### All of this
+
+```
+[bool](![bool]$null)
+[System.Collections.CaseInsensitiveComparer] -ne [bool][datetime]'2023-01-01'
+[bool]$(Get-LocalGroupMember Administrators)
+!!!![bool][bool][bool][bool][bool][bool]
+```
+
+
 ## __Scripts__
 
 ### Calculate_entropy
