@@ -418,4 +418,7 @@ for(int i = 0; i<100;i++){
 ```
 MOV R0, #22
 MOV R1, #33
+BL foo
+STR R0, [SP]
 ```
+
