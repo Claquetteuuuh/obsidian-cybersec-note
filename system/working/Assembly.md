@@ -424,6 +424,16 @@ x = foo(22, 33);
 MOV R0, #22
 MOV R1, #33
 BL foo
+ADD R0, R0, #44
 STR R0, [SP]
+```
+
+```c
+
+```
+
+```
+foo:
+	PUSH
 ```
 
