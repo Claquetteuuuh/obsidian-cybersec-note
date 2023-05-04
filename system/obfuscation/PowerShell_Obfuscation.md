@@ -2,7 +2,7 @@ Source : https://github.com/t3l3machus/PowerShell-Obfuscation-Bible/blob/main/RE
 
 L'**obfuscation** est le fait de **rendre** un payload **plus obscure** afin d'**évader** les protections **Antivirus**.
 
-## __Entropie__
+## __Entropy__
 
 L'**entropie** est une notion mathématique qui vise à **mesurer** à quel point un **payload est aléatoire**, si une chaine est composé exclusivement d'un seul caractère son entropie sera 0, **plus il y a de caractère différent plus l'entropie va augmenter**, le calcul prend aussi en compte la **fréquence d'apparition** de ces caractères.
 
@@ -42,6 +42,8 @@ Cela donnera une **entropie bien inférieur** à celle précédente et a **proba
 
 Pour **modifier automatiquement** le nom des variables [voir scripts](PowerShell_Obfuscation##__Scripts__###Edit_variables_names).
 
+
+## __Hide_Boolean_Values____
 
 ## __Scripts__
 
