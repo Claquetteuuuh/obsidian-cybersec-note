@@ -30,6 +30,8 @@ user@linux:/$ nmap --interactive
 nmap> !sh
 ```
 
+C'est une des astuces disponibles dans [Privilege_Escalation](Privilege_Escalation).
+
 ## __Scripts__
 
 Pour générer des reverses shells vous pouvez utiliser le site de 0day, [revshells](https://www.revshells.com/)
