@@ -11,8 +11,12 @@
             "id": "993dc35961e8ada7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/obfuscation/PowerShell_Obfuscation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/obfuscation/PowerShell_Obfuscation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/obfuscation/PowerShell_Obfuscation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/obfuscation/PowerShell_Obfuscation.md"
+              }
             }
           },
           {
@@ -167,6 +175,7 @@
   "active": "993dc35961e8ada7",
   "lastOpenFiles": [
     "system/obfuscation/PowerShell_Obfuscation.md",
+    "system/obfuscation/PowerShell_Obfuscation.md",
     "system/working/Assembly.md",
     "system/obfuscation",
     "system/PowerShell_Obfuscation.md",
@@ -199,7 +208,6 @@
     "OSINT/Enumeration_des_sous_domaines.md",
     "misc/Email.md",
     "misc/Comptes.md",
-    "Hacking physique/Capteur.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
