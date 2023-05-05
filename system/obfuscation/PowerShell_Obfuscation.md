@@ -20,7 +20,7 @@ On peut également le faire à la main en regardant les erreurs.
 
 ## __Rename Objects__
 
-Il est **important de renommer** le nom de **nos variables** en respectant le concept de [Entropie](PowerShell_Obfuscation.md#__Entropie__), cela rend le travail plus difficile pour les antivirus.
+Il est **important de renommer** le nom de **nos variables** en respectant le concept de [Entropie](PowerShell_Obfuscation.md##__Entropie__), cela rend le travail plus difficile pour les antivirus.
 
 Voici un code détecté par les antivirus classique dont windows defender :
 
