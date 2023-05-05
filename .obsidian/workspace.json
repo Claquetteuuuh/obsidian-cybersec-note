@@ -166,6 +166,7 @@
   },
   "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "misc",
     "misc/VPN.md",
     "misc/Email.md",
     "misc/Comptes.md",
@@ -199,7 +200,6 @@
     "web_hacking/Authentification-Bypass.md",
     "system/Socat.md",
     "system/Binaries.md",
-    "OSINT/Osint-Utils.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
