@@ -11,12 +11,8 @@
             "id": "f3c271514ced6a63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/Email.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "misc/Email.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3c271514ced6a63",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "misc/VPN.md",
+    "misc/Email.md",
     "misc/Comptes.md",
     "Site_utile.md",
     "system/obfuscation/PowerShell_Obfuscation.md",
@@ -206,8 +200,6 @@
     "system/Socat.md",
     "system/Binaries.md",
     "OSINT/Osint-Utils.md",
-    "OSINT/Enumeration_des_sous_domaines.md",
-    "misc/Email.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
     "Forensic",
