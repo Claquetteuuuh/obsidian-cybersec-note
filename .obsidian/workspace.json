@@ -166,10 +166,10 @@
   },
   "active": "3b3aae7675efef97",
   "lastOpenFiles": [
-    "misc",
     "misc/VPN.md",
     "misc/Email.md",
     "misc/Comptes.md",
+    "misc",
     "Site_utile.md",
     "system/obfuscation/PowerShell_Obfuscation.md",
     "system/priv_esc/Privilege_Escalation.md",
@@ -211,7 +211,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters",
-    "assets/imgs/web_hacking/xss",
     "Untitled.canvas"
   ]
 }
