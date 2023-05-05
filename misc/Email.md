@@ -1,4 +1,0 @@
-- [Protonmail](https://proton.me/fr/mail) (te ban si tu fais du illegal)
-- [Tutanota](https://tutanota.com/fr/)
-- [Danwin1210](https://danwin1210.de/)
-- [Yandex](https://yandex.com/) (meilleur de la liste)
