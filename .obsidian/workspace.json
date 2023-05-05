@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md",
+                "file": "misc/Comptes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md",
+                "file": "misc/Comptes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md",
+                "file": "misc/Comptes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md"
+                "file": "misc/Comptes.md"
               }
             }
           },
@@ -174,10 +174,9 @@
   },
   "active": "67fc9dbf36119c95",
   "lastOpenFiles": [
+    "system/obfuscation/PowerShell_Obfuscation.md",
     "system/priv_esc/Privilege_Escalation.md",
     "system/shell/Reverse_Shell.md",
-    "system/obfuscation/PowerShell_Obfuscation.md",
-    "system/obfuscation/PowerShell_Obfuscation.md",
     "system/working/Assembly.md",
     "system/obfuscation",
     "system/PowerShell_Obfuscation.md",
