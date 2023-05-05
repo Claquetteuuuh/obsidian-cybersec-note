@@ -11,8 +11,12 @@
             "id": "f3c271514ced6a63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/obfuscation/PowerShell_Obfuscation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/obfuscation/PowerShell_Obfuscation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/obfuscation/PowerShell_Obfuscation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/obfuscation/PowerShell_Obfuscation.md"
+              }
             }
           },
           {
@@ -164,7 +172,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "f3c271514ced6a63",
   "lastOpenFiles": [
     "misc/VPN.md",
     "misc/Email.md",
