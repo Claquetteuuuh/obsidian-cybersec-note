@@ -1,5 +1,5 @@
 
-## __[Base de donnee](Site_utile#__Base de donnée__)__
+## __Base de donnee__
 
 ```
 0x550
