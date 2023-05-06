@@ -114,7 +114,9 @@ ie""x'' "pwd"
 ```
 
 
-## __d__
+## __Get-Command__
+
+A la place d'écrire nos cmdlet telle quelle, on peut faire appel à la command **`Get-Command`** 
 
 
 ## __Scripts__
