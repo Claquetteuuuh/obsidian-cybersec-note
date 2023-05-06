@@ -11,8 +11,12 @@
             "id": "2af626ab3c92475b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system/shell/Socat.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system/shell/Socat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system/shell/Socat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system/shell/Socat.md"
+              }
             }
           },
           {
@@ -166,6 +174,8 @@
   },
   "active": "2af626ab3c92475b",
   "lastOpenFiles": [
+    "system/shell/Shell_explanation.md",
+    "system/shell/Reverse_Shell.md",
     "system/obfuscation/PowerShell_Obfuscation.md",
     "system/Binaries.md",
     "misc/VPN.md",
@@ -174,13 +184,11 @@
     "misc",
     "Site_utile.md",
     "system/priv_esc/Privilege_Escalation.md",
-    "system/shell/Reverse_Shell.md",
     "system/working/Assembly.md",
     "system/obfuscation",
     "system/PowerShell_Obfuscation.md",
     "system/working",
     "system/shell/Socat.md",
-    "system/shell/Shell_explanation.md",
     "system/shell",
     "system/priv_esc/PowerShell_Obfuscation.md",
     "system/priv_esc/Enumeration.md",
