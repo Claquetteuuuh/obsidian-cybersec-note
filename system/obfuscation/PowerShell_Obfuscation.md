@@ -100,7 +100,8 @@ Il est facile de **replacer** **`$True`** ou **`$False`** par des **expressions 
 
 ## __Quote_Interruption__
 
-On peut placer des guillements entre les cmdlets de powershell
+On peut placer des guillements entre les cmdlets de powershell afin d'obfusquer notre payload.
+Un
 
 
 ## __Scripts__
