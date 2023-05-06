@@ -98,6 +98,11 @@ Il est facile de **replacer** **`$True`** ou **`$False`** par des **expressions 
 ```
 
 
+## __Quote_Interruption__
+
+
+
+
 ## __Scripts__
 
 ### Calculate_entropy
