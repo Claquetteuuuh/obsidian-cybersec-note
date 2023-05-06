@@ -103,7 +103,18 @@ Il est facile de **replacer** **`$True`** ou **`$False`** par des **expressions 
 On peut **placer des guillements** entre les caractères des **cmdlets** de powershell afin d'obfusquer notre payload.
 Pour voir la **liste des cmdlets**, on peut effectuer la commande **`get-command`**.
 
+```powershell
+i''ex "pwd"
+i''e''x "pwd"
+i''e''x'' "pwd"
+ie''x'' "pwd"
+iex'' "pwd"
+i""e''x"" "pwd"
+ie""x'' "pwd"
+```
 
+
+## _____
 
 
 ## __Scripts__
