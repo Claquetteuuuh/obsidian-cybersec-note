@@ -189,7 +189,25 @@ $(cmd.exe /c chdir)
 
 On peut modifier les chaines de caractères afin de changer la signature.
 
-### 
+### Concatenation
+
+```
+'mal' + 'w' + 'ar' + 'e'
+```
+
+### Substring
+
+```
+'xxxmalwarexxx'.Substring(3,7)
+```
+
+### Regex
+
+```
+'a123' -replace '[a-zA-Z]{1}[\d]{1,3}','malware'
+```
+
+### Encode 
 
 
 ## __Scripts__
