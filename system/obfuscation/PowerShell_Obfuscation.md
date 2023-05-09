@@ -133,7 +133,10 @@ par  :
 
 ## __Remplacer les boucles__
 
+Certaines boucles peuvent être changé par exemple une boucle `while(true){}` peut être remplacé par ces boucles :
 
+```powershell
+```
 
 ## __Scripts__
 
