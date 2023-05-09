@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md",
+                "file": "system/priv_esc/Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md",
+                "file": "system/priv_esc/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md",
+                "file": "system/priv_esc/Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md"
+                "file": "system/priv_esc/Enumeration.md"
               }
             }
           },
@@ -166,9 +166,10 @@
   },
   "active": "53377e6e1a8fe85d",
   "lastOpenFiles": [
+    "system/priv_esc/Privilege_Escalation.md",
+    "system/obfuscation/PowerShell_Obfuscation.md",
     "system/obfuscation",
     "conflict-files-obsidian-git.md",
-    "system/obfuscation/PowerShell_Obfuscation.md",
     "system/antivirus",
     "system/firewall/PowerShell_Obfuscation.md",
     "system/working/Assembly.md",
@@ -187,7 +188,6 @@
     "system/shell",
     "system/working",
     "Hacking physique/Capteur.md",
-    "system/priv_esc/Privilege_Escalation.md",
     "system/priv_esc/Enumeration.md",
     "system/shell/Reverse_Shell.md",
     "misc/Comptes.md",
@@ -211,7 +211,6 @@
     "assets/imgs/physical/MFRC522/interface2.png",
     "assets/imgs/physical/MFRC522/interface1.png",
     "assets/imgs/physical/MFRC522/mode-emploi.png",
-    "assets/imgs/physical/MFRC522",
     "Untitled.canvas"
   ]
 }
