@@ -133,9 +133,18 @@ par  :
 
 ## __Remplacer les boucles__
 
-Certaines boucles peuvent être changé par exemple une boucle `while(true){}` peut être remplacé par ces boucles :
+Certaines **boucles** peuvent être **changé** par exemple une boucle **`while(true){}`** peut être remplacé par ces boucles :
 
 ```powershell
+For (;;) {}
+```
+
+```powershell
+Do {} While ($true)
+```
+
+```powershell
+Do { # some code } Until (1 -eq 2)
 ```
 
 ## __Scripts__
