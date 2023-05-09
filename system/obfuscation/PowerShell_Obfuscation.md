@@ -175,14 +175,17 @@ iex $virus;
 
 ## __Commande de substitution__
 
-On peut essayer de substituer des commandes par d'autres, par exemple (pwd).Path, qui sert à renvoyer le dossier actuel, peut être remplacé par :
+On peut essayer de **substituer des commandes** par d'autres, par exemple **`(pwd).Path`**, qui sert à renvoyer le dossier actuel, peut être **remplacé** par :
 
 ```powershell
 $(gl)
 $(get-location)
-$cmd.e
+$(cmd.exe /c chdir)
 "$($p = (Split-Path `"$(pwd)\\0x00\`");if ($p.trim() -eq ''){echo 'C:\'}else{echo $p})"
 ```
+
+
+## ____
 
 
 ## __Scripts__
