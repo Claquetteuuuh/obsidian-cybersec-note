@@ -185,7 +185,11 @@ $(cmd.exe /c chdir)
 ```
 
 
-## ____
+## __Modifier les strings__
+
+On peut modifier les chaines de caractères afin de changer la signature.
+
+### 
 
 
 ## __Scripts__
