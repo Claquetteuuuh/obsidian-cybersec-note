@@ -234,7 +234,7 @@ iex $virus<#**********************#>; <#**********************#>
 
 ## __Casse aleatoire__
 
-Rendre la casse des cmdlets et des parametres peut être utile :
+**Changer la casse** des cmdlets et des parametres peut être utile :
 
 ```powershell
 inVOkE-eXpReSSioN -vErbOse "WHoAmI /aLL" -dEBug
