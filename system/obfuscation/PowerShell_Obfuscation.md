@@ -220,7 +220,9 @@ On peut modifier les chaines de caractères afin de changer la signature.
 ```
 
 
-## 
+## __Ajouter des commentaires__
+
+On rajouter des commentaires 
 
 
 ## __Scripts__
