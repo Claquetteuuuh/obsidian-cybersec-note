@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/priv_esc/Windows_Priv_esc.md",
+                "file": "system/obfuscation/PowerShell_Obfuscation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/priv_esc/Windows_Priv_esc.md",
+                "file": "system/obfuscation/PowerShell_Obfuscation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/priv_esc/Windows_Priv_esc.md",
+                "file": "system/obfuscation/PowerShell_Obfuscation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/priv_esc/Windows_Priv_esc.md"
+                "file": "system/obfuscation/PowerShell_Obfuscation.md"
               }
             }
           },
@@ -174,12 +174,12 @@
   },
   "active": "bad8e049fe13aaea",
   "lastOpenFiles": [
-    "system/obfuscation/PowerShell_Obfuscation.md",
+    "system/priv_esc/Privilege_Escalation.md",
     "system/priv_esc/Windows_Priv_esc.md",
+    "system/obfuscation/PowerShell_Obfuscation.md",
     "Exploit/Metasploit-msfconsole.md",
     "network/NMAP-Advanced_Port_Scan.md",
     "web_hacking/XSS.md",
-    "system/priv_esc/Privilege_Escalation.md",
     "system/priv_esc/Enumeration.md",
     "system/shell/Reverse_Shell.md",
     "system/shell/Socat.md",
