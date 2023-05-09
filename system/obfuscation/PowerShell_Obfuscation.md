@@ -1,6 +1,7 @@
 Source : https://github.com/t3l3machus/PowerShell-Obfuscation-Bible/blob/main/README.md
 
 L'**obfuscation** est le fait de **rendre** un payload **plus obscure** afin d'**évader** les protections **Antivirus**.
+Une tool permettant d'automatiser certains des principes q
 
 ## __Entropy__
 
@@ -233,7 +234,11 @@ iex $virus<#**********************#>; <#**********************#>
 
 ## __Casse aleatoire__
 
-Rendre la casse des cmdlets et de 
+Rendre la casse des cmdlets et des parametres peut être utile :
+
+```powershell
+inVOkE-eXpReSSioN -vErbOse "WHoAmI /aLL" -dEBug
+```
 
 
 ## __Scripts__
