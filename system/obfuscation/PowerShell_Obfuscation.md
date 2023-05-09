@@ -175,7 +175,10 @@ iex $virus;
 
 ## __Commande de substitution__
 
-On peut essayer de 
+On peut essayer de substituer des commandes par d'autres, par exemple (pwd).Path, qui sert à renvoyer le dossier actuel, peut être remplacé par :
+
+```power
+```
 
 
 ## __Scripts__
