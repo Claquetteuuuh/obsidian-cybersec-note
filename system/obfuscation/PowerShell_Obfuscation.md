@@ -222,7 +222,7 @@ On peut modifier les chaines de caractères afin de changer la signature.
 
 ## __Ajouter des commentaires__
 
-On rajouter des commentaires 
+On rajouter des commentaires `<# *** #>` plus ou moins long, cela peut permettre de changer la signature du payload mais surtout de réduire son entropie
 
 
 ## __Scripts__
