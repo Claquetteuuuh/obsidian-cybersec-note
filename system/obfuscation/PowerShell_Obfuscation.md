@@ -177,7 +177,11 @@ iex $virus;
 
 On peut essayer de substituer des commandes par d'autres, par exemple (pwd).Path, qui sert à renvoyer le dossier actuel, peut être remplacé par :
 
-```power
+```powershell
+$(gl)
+$(get-location)
+$cmd.e
+"$($p = (Split-Path `"$(pwd)\\0x00\`");if ($p.trim() -eq ''){echo 'C:\'}else{echo $p})"
 ```
 
 
