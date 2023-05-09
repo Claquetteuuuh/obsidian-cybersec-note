@@ -116,7 +116,7 @@ ie""x'' "pwd"
 
 ## __Get-Command__
 
-A la place d'écrire nos cmdlet telle quelle, on peut faire appel à la command **`Get-Command`** ou **`gcm`** pour les appeller.
+A la place d'écrire nos **cmdlet telle quelle**, on peut faire appel à la command **`Get-Command`** ou **`gcm`** pour les appeller.
 
 On peut donc remplacer :
 
