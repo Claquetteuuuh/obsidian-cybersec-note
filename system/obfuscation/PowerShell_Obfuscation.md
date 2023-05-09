@@ -231,7 +231,9 @@ iex $virus<#**********************#>; <#**********************#>
 ```
 
 
-## __Casse 
+## __Casse aleatoire__
+
+Rendre la casse des cmdlets et de 
 
 
 ## __Scripts__
