@@ -1,4 +1,4 @@
-Source : https://github.com/t3l3machus/PowerShell-Obfuscation-Bible/blob/main/README.md
+:;Source : https://github.com/t3l3machus/PowerShell-Obfuscation-Bible/blob/main/README.md
 
 L'**obfuscation** est le fait de **rendre** un payload **plus obscure** afin d'**évader** les protections **Antivirus**.
 Une tool permettant d'automatiser certains des principes ci-dessous existes : https://github.com/Claquetteuuuh/Obfusceuuuh 
