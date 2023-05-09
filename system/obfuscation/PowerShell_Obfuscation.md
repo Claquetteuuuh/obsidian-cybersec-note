@@ -144,8 +144,18 @@ Do {} While ($true)
 ```
 
 ```powershell
-Do { # some code } Until (1 -eq 2)
+Do {} Until (1 -eq 2)
 ```
+
+```powershell
+function runToInfinity {   
+ runToInfinity;
+}
+```
+
+
+## __
+
 
 ## __Scripts__
 
