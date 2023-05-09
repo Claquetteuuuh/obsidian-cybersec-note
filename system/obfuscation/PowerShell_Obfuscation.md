@@ -209,6 +209,19 @@ On peut modifier les chaines de caractères afin de changer la signature.
 
 ### Encode 
 
+```
+[System.Text.Encoding]::Default.GetString([System.Convert]::FromBase64String("bWFsd2FyZQ=="))
+```
+
+### Bytes value
+
+```
+"$([char]([byte]0x6d)+[char]([byte]0x61)+[char]([byte]0x6c)+[char]([byte]0x77)+[char]([byte]0x61)+[char]([byte]0x72)+[char]([byte]0x65))"
+```
+
+
+## 
+
 
 ## __Scripts__
 
