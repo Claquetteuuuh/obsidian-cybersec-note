@@ -83,3 +83,5 @@ Alernative avant Powershell v5 :
 
 # __Chiffrement_Symetrique___
 
+## __Cle__
+
