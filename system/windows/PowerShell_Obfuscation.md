@@ -7,7 +7,7 @@ Une tool permettant d'automatiser certains des principes ci-dessous existes : ht
 
 L'**entropie** est une notion mathématique qui vise à **mesurer** à quel point un **payload est aléatoire**, si une chaine est composé exclusivement d'un seul caractère son entropie sera 0, **plus il y a de caractère différent plus l'entropie va augmenter**, le calcul prend aussi en compte la **fréquence d'apparition** de ces caractères.
 
-Pour la calculer on a implémenté la **formule de Claude E. Shannon** en python [voir scripts](PowerShell_Obfuscation##__Scripts__###Calculate_entropy).
+Pour la calculer on a implémenté la **formule de Claude E. Shannon** en python [voir scripts](PowerShell_Obfuscation.md##__Scripts__###Calculate_entropy).
 
 ![[Entropy1.png]]
 
@@ -41,7 +41,7 @@ $ffffffffffffffffffffffffffffffff = New-Object System.Net.Sockets.TCPClient('127
 
 Cela donnera une **entropie bien inférieur** à celle précédente et a **probablement de meilleur chance** face au Antivirus.
 
-Pour **modifier automatiquement** le nom des variables [voir scripts](PowerShell_Obfuscation##__Scripts__###Edit_variables_names).
+Pour **modifier automatiquement** le nom des variables [voir scripts](PowerShell_Obfuscation.md##__Scripts__###Edit_variables_names).
 
 
 ## __Hide_Boolean_Values___

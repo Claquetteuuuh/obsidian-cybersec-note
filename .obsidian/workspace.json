@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2017d602e36a3f7",
+        "id": "80b44073b535f699",
         "type": "tabs",
         "children": [
           {
-            "id": "bad8e049fe13aaea",
+            "id": "5ced577fcecb57e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/shell/Socat.md",
+                "file": "system/windows/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/shell/Socat.md",
+                "file": "system/windows/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/shell/Socat.md",
+                "file": "system/windows/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/shell/Socat.md"
+                "file": "system/windows/Untitled.md"
               }
             }
           },
@@ -172,20 +172,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bad8e049fe13aaea",
+  "active": "5ced577fcecb57e8",
   "lastOpenFiles": [
+    "system/windows/Untitled.md",
+    "system/linux/Enumeration.md",
+    "system/shell/Socat.md",
     "system/shell/Shell_explanation.md",
     "system/shell/Reverse_Shell.md",
-    "system/linux/Enumeration.md",
     "system/linux/Privilege_Escalation.md",
-    "system/obfuscation/PowerShell_Obfuscation.md",
+    "system/windows/PowerShell_Obfuscation.md",
     "system/windows",
     "system/linux",
     "system/windows/Windows_Priv_esc.md",
     "Exploit/Metasploit-msfconsole.md",
     "network/NMAP-Advanced_Port_Scan.md",
     "web_hacking/XSS.md",
-    "system/shell/Socat.md",
     "system/Binaries.md",
     "misc/VPN.md",
     "misc/Email.md",
