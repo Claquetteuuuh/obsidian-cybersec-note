@@ -11,6 +11,8 @@ Pour generer un certificat on peut utiliser la commande :
 New-SelfSignedCertificate -Subject PowershellCypher -DnsName psalpes.fr -CertStoreLocation "Cert:\CurrentUser\My" -Type DocumentEncryptionCert
 ```
 
+L'option **`-DnsName`** précise le nom alternatif de l'objet.
+
 ### Verify
 
 Pour controller la présence du certificat on peut utiliser la commande :
