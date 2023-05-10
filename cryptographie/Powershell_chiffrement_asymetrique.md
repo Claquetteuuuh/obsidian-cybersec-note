@@ -141,8 +141,15 @@ Pour dechiffrer :
 ```
 
 ```powershell
+> $PlaintextPassword = "Mot2Passe"
 > $Aes = [System.Security.Cryptography.Aes]::Create()
 > $Aes.Key = [System.Security.Cryptography.HashAlgorithm]::Create('SHA256').ComputeHash([System.Text.Encoding]::UTF8.GetBytes($PlaintextPassword))
 > $Aes.GenerateIV()
 > $Aes.Mode = [System.Security.Cryptography.CipherMode]::CBC
+
+> $Decryptor = $Aes.CreateDecryptor($Aes.Key, $Aes.IV)
+
+> $MemoryStream = [System.IO.MemoryStream]::new($EncryptedBytes)
+> $CryptoStream = [System.Security.Cryptography.CryptoStream]::new($MemoryStream, $Decryptor, [System.Security.Cryptography.CryptoStreamMode]::Read)
+> $StreamReader = [System.IO.StreamReader]::new($CryptoStream)
 ```
