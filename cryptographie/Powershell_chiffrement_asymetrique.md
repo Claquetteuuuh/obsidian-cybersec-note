@@ -98,7 +98,7 @@ Pour generer notre clé de chiffrement symetrique, notre message :
 > $Message = "Ceci est un message secret"
 > $MessageBytes = [Text.Encoding]::UTF8.GetBytes($Message)
 
-> $AES = [Security.Cryptography.SymmetricAlgotithm]::Create('AesManaged')
+> $AES = [Security.Cryptography.SymmetricAlgorithm]::Create('AesManaged')
 > $initVectore = $AES.IV
 ```
 
