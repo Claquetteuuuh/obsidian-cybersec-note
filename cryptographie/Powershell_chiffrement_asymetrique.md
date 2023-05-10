@@ -106,5 +106,8 @@ Pour generer notre clé de chiffrement symetrique, notre message :
 Pour chiffrer un message avec AES :
 
 ```powershell
-> $Encryptor = $AES.CreateEncryptor($cleAES, $init)
+> $Encryptor = $AES.CreateEncryptor($cleAES, $initVector)
+
+> $stream_mem = New-Object -TypeName IO.MemoryStream
+> $stream_crypt = New-Object -TypeName Security.Cryptography.CryptoStream -
 ```
