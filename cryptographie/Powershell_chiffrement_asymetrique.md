@@ -26,4 +26,8 @@ Get-Childitem -Path Cert:\CurrentUser\My -DocumentEncryptionCert
 
 ## Encrypt
 
-Pour chiffrer du contenu directement ave
+Pour chiffrer du contenu directement avec les cmdlet `Protect-CmsMessage` :
+
+```powershell
+"Ceci est un message secret" | Protect-CmsMessage -To cn=PowershellCypher -OutFile .\secret.txt
+```
