@@ -130,5 +130,6 @@ Pour dechiffrer :
 
 > $Decryptor = $AES.CreateDecryptor($cleAES, $initVector)
 
-> $
+> $mem_stream = New-Object -TypeName IO.MemoryStream -ArgumentList @(, $encryptedBytes)
+> $stream_crypt = New-Object -TypeName Security.Cryptography.CryptoSt
 ```
