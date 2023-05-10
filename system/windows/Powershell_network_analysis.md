@@ -1,6 +1,8 @@
 
 ## __SYN Scan__
 
+Conseil : A utiliser une fois dans une machine du réseaux, sinon utiliser nmap.
+
 Pour analyser l'état des ports d'une machine dans un réseaux via un SYN Scan.
 
 ```powershell
