@@ -39,7 +39,9 @@ Alernative avant Powershell V5 :
 ```powershell
 > $Cert = Get-ChildItem Cert:\LocalMachine\My | Where-Object {$_.Subject -like "PowershellCypher"}
 > $Message = 'Ceci est un message secret'
-> $Bytes = [System.text.encoding]::UTF8.GetByt
+> $Bytes = [System.text.encoding]::UTF8.GetBytes($Message)
+> $EncryptedBytes = $Cert.PublicKey.Key.Encrypt($Bytes, $true)
+> EncryptedMsg = [System.Convert]::ToBase64String($EncryptedBytes)
 ```
 
 ## Verify
@@ -57,3 +59,4 @@ Pour déchiffrer le fichier :
 ```powershell
 Unprotect-CmsMessage -Path .\secret.txt
 ```
+
