@@ -25,6 +25,9 @@ Get-Childitem -Path Cert:\CurrentUser\My -DocumentEncryptionCert
 
 Pour supprimer un certificat, il faut lancer powershell en administrateur et executer la commande :
 
+```powershell
+certutil -delstore my "<Thumbprint>"
+```
 
 
 ## __Encrypt_Content__
