@@ -66,5 +66,5 @@ Alernative avant Powershell v5 :
 > $EncryptedMsg
 > $EncryptedBytes = [System.Convert]::FromBase64String($EncryptedMsg)
 > $DecryptedBytes = $Cert.PrivateKey.Decrypt($EncryptedBytes, $true)
-> $Message = [System.text.encoding]::
+> $Message = [System.text.encoding]::UTF8.GetString($DecryptedBytes)
 ```
