@@ -101,5 +101,10 @@ Pour generer notre clé de chiffrement symetrique, notre message :
 ```
 
 
-## __Chiffrement__
+## __Encrypt__
 
+Pour chiffrer un message avec AES :
+
+```powershell
+> $Encryptor = $AES.CreateEncryptor($cleAES, $init)
+```
