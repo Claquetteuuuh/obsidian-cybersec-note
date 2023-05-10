@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/Powershell_network_analysis.md",
+                "file": "cryptographie/Powershell_chiffrement_asymetrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/Powershell_network_analysis.md",
+                "file": "cryptographie/Powershell_chiffrement_asymetrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/Powershell_network_analysis.md",
+                "file": "cryptographie/Powershell_chiffrement_asymetrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/Powershell_network_analysis.md"
+                "file": "cryptographie/Powershell_chiffrement_asymetrique.md"
               }
             }
           },
@@ -172,11 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "5ced577fcecb57e8",
   "lastOpenFiles": [
+    "network/powershell/Powershell_network_analysis.md",
+    "cryptographie/Powershell_chiffrement_asymetrique.md",
     "network/powershell",
     "network/nmap",
-    "network/Powershell_network_analysis.md",
     "system/linux/Enumeration.md",
     "system/shell/Socat.md",
     "system/shell/Shell_explanation.md",
@@ -210,7 +211,6 @@
     "system/Shell.md",
     "assets/imgs/system/Untitled.md",
     "assets/imgs/system/shell",
-    "assets/imgs/system/obfuscation",
     "assets/imgs/system/obfuscation/Entropy1.png",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
