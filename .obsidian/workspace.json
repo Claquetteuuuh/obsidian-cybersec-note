@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c4ee04b4a14b1af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bad8e049fe13aaea",
+  "active": "0c4ee04b4a14b1af",
   "lastOpenFiles": [
     "system/priv_esc/Windows_Priv_esc.md",
     "system/obfuscation/PowerShell_Obfuscation.md",
