@@ -13,4 +13,8 @@ New-SelfSignedCertificate -Subject PowershellCypher -DnsName psalpes.fr -CertSto
 
 ### Verify
 
-Pour 
+Pour controller la présence du certificat on peut utiliser la commande :
+
+```powershell
+Get-Childitem -Path Cert:\CurrentUser\My -DocumentEncryptionCert
+```
