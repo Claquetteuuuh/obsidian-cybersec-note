@@ -85,6 +85,8 @@ Alernative avant Powershell v5 :
 
 ## __SHA256___
 
+https://gist.github.com/dindoliboon/9c23391a93d57f17e31dedcb999f1738
+
 ### Cle
 
 Pour generer notre clé de chiffrement symetrique, notre message :
@@ -138,12 +140,9 @@ Pour dechiffrer :
 > $Message = [Text.Encoding]::UTF8.GetString($decryptedBytes, 0, $decryptedByteCount)
 ```
 
-```
-$Aes = [System.Security.Cryptography.Aes]::Create()
-
-$Aes.Key = [System.Security.Cryptography.HashAlgorithm]::Create('SHA256').ComputeHash([System.Text.Encoding]::UTF8.GetBytes($PlaintextPassword))
-
-$Aes.GenerateIV()
-
-$Aes.Mode = [System.Security.Cryptography.CipherMode]::CBC
+```powershell
+> $Aes = [System.Security.Cryptography.Aes]::Create()
+> $Aes.Key = [System.Security.Cryptography.HashAlgorithm]::Create('SHA256').ComputeHash([System.Text.Encoding]::UTF8.GetBytes($PlaintextPassword))
+> $Aes.GenerateIV()
+> $Aes.Mode = [System.Security.Cryptography.CipherMode]::CBC
 ```
