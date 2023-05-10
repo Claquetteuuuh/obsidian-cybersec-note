@@ -113,4 +113,8 @@ Pour chiffrer un message avec AES :
 
 > $stream_crypt.Write($MessageBytes, 0, $MessageBytes.Length)
 > $stream_crypt.FlushFinalBlock()
+
+> $encryptedBytes = $stream_mem.ToArray()
+> $encryptedb64 = [Convert]::ToBase64String($encryptedBytes)
 ```
+
