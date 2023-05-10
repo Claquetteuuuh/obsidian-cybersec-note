@@ -123,42 +123,31 @@ Pour chiffrer un message avec AES :
 ```
 
 ```powershell
-$PlaintextPassword = "Mot2Passe"
+> $PlaintextPassword = "Mot2Passe"
 
-$Aes = [System.Security.Cryptography.Aes]::Create()
+> $Aes = [System.Security.Cryptography.Aes]::Create()
+> $Aes.Key = [System.Security.Cryptography.HashAlgorithm]::Create('SHA256').ComputeHash([System.Text.Encoding]::UTF8.GetBytes($PlaintextPassword))
+> $Aes.GenerateIV()
+> $Aes.Mode = [System.Security.Cryptography.CipherMode]::CBC
 
-$Aes.Key = [System.Security.Cryptography.HashAlgorithm]::Create('SHA256').ComputeHash([System.Text.Encoding]::UTF8.GetBytes($PlaintextPassword))
+> $Encryptor = $Aes.CreateEncryptor($Aes.Key, $Aes.IV)
 
-$Aes.GenerateIV()
+> $MemoryStream = [System.IO.MemoryStream]::new()
+> $CryptoStream = [System.Security.Cryptography.CryptoStream]::new($MemoryStream, $Encryptor, [System.Security.Cryptography.CryptoStreamMode]::Write)
+> $StreamWriter = [System.IO.StreamWriter]::new($CryptoStream)
 
-$Aes.Mode = [System.Security.Cryptography.CipherMode]::CBC
+> $StreamWriter.Write($Plaintext)
+> $StreamWriter.Close()
+> $CryptoStream.Close()
 
-# Create an encryptor to perform the stream transform.
+> $EncryptedBytes = $MemoryStream.ToArray()
+> $MemoryStream.Close()
 
-$Encryptor = $Aes.CreateEncryptor($Aes.Key, $Aes.IV)
+> $CipherTextWithIv = New-Object -TypeName Byte[] -ArgumentList ($Aes.IV.Length + $EncryptedBytes.Length)
+> [Array]::Copy($Aes.IV, 0, $CipherTextWithIv, 0, $Aes.IV.Length)
+> [Array]::Copy($EncryptedBytes, 0, $CipherTextWithIv, $Aes.IV.Length, $EncryptedBytes.Length)
 
-# Create the streams used for encryption.
-
-$MemoryStream = [System.IO.MemoryStream]::new()
-
-$CryptoStream = [System.Security.Cryptography.CryptoStream]::new($MemoryStream, $Encryptor, [System.Security.Cryptography.CryptoStreamMode]::Write)
-
-$StreamWriter = [System.IO.StreamWriter]::new($CryptoStream)
-
-# Write all data to the stream.
-
-$StreamWriter.Write($Plaintext)
-$StreamWriter.Close()
-$CryptoStream.Close()
-
-$EncryptedBytes = $MemoryStream.ToArray()
-$MemoryStream.Close()
-
-$CipherTextWithIv = New-Object -TypeName Byte[] -ArgumentList ($Aes.IV.Length + $EncryptedBytes.Length)
-[Array]::Copy($Aes.IV, 0, $CipherTextWithIv, 0, $Aes.IV.Length)
-[Array]::Copy($EncryptedBytes, 0, $CipherTextWithIv, $Aes.IV.Length, $EncryptedBytes.Length)
-
-Write-Output -InputObject $CipherTextWithIv
+> Write-Output -InputObject $CipherTextWithIv
 ```
 
 ### Decrypt
