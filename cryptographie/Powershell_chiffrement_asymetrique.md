@@ -85,4 +85,9 @@ Alernative avant Powershell v5 :
 
 ## __Cle__
 
-Pour generer notre clé de chiffrement symetrique,
+Pour generer notre clé de chiffrement symetrique, notre message :
+
+```powershell
+> $cle = "mot2passe"
+> $sha256 = New-Object System.Security.Cryp
+```
