@@ -37,7 +37,9 @@ Pour chiffrer du contenu directement avec les cmdlet `Protect-CmsMessage` :
 Alernative avant Powershell V5 :
 
 ```powershell
-$Cert = Get-ChildItem Cert:\LocalMachine\My | Where-Object
+> $Cert = Get-ChildItem Cert:\LocalMachine\My | Where-Object {$_.Subject -like "PowershellCypher"}
+> $Message = 'Ceci est un message secret'
+> $Bytes = [System.text.encoding]::UTF8.GetByt
 ```
 
 ## Verify
