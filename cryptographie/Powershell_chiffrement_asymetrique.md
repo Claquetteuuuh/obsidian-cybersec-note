@@ -122,6 +122,8 @@ Pour chiffrer un message avec AES :
 > $encryptedb64 = [Convert]::ToBase64String($encryptedBytes)
 ```
 
+ou
+
 ```powershell
 > $PlaintextPassword = "Mot2Passe"
 > $Plaintext = "Mon super secret"
@@ -167,6 +169,8 @@ Pour dechiffrer :
 > $decryptedByteCount = $stream_crypt.Read($decryptedBytes, 0, $decryptedBytes.Length)
 > $Message = [Text.Encoding]::UTF8.GetString($decryptedBytes, 0, $decryptedByteCount)
 ```
+
+ou
 
 ```powershell
 > $PlaintextPassword = "Mot2Passe"
