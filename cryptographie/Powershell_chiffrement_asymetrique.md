@@ -134,5 +134,6 @@ Pour dechiffrer :
 > $stream_crypt = New-Object -TypeName Security.Cryptography.CryptoStream -ArgumentList @($mem_stream, $Decryptor, 'Read')
 
 > $decryptedBytes = New-Object -TypeName Bytes[] -ArgumentList $encryptedBytes.Length
-> decryptedByteCount
+> decryptedByteCount = $stream_crypt.Read($decryptedBytes, 0, $decryptedBytes.Length)
+> $Message = [Text.Encoding]::UTF8.GetString($decryptedBytes, 0, $decryptedByteCount)
 ```
