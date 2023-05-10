@@ -81,7 +81,8 @@ Alernative avant Powershell v5 :
 ```
 
 
-# __Chiffrement_Symetrique___
+# __Chiffrement_Symetrique_SHA256___
 
 ## __Cle__
 
+Pour generer notre clé de chiffrement symetrique,
