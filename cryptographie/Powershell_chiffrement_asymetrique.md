@@ -20,3 +20,4 @@ Pour controller la présence du certificat on peut utiliser la commande :
 ```powershell
 Get-Childitem -Path Cert:\CurrentUser\My -DocumentEncryptionCert
 ```
+
