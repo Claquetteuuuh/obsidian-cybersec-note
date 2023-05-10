@@ -137,3 +137,13 @@ Pour dechiffrer :
 > $decryptedByteCount = $stream_crypt.Read($decryptedBytes, 0, $decryptedBytes.Length)
 > $Message = [Text.Encoding]::UTF8.GetString($decryptedBytes, 0, $decryptedByteCount)
 ```
+
+```
+$Aes = [System.Security.Cryptography.Aes]::Create()
+
+$Aes.Key = [System.Security.Cryptography.HashAlgorithm]::Create('SHA256').ComputeHash([System.Text.Encoding]::UTF8.GetBytes($PlaintextPassword))
+
+$Aes.GenerateIV()
+
+$Aes.Mode = [System.Security.Cryptography.CipherMode]::CBC
+```
