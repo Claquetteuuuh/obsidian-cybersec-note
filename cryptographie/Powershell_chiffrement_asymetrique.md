@@ -34,6 +34,12 @@ Pour chiffrer du contenu directement avec les cmdlet `Protect-CmsMessage` :
 "Ceci est un message secret" | Protect-CmsMessage -To cn=PowershellCypher -OutFile .\secret.txt
 ```
 
+Alernative avant Powershell V5 :
+
+```powershell
+$Cert = Get-ChildItem Cert:\LocalMachine\My | Where-Object
+```
+
 ## Verify
 
 Pour controller le bon déroulement du chiffrement :
