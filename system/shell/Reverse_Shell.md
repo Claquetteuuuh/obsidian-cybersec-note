@@ -30,7 +30,7 @@ user@linux:/$ nmap --interactive
 nmap> !sh
 ```
 
-C'est une des astuces disponibles dans [Privilege_Escalation](Privilege_Escalation).
+C'est une des astuces disponibles dans [Privilege_Escalation](Privilege_Escalation.md).
 
 ## __Scripts__
 

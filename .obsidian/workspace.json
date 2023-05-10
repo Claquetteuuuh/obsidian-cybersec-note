@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md",
+                "file": "system/shell/Socat.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c4ee04b4a14b1af",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md",
+                "file": "system/shell/Socat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md",
+                "file": "system/shell/Socat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/obfuscation/PowerShell_Obfuscation.md"
+                "file": "system/shell/Socat.md"
               }
             }
           },
@@ -183,19 +172,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c4ee04b4a14b1af",
+  "active": "bad8e049fe13aaea",
   "lastOpenFiles": [
-    "system/priv_esc/Windows_Priv_esc.md",
+    "system/shell/Shell_explanation.md",
+    "system/shell/Reverse_Shell.md",
+    "system/linux/Enumeration.md",
+    "system/linux/Privilege_Escalation.md",
     "system/obfuscation/PowerShell_Obfuscation.md",
-    "system/priv_esc/Privilege_Escalation.md",
+    "system/windows",
+    "system/linux",
+    "system/windows/Windows_Priv_esc.md",
     "Exploit/Metasploit-msfconsole.md",
     "network/NMAP-Advanced_Port_Scan.md",
     "web_hacking/XSS.md",
-    "system/priv_esc/Enumeration.md",
-    "system/shell/Reverse_Shell.md",
     "system/shell/Socat.md",
     "system/Binaries.md",
-    "system/shell/Shell_explanation.md",
     "misc/VPN.md",
     "misc/Email.md",
     "misc/Comptes.md",
@@ -219,10 +210,8 @@
     "assets/imgs/system/obfuscation",
     "assets/imgs/system/obfuscation/Entropy1.png",
     "OSINT/Decouvertes_du_contenu.md",
-    "web_hacking/Bypass_File_upload_filters.md",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/forensic",
-    "Forensic",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell1.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/overwriting2.png",
@@ -230,7 +219,6 @@
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number4.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/Magic_Number3.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/MIME_validation.png",
-    "assets/imgs/web_hacking/bypass_file_upload_filters",
     "Untitled.canvas"
   ]
 }
