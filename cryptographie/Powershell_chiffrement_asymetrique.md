@@ -111,5 +111,6 @@ Pour chiffrer un message avec AES :
 > $stream_mem = New-Object -TypeName IO.MemoryStream
 > $stream_crypt = New-Object -TypeName Security.Cryptography.CryptoStream -ArgumentList @($stream_mem, $Encryptor, 'Write')
 
-
+> $stream_crypt.Write($MessageBytes, 0, $MessageBytes.Length)
+> $stream_crypt.FlushFinalBlock()
 ```
