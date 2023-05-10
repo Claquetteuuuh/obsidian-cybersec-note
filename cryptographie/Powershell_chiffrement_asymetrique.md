@@ -81,9 +81,11 @@ Alernative avant Powershell v5 :
 ```
 
 
-# __Chiffrement_Symetrique_SHA256___
+# __Chiffrement_Symetrique__
 
-## __Cle__
+## __SHA256___
+
+### Cle
 
 Pour generer notre clé de chiffrement symetrique, notre message :
 
@@ -101,7 +103,7 @@ Pour generer notre clé de chiffrement symetrique, notre message :
 ```
 
 
-## __Encrypt__
+## Encrypt
 
 Pour chiffrer un message avec AES :
 
@@ -117,4 +119,7 @@ Pour chiffrer un message avec AES :
 > $encryptedBytes = $stream_mem.ToArray()
 > $encryptedb64 = [Convert]::ToBase64String($encryptedBytes)
 ```
+
+
+### Decrypt
 
