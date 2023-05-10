@@ -21,6 +21,11 @@ Pour controller la présence du certificat on peut utiliser la commande :
 Get-Childitem -Path Cert:\CurrentUser\My -DocumentEncryptionCert
 ```
 
+### Delete
+
+Pour supprimer un certificat, il faut lancer powershell en administrateur et executer la commande :
+
+
 
 ## __Encrypt_Content__
 
