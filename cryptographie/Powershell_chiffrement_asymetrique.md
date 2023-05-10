@@ -170,6 +170,8 @@ Pour dechiffrer :
 
 ```powershell
 > $PlaintextPassword = "Mot2Passe"
+> $EncryptedBytesBase64 = "Rl8xzyaP/fpV9EWIqoav9ecNgMTGq2lONZ+c3ejC32dGElyQ4ZVpr4+CkPyH2LmJ"
+
 > $Aes = [System.Security.Cryptography.Aes]::Create()
 > $Aes.Key = [System.Security.Cryptography.HashAlgorithm]::Create('SHA256').ComputeHash([System.Text.Encoding]::UTF8.GetBytes($PlaintextPassword))
 > $Aes.GenerateIV()
@@ -177,6 +179,7 @@ Pour dechiffrer :
 
 > $Decryptor = $Aes.CreateDecryptor($Aes.Key, $Aes.IV)
 
+> $EncryptedBytes = [Convert]::FromBase64String($EncryptedBytesBase64)
 > $MemoryStream = [System.IO.MemoryStream]::new($EncryptedBytes)
 > $CryptoStream = [System.Security.Cryptography.CryptoStream]::new($MemoryStream, $Decryptor, [System.Security.Cryptography.CryptoStreamMode]::Read)
 > $StreamReader = [System.IO.StreamReader]::new($CryptoStream)
