@@ -109,5 +109,7 @@ Pour chiffrer un message avec AES :
 > $Encryptor = $AES.CreateEncryptor($cleAES, $initVector)
 
 > $stream_mem = New-Object -TypeName IO.MemoryStream
-> $stream_crypt = New-Object -TypeName Security.Cryptography.CryptoStream -
+> $stream_crypt = New-Object -TypeName Security.Cryptography.CryptoStream -ArgumentList @($stream_mem, $Encryptor, 'Write')
+
+
 ```
