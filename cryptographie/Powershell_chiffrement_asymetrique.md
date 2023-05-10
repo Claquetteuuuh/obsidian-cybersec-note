@@ -89,5 +89,9 @@ Pour generer notre clé de chiffrement symetrique, notre message :
 
 ```powershell
 > $cle = "mot2passe"
-> $sha256 = New-Object System.Security.Cryp
+> $sha256 = New-Object System.Security.Cryptography.SHA256Managed
+> $cleBytes = [System.Text.Encoding]::UTF8.GetByptes($cle)
+> $cleAES = $sha256.ComputeHash($cleBytes)
+
+> $Message = "Ceci est u"
 ```
