@@ -124,6 +124,7 @@ Pour chiffrer un message avec AES :
 
 ```powershell
 > $PlaintextPassword = "Mot2Passe"
+> $Plaintext = "Mon super secret"
 
 > $Aes = [System.Security.Cryptography.Aes]::Create()
 > $Aes.Key = [System.Security.Cryptography.HashAlgorithm]::Create('SHA256').ComputeHash([System.Text.Encoding]::UTF8.GetBytes($PlaintextPassword))
