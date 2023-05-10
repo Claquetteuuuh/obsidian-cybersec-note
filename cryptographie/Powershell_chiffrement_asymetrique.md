@@ -100,3 +100,6 @@ Pour generer notre clé de chiffrement symetrique, notre message :
 > $initVectore = $AES.IV
 ```
 
+
+## __Chiffrement__
+
