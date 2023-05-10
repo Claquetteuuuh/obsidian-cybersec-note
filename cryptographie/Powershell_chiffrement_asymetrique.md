@@ -122,6 +122,8 @@ Pour chiffrer un message avec AES :
 > $encryptedb64 = [Convert]::ToBase64String($encryptedBytes)
 ```
 
+```
+```
 
 ### Decrypt
 
@@ -152,4 +154,12 @@ Pour dechiffrer :
 > $MemoryStream = [System.IO.MemoryStream]::new($EncryptedBytes)
 > $CryptoStream = [System.Security.Cryptography.CryptoStream]::new($MemoryStream, $Decryptor, [System.Security.Cryptography.CryptoStreamMode]::Read)
 > $StreamReader = [System.IO.StreamReader]::new($CryptoStream)
+
+> $Plaintext = $StreamReader.ReadToEnd()
+
+> $StreamReader.Close()
+> $CryptoStream.Close()
+> $MemoryStream.Close()
+
+> Write-Output -InputObject $Plaintext
 ```
