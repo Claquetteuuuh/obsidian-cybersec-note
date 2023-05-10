@@ -123,3 +123,12 @@ Pour chiffrer un message avec AES :
 
 ### Decrypt
 
+Pour dechiffrer :
+
+```powershell
+> $encryptedBytes = [Convert]::fromase64String($encryptedb64)
+
+> $Decryptor = $AES.CreateDecryptor($cleAES, $initVector)
+
+> $
+```
