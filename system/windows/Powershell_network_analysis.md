@@ -30,3 +30,5 @@ Function New-TcpConnectScan{
 New-TcpConnectScan -IPs "<IP>" -Ports <PORT>
 ```
 
+Pour une utilisation plus puissante voir https://github.com/BornToBeRoot/PowerShell_IPv4PortScanner.
+
