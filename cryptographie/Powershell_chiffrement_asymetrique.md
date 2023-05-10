@@ -24,7 +24,7 @@ Get-Childitem -Path Cert:\CurrentUser\My -DocumentEncryptionCert
 
 ## __Encrypt_Content__
 
-On peut chiffrer directement avec des cmdlet depuis Powershell V5.
+On peut chiffrer directement avec des cmdlet depuis Powershell v5.
 
 ## Encrypt
 
@@ -34,7 +34,7 @@ Pour chiffrer du contenu directement avec les cmdlet `Protect-CmsMessage` :
 "Ceci est un message secret" | Protect-CmsMessage -To cn=PowershellCypher -OutFile .\secret.txt
 ```
 
-Alernative avant Powershell V5 :
+Alernative avant Powershell v5 :
 
 ```powershell
 > $Cert = Get-ChildItem Cert:\LocalMachine\My | Where-Object {$_.Subject -like "PowershellCypher"}
@@ -60,3 +60,9 @@ Pour déchiffrer le fichier :
 Unprotect-CmsMessage -Path .\secret.txt
 ```
 
+Alernative avant Powershell v5 :
+
+```powershell
+> $EncryptedMsg
+> $EncryptedBytes = [System.Convert]
+```
