@@ -93,5 +93,8 @@ Pour generer notre clé de chiffrement symetrique, notre message :
 > $cleBytes = [System.Text.Encoding]::UTF8.GetByptes($cle)
 > $cleAES = $sha256.ComputeHash($cleBytes)
 
-> $Message = "Ceci est u"
+> $Message = "Ceci est un message secret"
+> $MessageBytes = [Text.Encoding]::UTF8.GetBytes($Message)
+
+> $AES = [Security]
 ```
