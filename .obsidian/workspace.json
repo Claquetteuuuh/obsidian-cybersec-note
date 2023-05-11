@@ -166,6 +166,7 @@
   },
   "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "system/windows/Untitled.md",
     "cryptographie/Powershell_chiffrement.md",
     "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
@@ -201,7 +202,6 @@
     "system/Reverse_Shell.md",
     "system/Privilege_Escalation.md",
     "system/Shell.md",
-    "assets/imgs/system/Untitled.md",
     "assets/imgs/system/shell",
     "assets/imgs/system/obfuscation/Entropy1.png",
     "assets/imgs/forensic/autopsy.png",
