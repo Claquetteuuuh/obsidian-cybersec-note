@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "80b44073b535f699",
+        "id": "457a0e2de0e758e8",
         "type": "tabs",
         "children": [
           {
-            "id": "5ced577fcecb57e8",
+            "id": "bd04e0362baec98f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cryptographie/Powershell_chiffrement_asymetrique.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cryptographie/Powershell_chiffrement_asymetrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cryptographie/Powershell_chiffrement_asymetrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cryptographie/Powershell_chiffrement_asymetrique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,10 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ced577fcecb57e8",
+  "active": "bd04e0362baec98f",
   "lastOpenFiles": [
-    "network/powershell/Powershell_network_analysis.md",
     "cryptographie/Powershell_chiffrement_asymetrique.md",
+    "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
     "network/nmap",
     "system/linux/Enumeration.md",
