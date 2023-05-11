@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/windows/Malware_working.md",
+                "file": "system/windows/Ransomware.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/windows/Malware_working.md",
+                "file": "system/windows/Ransomware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/windows/Malware_working.md",
+                "file": "system/windows/Ransomware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/windows/Malware_working.md"
+                "file": "system/windows/Ransomware.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   "active": "bd04e0362baec98f",
   "lastOpenFiles": [
     "system/windows/Malware_working.md",
+    "system/windows/Ransomware.md",
     "cryptographie/Powershell_chiffrement.md",
     "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
@@ -209,7 +210,6 @@
     "system/Enumeration.md",
     "system/Reverse_Shell.md",
     "system/Privilege_Escalation.md",
-    "system/Shell.md",
     "assets/imgs/system/shell",
     "assets/imgs/system/obfuscation/Entropy1.png",
     "assets/imgs/forensic/autopsy.png",
