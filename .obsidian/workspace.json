@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/windows/PowerShell_Obfuscation.md",
+                "file": "system/linux/Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/windows/PowerShell_Obfuscation.md",
+                "file": "system/linux/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/windows/PowerShell_Obfuscation.md",
+                "file": "system/linux/Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/windows/PowerShell_Obfuscation.md"
+                "file": "system/linux/Enumeration.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "bd04e0362baec98f",
   "lastOpenFiles": [
-    "system/windows/Ransomware.md",
     "system/windows/PowerShell_Obfuscation.md",
+    "system/windows/Ransomware.md",
     "system/windows/Malware_working.md",
     "system/windows/Windows_Priv_esc.md",
     "cryptographie/Powershell_chiffrement.md",
