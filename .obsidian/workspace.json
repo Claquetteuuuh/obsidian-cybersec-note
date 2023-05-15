@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cryptographie/Encryption_Chiffrement.md",
+                "file": "system/malware/Powershell_empire.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cryptographie/Encryption_Chiffrement.md",
+                "file": "system/malware/Powershell_empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cryptographie/Encryption_Chiffrement.md",
+                "file": "system/malware/Powershell_empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cryptographie/Encryption_Chiffrement.md"
+                "file": "system/malware/Powershell_empire.md"
               }
             }
           },
@@ -174,8 +174,12 @@
   },
   "active": "024a8ae74fdc04f4",
   "lastOpenFiles": [
-    "cryptographie/Powershell_chiffrement.md",
+    "system/malware/PowerShell_Obfuscation.md",
+    "Hacking physique/Capteur.md",
+    "Forensic/Digital Forensic.md",
+    "Forensic/Windows Register.md",
     "cryptographie/Encryption_Chiffrement.md",
+    "cryptographie/Powershell_chiffrement.md",
     "cryptographie/Hash.md",
     "system/malware/Powershell_empire.md",
     "system/malware/Malware_working.md",
@@ -188,7 +192,6 @@
     "system/Linux_Enumeration.md",
     "system/Windows_Priv_esc.md",
     "system/malware",
-    "system/malware/PowerShell_Obfuscation.md",
     "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
     "network/nmap",
@@ -202,10 +205,7 @@
     "system/Binaries.md",
     "misc/VPN.md",
     "misc/Email.md",
-    "misc/Comptes.md",
     "misc",
-    "Site_utile.md",
-    "system/working/Assembly.md",
     "system/obfuscation",
     "system/working",
     "system/malware/shell",
