@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "457a0e2de0e758e8",
+        "id": "2d0a547deded5285",
         "type": "tabs",
         "children": [
           {
-            "id": "024a8ae74fdc04f4",
+            "id": "32b18e1ec77aa3de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/malware/Malware_working.md",
+                "file": "system/malware/Powershell_Obfuscation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/malware/Malware_working.md",
+                "file": "system/malware/Powershell_Obfuscation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/malware/Malware_working.md",
+                "file": "system/malware/Powershell_Obfuscation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/malware/Malware_working.md"
+                "file": "system/malware/Powershell_Obfuscation.md"
               }
             }
           },
@@ -172,11 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "024a8ae74fdc04f4",
+  "active": "32b18e1ec77aa3de",
   "lastOpenFiles": [
-    "system/malware/PowerShell_Obfuscation.md",
-    "system/malware/Powershell_empire.md",
+    "system/malware/Powershell_Obfuscation.md",
     "system/malware/Malware_working.md",
+    "system/malware/Powershell_empire.md",
     "Hacking physique/Capteur.md",
     "Forensic/Digital Forensic.md",
     "Forensic/Windows Register.md",
