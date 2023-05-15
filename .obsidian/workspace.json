@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd04e0362baec98f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploit/Metasploit-use_modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "024a8ae74fdc04f4",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +174,9 @@
   },
   "active": "024a8ae74fdc04f4",
   "lastOpenFiles": [
+    "system/malware/Malware_working.md",
     "Exploit/Metasploit-use_modules.md",
+    "system/malware/Ransomware.md",
     "system/malware/Powershell_empire.md",
     "Exploit/Metasploit-Modules.md",
     "Exploit/Metasploit-msfconsole.md",
@@ -197,8 +186,6 @@
     "system/Windows_Priv_esc.md",
     "system/malware",
     "system/malware/PowerShell_Obfuscation.md",
-    "system/malware/Ransomware.md",
-    "system/malware/Malware_working.md",
     "cryptographie/Powershell_chiffrement.md",
     "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
