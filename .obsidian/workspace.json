@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0a547deded5285",
+        "id": "d21b5b47af3ad766",
         "type": "tabs",
         "children": [
           {
-            "id": "32b18e1ec77aa3de",
+            "id": "f7d95b38696767fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/malware/Powershell_Obfuscation.md",
+                "file": "web_hacking/Authentification-Bypass.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/malware/Powershell_Obfuscation.md",
+                "file": "web_hacking/Authentification-Bypass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/malware/Powershell_Obfuscation.md",
+                "file": "web_hacking/Authentification-Bypass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/malware/Powershell_Obfuscation.md"
+                "file": "web_hacking/Authentification-Bypass.md"
               }
             }
           },
@@ -172,8 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32b18e1ec77aa3de",
+  "active": "f7d95b38696767fa",
   "lastOpenFiles": [
+    "system/Linux_Priv_esc.md",
+    "system/Linux_Enumeration.md",
+    "system/working/Assembly.md",
+    "system/malware/Ransomware.md",
     "system/malware/Powershell_Obfuscation.md",
     "system/malware/Malware_working.md",
     "system/malware/Powershell_empire.md",
@@ -184,12 +188,9 @@
     "cryptographie/Powershell_chiffrement.md",
     "cryptographie/Hash.md",
     "Exploit/Metasploit-use_modules.md",
-    "system/malware/Ransomware.md",
     "Exploit/Metasploit-Modules.md",
     "Exploit/Metasploit-msfconsole.md",
     "Exploit/Meterpreter-Post_exploitation.md",
-    "system/Linux_Priv_esc.md",
-    "system/Linux_Enumeration.md",
     "system/Windows_Priv_esc.md",
     "system/malware",
     "network/powershell/Powershell_network_analysis.md",
@@ -204,7 +205,6 @@
     "web_hacking/XSS.md",
     "system/Binaries.md",
     "misc/VPN.md",
-    "misc/Email.md",
     "misc",
     "system/obfuscation",
     "system/working",
