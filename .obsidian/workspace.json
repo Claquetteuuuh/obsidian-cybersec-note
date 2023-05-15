@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/malware/Powershell_empire.md",
+                "file": "system/malware/Malware_working.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/malware/Powershell_empire.md",
+                "file": "system/malware/Malware_working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/malware/Powershell_empire.md",
+                "file": "system/malware/Malware_working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/malware/Powershell_empire.md"
+                "file": "system/malware/Malware_working.md"
               }
             }
           },
@@ -175,14 +175,14 @@
   "active": "024a8ae74fdc04f4",
   "lastOpenFiles": [
     "system/malware/PowerShell_Obfuscation.md",
+    "system/malware/Powershell_empire.md",
+    "system/malware/Malware_working.md",
     "Hacking physique/Capteur.md",
     "Forensic/Digital Forensic.md",
     "Forensic/Windows Register.md",
     "cryptographie/Encryption_Chiffrement.md",
     "cryptographie/Powershell_chiffrement.md",
     "cryptographie/Hash.md",
-    "system/malware/Powershell_empire.md",
-    "system/malware/Malware_working.md",
     "Exploit/Metasploit-use_modules.md",
     "system/malware/Ransomware.md",
     "Exploit/Metasploit-Modules.md",
