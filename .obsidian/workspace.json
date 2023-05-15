@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/malware/Powershell_empire.md",
+                "file": "Exploit/Metasploit-Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "meterpreter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/malware/Powershell_empire.md",
+                "file": "Exploit/Metasploit-Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/malware/Powershell_empire.md",
+                "file": "Exploit/Metasploit-Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/malware/Powershell_empire.md"
+                "file": "Exploit/Metasploit-Modules.md"
               }
             }
           },
@@ -172,10 +173,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd04e0362baec98f",
+  "active": "19b4ff070db0582e",
   "lastOpenFiles": [
-    "system/Linux_Priv_esc.md",
+    "Exploit/Metasploit-msfconsole.md",
+    "Exploit/Metasploit-use_modules.md",
+    "Exploit/Meterpreter-Post_exploitation.md",
     "system/malware/Powershell_empire.md",
+    "system/Linux_Priv_esc.md",
     "system/Linux_Enumeration.md",
     "system/Windows_Priv_esc.md",
     "system/malware",
@@ -191,7 +195,6 @@
     "system/malware/shell/Reverse_Shell.md",
     "system/windows",
     "system/linux",
-    "Exploit/Metasploit-msfconsole.md",
     "network/nmap/NMAP-Advanced_Port_Scan.md",
     "web_hacking/XSS.md",
     "system/Binaries.md",
@@ -209,7 +212,6 @@
     "system/priv_esc",
     "Pentest_Basics.md",
     "assets/imgs/system/obfuscation/renameObj1.png",
-    "system/Reverse_Shell.md",
     "assets/imgs/system/obfuscation/Entropy1.png",
     "assets/imgs/forensic/autopsy.png",
     "assets/imgs/web_hacking/bypass_file_upload_filters/webshell2.png",
