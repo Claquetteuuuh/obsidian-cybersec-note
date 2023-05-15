@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/malware/Powershell_empire.md",
+                "file": "cryptographie/Hash.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/malware/Powershell_empire.md",
+                "file": "cryptographie/Hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/malware/Powershell_empire.md",
+                "file": "cryptographie/Hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/malware/Powershell_empire.md"
+                "file": "cryptographie/Hash.md"
               }
             }
           },
@@ -174,10 +174,13 @@
   },
   "active": "024a8ae74fdc04f4",
   "lastOpenFiles": [
+    "cryptographie/Encryption_Chiffrement.md",
+    "cryptographie/Hash.md",
+    "cryptographie/Powershell_chiffrement.md",
+    "system/malware/Powershell_empire.md",
     "system/malware/Malware_working.md",
     "Exploit/Metasploit-use_modules.md",
     "system/malware/Ransomware.md",
-    "system/malware/Powershell_empire.md",
     "Exploit/Metasploit-Modules.md",
     "Exploit/Metasploit-msfconsole.md",
     "Exploit/Meterpreter-Post_exploitation.md",
@@ -186,7 +189,6 @@
     "system/Windows_Priv_esc.md",
     "system/malware",
     "system/malware/PowerShell_Obfuscation.md",
-    "cryptographie/Powershell_chiffrement.md",
     "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
     "network/nmap",
@@ -205,10 +207,8 @@
     "Site_utile.md",
     "system/working/Assembly.md",
     "system/obfuscation",
-    "system/PowerShell_Obfuscation.md",
     "system/working",
     "system/malware/shell",
-    "system/priv_esc/PowerShell_Obfuscation.md",
     "system/priv_esc",
     "assets/imgs/system/obfuscation/renameObj1.png",
     "assets/imgs/system/obfuscation/Entropy1.png",
