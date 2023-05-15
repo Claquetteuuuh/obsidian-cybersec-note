@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/linux/Enumeration.md",
+                "file": "system/Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/linux/Enumeration.md",
+                "file": "system/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/linux/Enumeration.md",
+                "file": "system/Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/linux/Enumeration.md"
+                "file": "system/Enumeration.md"
               }
             }
           },
@@ -172,21 +172,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd04e0362baec98f",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
-    "system/windows/PowerShell_Obfuscation.md",
-    "system/windows/Ransomware.md",
-    "system/windows/Malware_working.md",
-    "system/windows/Windows_Priv_esc.md",
+    "system/malware",
+    "system/malware/PowerShell_Obfuscation.md",
+    "system/malware/Ransomware.md",
+    "system/malware/Malware_working.md",
+    "system/Windows_Priv_esc.md",
     "cryptographie/Powershell_chiffrement.md",
     "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
     "network/nmap",
-    "system/linux/Enumeration.md",
-    "system/shell/Socat.md",
-    "system/shell/Shell_explanation.md",
-    "system/shell/Reverse_Shell.md",
-    "system/linux/Privilege_Escalation.md",
+    "system/Enumeration.md",
+    "system/malware/shell/Socat.md",
+    "system/malware/shell/Shell_explanation.md",
+    "system/malware/shell/Reverse_Shell.md",
+    "system/Privilege_Escalation.md",
     "system/windows",
     "system/linux",
     "Exploit/Metasploit-msfconsole.md",
@@ -202,14 +203,13 @@
     "system/obfuscation",
     "system/PowerShell_Obfuscation.md",
     "system/working",
-    "system/shell",
+    "system/malware/shell",
     "system/priv_esc/PowerShell_Obfuscation.md",
     "system/priv_esc",
     "Pentest_Basics.md",
     "assets/imgs/system/obfuscation/renameObj1.png",
     "system/Enumeration.md",
     "system/Reverse_Shell.md",
-    "system/Privilege_Escalation.md",
     "assets/imgs/system/shell",
     "assets/imgs/system/obfuscation/Entropy1.png",
     "assets/imgs/forensic/autopsy.png",
