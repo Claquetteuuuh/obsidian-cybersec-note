@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d21b5b47af3ad766",
+        "id": "55661fc205aacad7",
         "type": "tabs",
         "children": [
           {
-            "id": "f7d95b38696767fa",
+            "id": "7dffb5366765ccc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentest_Basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentest_Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentest_Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pentest_Basics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7d95b38696767fa",
+  "active": "7dffb5366765ccc4",
   "lastOpenFiles": [
+    "Pentest_Basics.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "web_hacking/Authentification-Bypass.md",
     "system/Linux_Priv_esc.md",
@@ -204,7 +197,6 @@
     "system/windows",
     "system/linux",
     "network/nmap/NMAP-Advanced_Port_Scan.md",
-    "web_hacking/XSS.md",
     "misc",
     "system/obfuscation",
     "system/working",
