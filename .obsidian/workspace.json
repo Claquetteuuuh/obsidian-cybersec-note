@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web_hacking/Authentification-Bypass.md",
+                "file": "Pentest_Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_hacking/Authentification-Bypass.md",
+                "file": "Pentest_Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web_hacking/Authentification-Bypass.md",
+                "file": "Pentest_Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web_hacking/Authentification-Bypass.md"
+                "file": "Pentest_Basics.md"
               }
             }
           },
@@ -174,13 +174,15 @@
   },
   "active": "f7d95b38696767fa",
   "lastOpenFiles": [
+    "web_hacking/Bypass_File_upload_filters.md",
+    "web_hacking/Authentification-Bypass.md",
     "system/Linux_Priv_esc.md",
     "system/Linux_Enumeration.md",
     "system/working/Assembly.md",
-    "system/malware/Ransomware.md",
-    "system/malware/Powershell_Obfuscation.md",
-    "system/malware/Malware_working.md",
-    "system/malware/Powershell_empire.md",
+    "malware/Ransomware.md",
+    "malware/Powershell_Obfuscation.md",
+    "malware/Malware_working.md",
+    "malware/Powershell_empire.md",
     "Hacking physique/Capteur.md",
     "Forensic/Digital Forensic.md",
     "Forensic/Windows Register.md",
@@ -192,23 +194,21 @@
     "Exploit/Metasploit-msfconsole.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "system/Windows_Priv_esc.md",
-    "system/malware",
+    "malware",
     "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
     "network/nmap",
-    "system/malware/shell/Socat.md",
-    "system/malware/shell/Shell_explanation.md",
-    "system/malware/shell/Reverse_Shell.md",
+    "malware/shell/Socat.md",
+    "malware/shell/Shell_explanation.md",
+    "malware/shell/Reverse_Shell.md",
     "system/windows",
     "system/linux",
     "network/nmap/NMAP-Advanced_Port_Scan.md",
     "web_hacking/XSS.md",
-    "system/Binaries.md",
-    "misc/VPN.md",
     "misc",
     "system/obfuscation",
     "system/working",
-    "system/malware/shell",
+    "malware/shell",
     "system/priv_esc",
     "assets/imgs/system/obfuscation/renameObj1.png",
     "assets/imgs/system/obfuscation/Entropy1.png",
