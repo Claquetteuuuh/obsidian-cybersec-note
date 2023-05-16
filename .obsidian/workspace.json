@@ -11,8 +11,12 @@
             "id": "7dffb5366765ccc4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "malware/Powershell_empire.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "malware/Powershell_empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "malware/Powershell_empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "malware/Powershell_empire.md"
+              }
             }
           },
           {
@@ -166,6 +174,7 @@
   },
   "active": "7dffb5366765ccc4",
   "lastOpenFiles": [
+    "malware/Powershell_Obfuscation.md",
     "Pentest_Basics.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "web_hacking/Authentification-Bypass.md",
@@ -173,7 +182,6 @@
     "system/Linux_Enumeration.md",
     "system/working/Assembly.md",
     "malware/Ransomware.md",
-    "malware/Powershell_Obfuscation.md",
     "malware/Malware_working.md",
     "malware/Powershell_empire.md",
     "Hacking physique/Capteur.md",
