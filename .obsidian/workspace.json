@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Empire_Windows7_Priv_esc.md",
+                "file": "malware/Powershell_empire.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Empire_Windows7_Priv_esc.md",
+                "file": "malware/Powershell_empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Empire_Windows7_Priv_esc.md",
+                "file": "malware/Powershell_empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Empire_Windows7_Priv_esc.md"
+                "file": "malware/Powershell_empire.md"
               }
             }
           },
@@ -172,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "7dffb5366765ccc4",
   "lastOpenFiles": [
+    "system/Empire_Windows7_Priv_esc.md",
     "malware/Powershell_empire.md",
     "malware/Ransomware.md",
     "malware/Malware_working.md",
@@ -194,7 +195,6 @@
     "Exploit/Metasploit-Modules.md",
     "Exploit/Metasploit-msfconsole.md",
     "Exploit/Meterpreter-Post_exploitation.md",
-    "system/Empire_Windows7_Priv_esc.md",
     "malware",
     "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
