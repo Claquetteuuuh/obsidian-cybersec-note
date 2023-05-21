@@ -40,6 +40,7 @@ Sous Windows 7, il existe plusieurs méthode pour **escalader nos privilège** :
 
 ## __Bypass UAC__
 
+### W
 ### 1st
 
 Certains **objets COM** ont la capacité d'**élever leurs permissions** lorsqu'ils sont appelés **depuis un programme signé** par un certificat *code signing* Microsoft.
@@ -48,4 +49,5 @@ Pour les programmes non signés, il est possible d'**injecter une dll dans un pr
 
 ### 2nd
 
-Une fois cela fait, on doit passer d'une copie de fichier à une exécution de code. Pour cela, certains programmes de windo
+Une fois cela fait, on doit passer d'une copie de fichier à une exécution de code. Pour cela, certains programmes de Windows peuvent s'auto-elever sans notification (*sysrep* par exemple).
+
