@@ -5,5 +5,6 @@ A partir de **Windows Vista**, le concept d'**UAC** (User Account Control) à é
 - **MEDIUM**: Droit d'**utilisateur** standard
 - **LOW**: **Restreint** à certaines autorisations
 
+## __High_integrity__
 
-
+Pour avoir l'information sur les permissions que nous avons sur notre backdoor Empire, on execute la 
