@@ -31,4 +31,6 @@ Pour avoir l'information sur les permissions que nous avons sur notre backdoor E
 
 Sous Windows 7, il existe plusieurs méthode pour escalader nos privilège :
 
-- Exploit d'une vulnerabilité applicative ou systeme.
+- Exploit d'une vulnerabilité applicative ou système
+- Faire exécuter une action en trompant un administrateur
+- Trouver une DB de
