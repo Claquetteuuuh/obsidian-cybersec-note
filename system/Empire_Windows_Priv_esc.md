@@ -62,4 +62,7 @@ Il est donc possible sur notre client windows 7 de passer administrateur avec la
 
 ## __Ask__
 
-Une technique 
+Une technique consiste simplement à demander à l'utilisateur en boucle jusqu'à ce qu'il accepte.
+
+Pour cela on va utiliser le module `powershell_privesc_ask`.
+
