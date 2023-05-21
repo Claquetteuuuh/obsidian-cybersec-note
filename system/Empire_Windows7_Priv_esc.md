@@ -40,4 +40,6 @@ Sous Windows 7, il existe plusieurs méthode pour **escalader nos privilège** :
 
 ## __Bypass UAC__
 
-Certains objets COM ont la capacité d'élever leurs p
+Certains objets COM ont la capacité d'élever leurs permissions lorsqu'ils sont appelés depuis un programme signé par un certificat *code signing* Microsoft.
+
+Pour les programmes non signés, il est possible d'injecter une dll 
