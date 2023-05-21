@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "malware/Powershell_empire.md",
+                "file": "system/Empire_Windows7_Priv_esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "malware/Powershell_empire.md",
+                "file": "system/Empire_Windows7_Priv_esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "malware/Powershell_empire.md",
+                "file": "system/Empire_Windows7_Priv_esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "malware/Powershell_empire.md"
+                "file": "system/Empire_Windows7_Priv_esc.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "7dffb5366765ccc4",
   "lastOpenFiles": [
-    "system/Empire_Windows7_Priv_esc.md",
     "malware/Powershell_empire.md",
+    "system/Empire_Windows7_Priv_esc.md",
     "malware/Ransomware.md",
     "malware/Malware_working.md",
     "malware/Powershell_Obfuscation.md",
