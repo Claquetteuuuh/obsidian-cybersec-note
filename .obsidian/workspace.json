@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/Windows7_Priv_esc.md",
+                "file": "system/Empire_Windows7_Priv_esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/Windows7_Priv_esc.md",
+                "file": "system/Empire_Windows7_Priv_esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/Windows7_Priv_esc.md",
+                "file": "system/Empire_Windows7_Priv_esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/Windows7_Priv_esc.md"
+                "file": "system/Empire_Windows7_Priv_esc.md"
               }
             }
           },
@@ -194,7 +194,7 @@
     "Exploit/Metasploit-Modules.md",
     "Exploit/Metasploit-msfconsole.md",
     "Exploit/Meterpreter-Post_exploitation.md",
-    "system/Windows7_Priv_esc.md",
+    "system/Empire_Windows7_Priv_esc.md",
     "malware",
     "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
