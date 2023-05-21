@@ -9,7 +9,7 @@ adresse (le domaine) pointant vers une maison (l’IP).
 
 - **SLD** (second-level domains), c’est la partie *‘principale’* du nom de domaine (pour domaine.com, ce sera domaine). La taille maximum de cette partie est **63 caractères de a-z 0-9 et avec des –** (ni au début ni à la fin).
 
-- **Sous domaine**, c’est la partie **la plus à gauche** du nom de domaine (host.domaine.com, ce sera host). Elle est, tout comme le SLD, limitée à **63 caractères de a-z 0-9 et avec des –**. On peut séparer le nom de domaine avec des . pour le rendre plus long mais il ne pourra **pas dépasser 253 caractères**. On peut **[lister ces sous domaines](Enumeration_des_sous_domaines)** grâce à des outils.
+- **Sous domaine**, c’est la partie **la plus à gauche** du nom de domaine (host.domaine.com, ce sera host). Elle est, tout comme le SLD, limitée à **63 caractères de a-z 0-9 et avec des –**. On peut séparer le nom de domaine avec des . pour le rendre plus long mais il ne pourra **pas dépasser 253 caractères**. On peut **[lister ces sous domaines](Enumeration_des_sous_domaines.md)** grâce à des outils.
 
 ![[dns1.excalidraw]]
 
