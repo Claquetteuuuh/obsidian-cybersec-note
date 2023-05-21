@@ -29,4 +29,6 @@ Pour avoir l'information sur les permissions que nous avons sur notre backdoor E
 
 ## __Techniques__
 
-Il est important d'avoir un haut niveau 
+Sous Windows 7, il existe plusieurs méthode pour escalader nos privilège :
+
+- Exploit d'une vulnerabilité applicative ou systeme.
