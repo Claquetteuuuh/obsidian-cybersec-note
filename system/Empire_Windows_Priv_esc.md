@@ -5,7 +5,7 @@ A partir de **Windows Vista**, le concept d'**UAC** (User Account Control) à é
 - **MEDIUM**: Droit d'**utilisateur** standard
 - **LOW**: **Restreint** à certaines autorisations
 
-## __High_integrity__
+# __High_integrity__
 
 Pour avoir l'information sur les **permissions que nous avons** sur notre backdoor Empire, on execute la commande **[`info`](Powershell_empire#####Info)**. La ligne **high_integrity**, par defaut **False**, indique notre **niveau de permission**.
 
@@ -26,6 +26,7 @@ Pour avoir l'information sur les **permissions que nous avons** sur notre backdo
 (...)
 ```
 
+# __Windows 7__
 
 ## __Techniques__
 
@@ -55,3 +56,7 @@ Une fois cela fait, on doit passer d'une copie de fichier à une exécution de c
 ### Usage
 
 Il est donc possible sur notre client windows 7 de passer administrateur avec la commande `bypassuac`
+
+
+# __Windows 10__
+
