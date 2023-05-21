@@ -60,3 +60,6 @@ Il est donc possible sur notre client windows 7 de passer administrateur avec la
 
 # __Windows 10__
 
+## __Ask__
+
+Une technique 
