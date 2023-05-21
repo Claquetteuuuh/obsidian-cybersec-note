@@ -42,4 +42,6 @@ Sous Windows 7, il existe plusieurs méthode pour **escalader nos privilège** :
 
 Certains objets COM ont la capacité d'élever leurs permissions lorsqu'ils sont appelés depuis un programme signé par un certificat *code signing* Microsoft.
 
-Pour les programmes non signés, il est possible d'injecter une dll 
+Pour les programmes non signés, il est possible d'injecter une dll dans un programme signé (calc.exe par exemple). Cette dll peut donc appeler un objet COM qui effectuera une auto-élévation. 
+
+
