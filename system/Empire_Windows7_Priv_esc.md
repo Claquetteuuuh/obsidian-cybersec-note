@@ -27,4 +27,6 @@ Pour avoir l'information sur les permissions que nous avons sur notre backdoor E
 ```
 
 
-## ____
+## __Techniques__
+
+Il est important d'avoir un haut niveau 
