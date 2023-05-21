@@ -7,4 +7,4 @@ A partir de **Windows Vista**, le concept d'**UAC** (User Account Control) à é
 
 ## __High_integrity__
 
-Pour avoir l'information sur les permissions que nous avons sur notre backdoor Empire, on execute la commande **[`info`](Powershell_empire##)**
+Pour avoir l'information sur les permissions que nous avons sur notre backdoor Empire, on execute la commande **[`info`](Powershell_empire#####Info)**. La ligne **high_integrity** (par defaut False), 
