@@ -48,3 +48,4 @@ Pour les programmes non signés, il est possible d'**injecter une dll dans un pr
 
 ### 2nd
 
+Une fois cela fait, on doit passer d'une copie de fichier à une exécution de code. Pour cela, certains programmes de windo
