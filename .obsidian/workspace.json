@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a7dd975e030ce7da",
+        "id": "6b4fefaf4b18974a",
         "type": "tabs",
         "children": [
           {
-            "id": "5aaf522a6c10ae39",
+            "id": "14f9823ab9c1e05d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -164,8 +164,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5aaf522a6c10ae39",
+  "active": "14f9823ab9c1e05d",
   "lastOpenFiles": [
+    "network/nmap/NMAP-Host_active_directory.md",
+    "network/nmap/NMAP-Advanced_Port_Scan.md",
+    "network/Network.md",
+    "network/DNS-Domain_Name_System.md",
+    "OSINT-Forensic/Digital Forensic.md",
+    "OSINT-Forensic/Decouvertes_du_contenu.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "system/Linux_Enumeration.md",
@@ -180,21 +186,15 @@
     "web_hacking/Authentification-Bypass.md",
     "system/working/Assembly.md",
     "Hacking physique/Capteur.md",
-    "OSINT-Forensic/Digital Forensic.md",
     "OSINT-Forensic/Windows Register.md",
     "cryptographie/Encryption_Chiffrement.md",
     "cryptographie/Powershell_chiffrement.md",
     "cryptographie/Hash.md",
     "Exploit/Metasploit-use_modules.md",
     "Exploit/Metasploit-Modules.md",
-    "Exploit/Metasploit-msfconsole.md",
     "malware",
-    "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
     "network/nmap",
-    "malware/shell/Socat.md",
-    "malware/shell/Shell_explanation.md",
-    "malware/shell/Reverse_Shell.md",
     "system/windows",
     "system/linux",
     "misc",
