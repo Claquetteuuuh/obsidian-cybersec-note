@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1cad8b774403050e",
+        "id": "a7dd975e030ce7da",
         "type": "tabs",
         "children": [
           {
-            "id": "49ad9792428e9657",
+            "id": "5aaf522a6c10ae39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploit/Meterpreter-Post_exploitation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploit/Meterpreter-Post_exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploit/Meterpreter-Post_exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Exploit/Meterpreter-Post_exploitation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49ad9792428e9657",
+  "active": "5aaf522a6c10ae39",
   "lastOpenFiles": [
+    "Exploit/Meterpreter-Post_exploitation.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "system/Linux_Enumeration.md",
     "system/Linux_Priv_esc.md",
@@ -195,7 +188,6 @@
     "Exploit/Metasploit-use_modules.md",
     "Exploit/Metasploit-Modules.md",
     "Exploit/Metasploit-msfconsole.md",
-    "Exploit/Meterpreter-Post_exploitation.md",
     "malware",
     "network/powershell/Powershell_network_analysis.md",
     "network/powershell",
