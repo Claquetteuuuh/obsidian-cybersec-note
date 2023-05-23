@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e1c90c71c9dd6ee6",
+        "id": "86554db52ddcb1f0",
         "type": "tabs",
         "children": [
           {
-            "id": "eb490304a6cba83b",
+            "id": "5c30cffc71661bfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "malware/Powershell_empire.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "malware/Powershell_empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "malware/Powershell_empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "malware/Powershell_empire.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb490304a6cba83b",
+  "active": "5c30cffc71661bfd",
   "lastOpenFiles": [
+    "malware/Powershell_empire.md",
     "cryptographie/Powershell_chiffrement.md",
     "cryptographie/Encryption_Chiffrement.md",
     "cryptographie/Hash.md",
@@ -190,7 +183,6 @@
     "system/Linux_Priv_esc.md",
     "OSINT/Untitled.md",
     "system/Empire_Windows_Priv_esc.md",
-    "malware/Powershell_empire.md",
     "malware/Ransomware.md",
     "malware/Malware_working.md",
     "malware/Powershell_Obfuscation.md",
