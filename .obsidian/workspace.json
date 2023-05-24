@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49372d66c8f6b79b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/imgs/basics/mindmap_pentest.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentest_Basics.md",
+                "file": "assets/imgs/basics/mindmap_pentest.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentest_Basics.md",
+                "file": "assets/imgs/basics/mindmap_pentest.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentest_Basics.md"
+                "file": "assets/imgs/basics/mindmap_pentest.png"
               }
             }
           },
@@ -172,8 +183,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c30cffc71661bfd",
+  "active": "49372d66c8f6b79b",
   "lastOpenFiles": [
+    "Pentest_Basics.md",
     "malware/Powershell_empire.md",
     "cryptographie/Powershell_chiffrement.md",
     "cryptographie/Encryption_Chiffrement.md",
@@ -194,7 +206,6 @@
     "malware/Ransomware.md",
     "malware/Malware_working.md",
     "malware/Powershell_Obfuscation.md",
-    "Pentest_Basics.md",
     "web_hacking/Authentification-Bypass.md",
     "system/working/Assembly.md",
     "Hacking physique/Capteur.md",
