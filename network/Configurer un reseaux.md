@@ -1,7 +1,7 @@
 
 ## __Creation de notre ip reseaux__
 
-Faire les bra
+Faire les branchement sur les switchs
 
 ### Reseau A
 
@@ -64,3 +64,6 @@ $ ping 172.17.1.1
 
 ## __Router__
 
+Brancher, allumer le router et faire le branchement cable blanc sur FE 0/1 (reseau 2) ou FE 0/0 (reseau 1).
+
+	Brancher le ca
