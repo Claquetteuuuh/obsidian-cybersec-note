@@ -11,22 +11,15 @@
             "id": "bb6796f1f031be5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c67e858ae416bb16",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "network/Configurer un reseaux.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "network/Configurer un reseaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "network/Configurer un reseaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "network/Configurer un reseaux.md"
+              }
             }
           },
           {
@@ -175,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c67e858ae416bb16",
+  "active": "bb6796f1f031be5f",
   "lastOpenFiles": [
+    "network/Configurer un reseaux.md",
     "Pentest_Basics.md",
     "cryptographie/Powershell_chiffrement.md",
     "assets/imgs/basics/mindmap_pentest.png",
