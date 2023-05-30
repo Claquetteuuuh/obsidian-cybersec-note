@@ -72,21 +72,21 @@ Brancher le **cable bleu sur un port console** et à un **USB du pc**
 
 Lancer **Tera Term sur le windows**
 
-Choisir SERIE : Port (choisir le port USB)
+Choisir **SERIE : Port (choisir le port USB)**
 
 Faire un ctrl C pour sortir de la configuration par defaut
 
 Effectuer les commandes suivante :
 
-- enable (entrée dans le routeur)
+- **`enable`** (entrée dans le routeur)
 - (écrire le mot de passe)
-- configure terminal (entrée dans le config)
-- ip routing
-- interface fastethernet 0/0 (entrée dans le premier config-if ajout du 1er réseau)
-- ip address 172.16.255.254 255.255.0.0
-- no shutdown
-- exit (sortie du config-if)
-- interface fastethernet 0/1 (entrée dans le deuxième config-if ajout du 2e réseau)
+- **`configure terminal`** (entrée dans le config)
+- **`ip routing`**
+- **`interface fastethernet 0/0`** (entrée dans le premier config-if ajout du 1er réseau)
+- **`ip address 172.16.255.254 255.255.0.0`** (setup l'ip du router)
+- **`no shutdown`**
+- **`exit`** (sortie du config-if)
+- **`interface fastethernet 0/1`** (entrée dans le deuxième config-if ajout du 2e réseau)
 - ip address 172.17.255.254 255.255.0.0
 - no shutdown
 - exit (sortie du config-if)
