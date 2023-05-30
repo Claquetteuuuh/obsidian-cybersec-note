@@ -74,6 +74,8 @@ Lancer Tera Term sur le windows
 
 Choisir SERIE : Port (choisir le port USB)
 
+Faire un ctrl C pour sortir de la configuration par defaut
+
 Effectuer les commandes suivante :
 
 - enable (entrée dans le routeur)
@@ -94,4 +96,6 @@ Effectuer les commandes suivante :
 - ping 172.16.1.1 (verification de la connection)
 - ping 172.17.1.1
 
-### 
+### Table de routage
+
+Sur la machine A s
