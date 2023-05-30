@@ -1,9 +1,9 @@
 
 ## Creation de notre ip reseaux
 
-Sur une machine :
+Sur machine  A:
 
 ```shell
-$ sudo ifconfig <carte_reseaux> <IP_MACHINE> netmask <MASK>
+$ sudo ifconfig ens33 172.16.1.1 netmask <MASK>
 $ ifconfig
 ```
