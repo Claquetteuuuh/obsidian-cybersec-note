@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/Network_router_config.md",
+                "file": "web_hacking/XSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/Network_router_config.md",
+                "file": "web_hacking/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/Network_router_config.md",
+                "file": "web_hacking/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/Network_router_config.md"
+                "file": "web_hacking/XSS.md"
               }
             }
           },
@@ -172,7 +172,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "bb6796f1f031be5f",
   "lastOpenFiles": [
     "network/Network_router_config.md",
     "Pentest_Basics.md",
