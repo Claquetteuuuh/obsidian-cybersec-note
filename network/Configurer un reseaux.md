@@ -76,5 +76,9 @@ Choisir SERIE : Port (choisir le port USB)
 
 Effectuer les commandes suivante :
 
-
-```
+- enable (entrée dans le routeur)
+- (écrire le mot de passe)
+- configure terminal (entrée dans le config)
+- ip routing
+- interface fastethernet 0/0 (entrée dans le premier config-if ajout du 1er réseau)
+- ip address 172.1.1.1 255.255.255.0
