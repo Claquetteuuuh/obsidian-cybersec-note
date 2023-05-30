@@ -111,3 +111,14 @@ Sur machine C du reseau 2:
 $ ip route del default
 $ ip route add default via 172.17.255.254
 ```
+
+Verifier avec IP route
+
+```shell
+$ ip route
+172.17.0.0/16 dev ens33 proto kernel scope link src 172.17.1.1
+```
+
+### Verification
+
+``
