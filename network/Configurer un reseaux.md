@@ -87,14 +87,14 @@ Effectuer les commandes suivante :
 - **`no shutdown`**
 - **`exit`** (sortie du config-if)
 - **`interface fastethernet 0/1`** (entrée dans le deuxième config-if ajout du 2e réseau)
-- ip address 172.17.255.254 255.255.0.0
-- no shutdown
-- exit (sortie du config-if)
-- exit (sortie du config)
-- disable (sortie du routeur)
-- show ip interface brief
-- ping 172.16.1.1 (verification de la connection)
-- ping 172.17.1.1
+- **`ip address 172.17.255.254 255.255.0.0`**
+- **`no shutdown`**
+- **`exit`** (sortie du config-if)
+- **`exit`** (sortie du config)
+- **`disable`** (sortie du routeur)
+- **`show ip interface brief`**
+- **`ping 172.16.1.1`** (verification de la connection)
+- **`ping 172.17.1.1`**
 
 ### Table de routage
 
