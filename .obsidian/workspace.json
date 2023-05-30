@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/Network_conf.md",
+                "file": "network/Network_router_config.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/Network_conf.md",
+                "file": "network/Network_router_config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/Network_conf.md",
+                "file": "network/Network_router_config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/Network_conf.md"
+                "file": "network/Network_router_config.md"
               }
             }
           },
@@ -172,9 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d68d501aa19161d",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
-    "network/Network_conf.md",
+    "network/Network_router_config.md",
     "Pentest_Basics.md",
     "cryptographie/Powershell_chiffrement.md",
     "assets/imgs/basics/mindmap_pentest.png",
