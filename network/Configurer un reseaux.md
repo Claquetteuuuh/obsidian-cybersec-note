@@ -66,4 +66,8 @@ $ ping 172.17.1.1
 
 Brancher, allumer le router et faire le branchement cable blanc sur FE 0/1 (reseau 2) ou FE 0/0 (reseau 1).
 
-	Brancher le ca
+Brancher le cable bleu sur un port console et à un USB du pc
+
+### Config du router
+
+Lancer Tera Term sur le windows
