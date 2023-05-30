@@ -71,3 +71,5 @@ Brancher le cable bleu sur un port console et à un USB du pc
 ### Config du router
 
 Lancer Tera Term sur le windows
+
+Choisir SERIE : Port (choisir le port USB)
