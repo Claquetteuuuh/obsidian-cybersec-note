@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-Forensic/Windows Register.md",
+                "file": "malware/Malware_working.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT-Forensic/Windows Register.md",
+                "file": "malware/Malware_working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT-Forensic/Windows Register.md",
+                "file": "malware/Malware_working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-Forensic/Windows Register.md"
+                "file": "malware/Malware_working.md"
               }
             }
           },
@@ -174,6 +174,10 @@
   },
   "active": "bb6796f1f031be5f",
   "lastOpenFiles": [
+    "malware/Powershell_empire.md",
+    "malware/Malware_working.md",
+    "malware/Ransomware.md",
+    "OSINT-Forensic/Windows Register.md",
     "OSINT-Forensic/Osint-Utils.md",
     "OSINT-Forensic/Enumeration_des_sous_domaines.md",
     "OSINT-Forensic/Digital Forensic.md",
@@ -183,7 +187,6 @@
     "Pentest_Basics.md",
     "cryptographie/Powershell_chiffrement.md",
     "assets/imgs/basics/mindmap_pentest.png",
-    "malware/Powershell_empire.md",
     "cryptographie/Encryption_Chiffrement.md",
     "cryptographie/Hash.md",
     "network/nmap/NMAP-Post_Port_Scan.md",
@@ -197,10 +200,7 @@
     "system/Linux_Priv_esc.md",
     "OSINT/Untitled.md",
     "system/Empire_Windows_Priv_esc.md",
-    "malware/Ransomware.md",
-    "malware/Malware_working.md",
     "malware/Powershell_Obfuscation.md",
-    "web_hacking/Authentification-Bypass.md",
     "malware",
     "network/powershell",
     "network/nmap",
