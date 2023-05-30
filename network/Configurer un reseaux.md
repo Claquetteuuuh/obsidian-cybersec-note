@@ -121,4 +121,19 @@ $ ip route
 
 ### Verification
 
-``
+Sur machine A :
+
+```shell
+$ ping 172.17.1.1
+# doit marcher
+```
+
+Sur machine C:
+
+```shell
+$ ping 172.16.1.1
+# doit marcher
+```
+
+On peut maintenant acceder au site web.
+
