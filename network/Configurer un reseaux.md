@@ -48,5 +48,13 @@ $ ifconfig
 
 Sur machine C:
 
+```shell
+$ sudo wireshark
 ```
+
+Sur machine D:
+
+```shell
+$ ping 172.17.1.1
+
 ```
