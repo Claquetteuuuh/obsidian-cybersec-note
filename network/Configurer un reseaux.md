@@ -1,6 +1,8 @@
 
 ## __Creation de notre ip reseaux__
 
+Faire les bra
+
 ### Reseau A
 
 Sur machine  A:
@@ -56,5 +58,9 @@ Sur machine D:
 
 ```shell
 $ ping 172.17.1.1
-
+# Le ping doit marcher
 ```
+
+
+## __Router__
+
