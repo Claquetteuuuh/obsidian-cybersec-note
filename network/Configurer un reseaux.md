@@ -17,7 +17,12 @@ $ sudo ifconfig ens33 172.16.1.2 netmask 255.255.0.0
 $ ifconfig
 ```
 
-Sur mach
+Sur machine A :
+
+```shell
+$ ping 172.16.1.2
+# le ping doit fo
+```
 
 ### Reseau B
 
