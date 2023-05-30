@@ -91,4 +91,7 @@ Effectuer les commandes suivante :
 - exit (sortie du config)
 - disable (sortie du routeur)
 - show ip interface brief
-- ping 192.168.1.2
+- ping 172.16.1.1 (verification de la connection)
+- ping 172.17.1.1
+
+### 
