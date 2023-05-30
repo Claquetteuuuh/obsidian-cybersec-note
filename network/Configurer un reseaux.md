@@ -98,4 +98,16 @@ Effectuer les commandes suivante :
 
 ### Table de routage
 
-Sur la machine A s
+Sur la machine A du reseau 1:
+
+```shell
+$ ip route del default
+$ ip route add default via 172.16.255.254
+```
+
+Sur machine C du reseau 2:
+
+```shell
+$ ip route del default
+$ ip route add default via 172.17.255.254
+```
