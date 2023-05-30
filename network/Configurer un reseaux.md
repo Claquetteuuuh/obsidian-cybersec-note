@@ -42,5 +42,11 @@ $ ifconfig
 Sur machine D:
 
 ```shell
-$ sudo ifconfig ens33 172
+$ sudo ifconfig ens33 172.17.1.2 netmask 255.255.0.0
+$ ifconfig
+```
+
+Sur machine C:
+
+```
 ```
