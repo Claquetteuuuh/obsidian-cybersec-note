@@ -81,4 +81,8 @@ Effectuer les commandes suivante :
 - configure terminal (entrée dans le config)
 - ip routing
 - interface fastethernet 0/0 (entrée dans le premier config-if ajout du 1er réseau)
-- ip address 172.1.1.1 255.255.255.0
+- ip address 172.16.255.254 255.255.0.0
+- no shutdown
+- exit (sortie du config-if)
+- interface fastethernet 0/1 (entrée dans le deuxième config-if ajout du 2e réseau)
+- ip address 172.17.2.1 255.255.255.0
