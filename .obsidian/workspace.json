@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "file": "malware/shell/Shell_explanation.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "file": "malware/shell/Shell_explanation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md",
+                "file": "malware/shell/Shell_explanation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web_hacking/Bypass_File_upload_filters.md"
+                "file": "malware/shell/Shell_explanation.md"
               }
             }
           },
@@ -173,8 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19b4ff070db0582e",
+  "active": "bb6796f1f031be5f",
   "lastOpenFiles": [
+    "malware/shell/Socat.md",
+    "system/Linux_Priv_esc.md",
+    "malware/shell/Reverse_Shell.md",
+    "web_hacking/Bypass_File_upload_filters.md",
     "network/nmap/NMAP-Host_active_directory.md",
     "network/nmap/NMAP-Advanced_Port_Scan.md",
     "network/nmap/NMAP-TCP_UDP_Port_Scan.md",
@@ -197,11 +200,7 @@
     "network/Network.md",
     "network/DNS-Domain_Name_System.md",
     "Exploit/Meterpreter-Post_exploitation.md",
-    "web_hacking/Bypass_File_upload_filters.md",
     "system/Linux_Enumeration.md",
-    "system/Linux_Priv_esc.md",
-    "OSINT/Untitled.md",
-    "system/Empire_Windows_Priv_esc.md",
     "malware",
     "network/powershell",
     "network/nmap",
