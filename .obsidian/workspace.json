@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5e85bb5d12a89130",
+        "id": "c74e47ff6d3bcf09",
         "type": "tabs",
         "children": [
           {
-            "id": "bb6796f1f031be5f",
+            "id": "151e892de2780a83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "malware/shell/Shell_explanation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "malware/shell/Shell_explanation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "malware/shell/Shell_explanation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "malware/shell/Shell_explanation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb6796f1f031be5f",
+  "active": "151e892de2780a83",
   "lastOpenFiles": [
+    "malware/Malware_working.md",
+    "malware/shell/Shell_explanation.md",
     "malware/shell/Socat.md",
     "system/Linux_Priv_esc.md",
     "malware/shell/Reverse_Shell.md",
@@ -183,7 +177,6 @@
     "network/nmap/NMAP-TCP_UDP_Port_Scan.md",
     "network/nmap/NMAP-Post_Port_Scan.md",
     "cryptographie/Powershell_chiffrement.md",
-    "malware/Malware_working.md",
     "malware/Powershell_empire.md",
     "malware/Ransomware.md",
     "OSINT-Forensic/Windows Register.md",
@@ -200,7 +193,6 @@
     "network/Network.md",
     "network/DNS-Domain_Name_System.md",
     "Exploit/Meterpreter-Post_exploitation.md",
-    "system/Linux_Enumeration.md",
     "malware",
     "network/powershell",
     "network/nmap",
