@@ -144,4 +144,4 @@ NOTE : SI ON A 3 ROUTER BIEN VERIFIER QUE LES IP DES ROUTERS SOIENT DIFFERENTE
 
 Faire les configurations précédente sur le routeur 3
 
-effectuer la commande ip route 
+effectuer la commande 
