@@ -80,7 +80,7 @@ Effectuer les commandes suivante :
 
 - **`enable`** (entrée dans le routeur)
 - (écrire le mot de passe)
-- **`cox nfigure terminal`** (entrée dans le config)
+- **`configure terminal`** (entrée dans le config)
 - **`ip routing`**
 - **`interface fastethernet 0/0`** (entrée dans le premier config-if ajout du 1er réseau)
 - **`ip address 172.16.255.254 255.255.0.0`** (setup l'ip du router)
