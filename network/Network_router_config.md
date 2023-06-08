@@ -138,3 +138,4 @@ $ ping 172.16.1.1
 On peut maintenant accéder au site web.
 
 NOTE : SI ON A 3 ROUTER BIEN VERIFIER QUE LES IP DES ROUTERS SOIENT DIFFERENTE
+
