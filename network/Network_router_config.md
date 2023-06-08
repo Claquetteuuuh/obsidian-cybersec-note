@@ -139,3 +139,9 @@ On peut maintenant accéder au site web.
 
 NOTE : SI ON A 3 ROUTER BIEN VERIFIER QUE LES IP DES ROUTERS SOIENT DIFFERENTE
 
+
+## __Router3__
+
+Faire les configurations précédente sur le routeur 3
+
+effectuer la commande ip route 
