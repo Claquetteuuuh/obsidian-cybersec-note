@@ -59,7 +59,7 @@ Nmap done: 256 IP addresses (8 hosts up) scanned in 10.93 seconds
 
 ## __Scan TCP__
 
-On peut envoyer un **flag SYN** a un port d’une machine, un port ouvert répondra par un flag SYN/ACK un port fermé lui entrainera un RST. La commande à effectuer est **`nmap -PS -sn <cible>/24`**. [En savoir plus sur le scan TCP](NMAP-TCP_UDP_Port_Scan).
+On peut envoyer un **flag SYN** a un port d’une machine, un port ouvert répondra par un flag SYN/ACK un port fermé lui entrainera un RST. La commande à effectuer est **`nmap -PS -sn <cible>/24`**. [En savoir plus sur le scan TCP](NMAP-TCP_UDP_Port_Scan.md).
 
 ```shell
 pentester@ip$ sudo nmap -PS -sn 10.10.68.220/24 
@@ -85,7 +85,7 @@ On peut également effectuer une requête similaire avec un **flag ACK**, l’op
 
 ## __Scan UDP__
 
-Enfin, on peut analyser les Hosts actifs en effectuant une requête **UDP**, contrairement au requête précédente, elle n’envoie pas de packet si l’hote est ouvert. La commande est **`nmap -PU -sn <cible>/24`**. [En savoir plus sur le scan UDP](NMAP-TCP_UDP_Port_Scan).
+Enfin, on peut analyser les Hosts actifs en effectuant une requête **UDP**, contrairement au requête précédente, elle n’envoie pas de packet si l’hote est ouvert. La commande est **`nmap -PU -sn <cible>/24`**. [En savoir plus sur le scan UDP](NMAP-TCP_UDP_Port_Scan.md).
 
 ![[nmap5.1.png]]
 
