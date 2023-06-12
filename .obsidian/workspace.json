@@ -11,15 +11,22 @@
             "id": "53377e6e1a8fe85d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1a7cf9b1989bb6b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "system/priv_esc/Enumeration.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.2.8"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +71,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "68cfe2c703fee40c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/priv_esc/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/priv_esc/Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "system/priv_esc/Enumeration.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53377e6e1a8fe85d",
+  "active": "f1a7cf9b1989bb6b",
   "lastOpenFiles": [
     "system/priv_esc/Privilege_Escalation.md",
     "system/obfuscation/PowerShell_Obfuscation.md",
