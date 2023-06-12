@@ -19,9 +19,11 @@
             "id": "f1a7cf9b1989bb6b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "network/Network_router_config.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "network/Network_router_config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "network/Network_router_config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "network/Network_router_config.md"
+              }
             }
           },
           {
