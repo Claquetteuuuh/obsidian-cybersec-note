@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "30df7a3caa61e49f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "network/Network_router_config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "network/Network_router_config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "network/Network_router_config.md"
               }
             }
           },
@@ -185,10 +172,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30df7a3caa61e49f",
+  "active": "151e892de2780a83",
   "lastOpenFiles": [
-    "network/Network_router_config.md",
     "conflict-files-obsidian-git.md",
+    "network/Network_router_config.md",
     "Untitled.md",
     "malware/Malware_working.md",
     "malware/shell/Shell_explanation.md",
