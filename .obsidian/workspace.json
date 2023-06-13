@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/Network_router_config.md",
+                "file": "Exploit/Metasploit-msfconsole.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/Network_router_config.md",
+                "file": "Exploit/Metasploit-msfconsole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/Network_router_config.md",
+                "file": "Exploit/Metasploit-msfconsole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/Network_router_config.md"
+                "file": "Exploit/Metasploit-msfconsole.md"
               }
             }
           },
@@ -174,8 +174,10 @@
   },
   "active": "151e892de2780a83",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Exploit/Metasploit-Modules.md",
+    "Exploit/Metasploit_Msfvenom.md",
     "network/Network_router_config.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.md",
     "malware/Malware_working.md",
     "malware/shell/Shell_explanation.md",
@@ -199,8 +201,6 @@
     "Pentest_Basics.md",
     "assets/imgs/basics/mindmap_pentest.png",
     "cryptographie/Encryption_Chiffrement.md",
-    "cryptographie/Hash.md",
-    "network/Network.md",
     "malware",
     "network/powershell",
     "network/nmap",
