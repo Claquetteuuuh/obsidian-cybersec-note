@@ -18,7 +18,7 @@ Il faut bien respecter le branchement sinon on pourrai endomager le matériel.
 | MISO        | 21 - MISO   |
 | MOSI        | 19 - MOSI   |
 | SCK         | 23 - SCLK   |
-| NSS         | 24 - GPIO7  |
+| NSS         | 24 - GPIO8  |
 | IRQ         | -            |
 
 ![[schema-RPi]]
