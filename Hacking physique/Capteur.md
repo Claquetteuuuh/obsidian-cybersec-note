@@ -73,6 +73,7 @@ reader = SimpleMFRC522()
 try:
     while True:
         id, text = reader.read()
+        if id == "216736162652":
         print(f"id : {id}")
         print(text)
         time.sleep(2)
