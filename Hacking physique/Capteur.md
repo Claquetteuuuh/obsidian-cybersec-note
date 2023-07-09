@@ -73,10 +73,13 @@ reader = SimpleMFRC522()
 try:
     while True:
         id, text = reader.read()
+	    print(f"id : {id}")
         if id == "216736162652":
-        print(f"id : {id}")
-        print(text)
-        time.sleep(2)
+		    print("bon")
+			print(text)
+		else:
+			print("mauvais")
+	    time.sleep(2)
 
 except KeyboardInterrupt:
     GPIO.cleanup()
