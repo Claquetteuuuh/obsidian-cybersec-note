@@ -25,6 +25,8 @@ The user dashboard of the wonderlive project.
 | typescript       | ^5.1.3      |
 | @prisma/client   | ^4.16.2            |
 
-## How to run the project
+## Quick Start
 
-{}
+### Local
+
+- Down
