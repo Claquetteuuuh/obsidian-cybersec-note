@@ -5,14 +5,12 @@
 The user dashboard of the wonderlive project.
 
 ## Versions
-
 ### Technologies
 
 | **Technologie** | **Version** |
 | --------------- | ------- |
 | NextJS          | 13.4.7  |
 | NodeJS          | 18.13.0 |
-
 ### Dependences
 
 | **Dependences**  | **Version** |
@@ -27,3 +25,6 @@ The user dashboard of the wonderlive project.
 | typescript       | ^5.1.3      |
 | @prisma/client   | ^4.16.2            |
 
+## How to run the project
+
+{}
