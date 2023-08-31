@@ -6,3 +6,6 @@ The user dashboard of the wonderlive project.
 
 ## Versions
 
+| **Technologie** | Version |
+| --------------- | ------- |
+| NextJS          | 13.4.7        |
