@@ -31,4 +31,5 @@ The user dashboard of the wonderlive project.
 
 - Clone the project using `git clone <HTTP URL>`
 - Download the dependencies using `npm i -y`
-- 
+- Create a `.env` file in the root of the project
+	- Create the `DATABASE_URL` variable and place your database
