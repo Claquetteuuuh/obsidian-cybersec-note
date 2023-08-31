@@ -35,6 +35,8 @@ The user dashboard of the wonderlive project.
 	- Create the `DATABASE_URL` variable and place your sqlite DB file location here
 	- Create the `RAMP_KEY` variable and place your rampkey value here
 	- Create the `WEB3AUTH_CLIENT_ID` variable and place your WEB3AUTH client id value here
+- Go to the `/config/chainConfig.ts` file
+	- Edit the `rpcTarget` value if you want another rpc
 - Finally run `npm run dev` to start the project
 - (Optional) run `npx prisma studio` if you want to manage your DB manually
 
