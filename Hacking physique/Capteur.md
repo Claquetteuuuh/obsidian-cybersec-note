@@ -18,7 +18,7 @@ Il faut bien respecter le branchement sinon on pourrai endomager le matériel.
 | MISO        | 21 - MISO   |
 | MOSI        | 19 - MOSI   |
 | SCK         | 23 - SCLK   |
-| NSS         | 24 - GPIO7  |
+| NSS         | 24 - GPIO8  |
 | IRQ         | -            |
 
 ![[schema-RPi]]
@@ -73,9 +73,13 @@ reader = SimpleMFRC522()
 try:
     while True:
         id, text = reader.read()
-        print(f"id : {id}")
-        print(text)
-        time.sleep(2)
+	    print(f"id : {id}")
+        if id == "216736162652":
+		    print("bon")
+			print(text)
+		else:
+			print("mauvais")
+	    time.sleep(2)
 
 except KeyboardInterrupt:
     GPIO.cleanup()

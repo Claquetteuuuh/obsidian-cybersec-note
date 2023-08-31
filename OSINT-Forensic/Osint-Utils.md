@@ -37,6 +37,8 @@ pprint(response.json())
 - [Insecam](http://insecam.org/en/byrating/), montre en directe **les flux de certaines caméra connu**.
 - [Adsbexchange](https://globe.adsbexchange.com/), **trace**, et donne les **informations** des **avions** en direct.
 - L'utilisation de **`geocode:LAT,LONG,PERIM`**, `geocode:46.99814523000534,5.1563632071226015,.4km` sur twitter.
+- [zoom-earth](https://zoom.earth/), affiche les informations météorologique dans le monde.
+- [blitzortung](https://www.blitzortung.org/fr/live_lightning_maps.php?map=60), affiche les éclaires en direct.
 
 
 ## __Network__
