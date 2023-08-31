@@ -46,6 +46,9 @@ The user dashboard of the wonderlive project.
 - Go to the `/prisma/shema.prisma` file
 	- set your `provider` (l.9) to `mysql` or `postgresql` instead of `sqlite`
 - Deploy on [Vercel](https://vercel.com/), set following environment variables：
-	- `DATABASE_URL`, your Mysql DB url
+	- `DATABASE_URL`, your Mysql or Postgresql DB url
 	- `RAMP_KEY`, your rampkey
 	- `WEB3AUTH_CLIENT_ID`, your WEB3AUTH client id
+- Press the run button
+
+## 
