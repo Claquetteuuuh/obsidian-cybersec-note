@@ -1,4 +1,4 @@
-<img src="https://wonderlive.io/images/logo_primaire-blanc.png" alt="wonderlive icon"  height=/>
+<img src="https://wonderlive.io/images/logo_primaire-blanc.png" alt="wonderlive icon"  height=50/>
 # Wonderlive dashboard
 
 The user dashboard of the wonderlive project.
