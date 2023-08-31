@@ -40,3 +40,7 @@ The user dashboard of the wonderlive project.
 - (Optional) run `npx prisma studio` if you want to manage your DB manually
 ### Vercel
 
+- Go to the `/config/chainConfig.ts` file
+	- Edit the `rpcTarget` value if you want another rpc
+	- Don't forget to change the chainId value according to your `rpcTarget` version
+- 
