@@ -29,4 +29,6 @@ The user dashboard of the wonderlive project.
 
 ### Local
 
-- Down
+- Clone the project using `git clone <HTTP URL>`
+- Download the dependencies using `npm i -y`
+- 
