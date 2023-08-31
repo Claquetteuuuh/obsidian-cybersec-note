@@ -6,10 +6,15 @@ The user dashboard of the wonderlive project.
 
 ## Versions
 
-### Techno
+### Technologies
 
-| **Technologie** | Version |
+| **Technologie** | **Version** |
 | --------------- | ------- |
 | NextJS          | 13.4.7  |
 | NodeJS          | 18.13.0 |
 
+### Dependances
+
+| **Dependances** | **Version** |
+| ----------- | ------- |
+| axios            |         |
