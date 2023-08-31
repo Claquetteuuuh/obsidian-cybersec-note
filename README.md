@@ -1,4 +1,4 @@
-![[logo-wonderlive-plain-text.svg]]
+<img src="https://wonderlive.io/images/logo_primaire-blanc.png" alt="wonderlive icon"  height=/>
 # Wonderlive dashboard
 
 The user dashboard of the wonderlive project.
