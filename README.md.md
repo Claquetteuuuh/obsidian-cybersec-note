@@ -8,4 +8,5 @@ The user dashboard of the wonderlive project.
 
 | **Technologie** | Version |
 | --------------- | ------- |
-| NextJS          | 13.4.7        |
+| NextJS          | 13.4.7  |
+| NodeJS          |         |
