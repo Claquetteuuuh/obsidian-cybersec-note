@@ -51,4 +51,10 @@ The user dashboard of the wonderlive project.
 	- `WEB3AUTH_CLIENT_ID`, your WEB3AUTH client id
 - Press the run button
 
-## 
+## Need help
+
+| Technologie | docs                       |
+| ----------- | -------------------------- |
+| Prisma      | https://www.prisma.io/docs |
+| NextJS      | https://nextjs.org/docs    |
+|             |                            |
