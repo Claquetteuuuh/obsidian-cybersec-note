@@ -16,5 +16,11 @@ The user dashboard of the wonderlive project.
 ### Dependances
 
 | **Dependances** | **Version** |
-| ----------- | ------- |
-| axios            |         |
+| --------------- | ----------- |
+| axios           | ^1.3.4      |
+| eslint          | 8.43.0      |
+| ethers          | ^5.7.2      |
+| framer-motion   | ^10.12.18   |
+| prisma          | ^4.16.1     |
+| react           | ^18.2.0     |
+|                 |             |
