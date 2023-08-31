@@ -53,8 +53,10 @@ The user dashboard of the wonderlive project.
 
 ## Need help
 
-| Technologie | docs                       |
-| ----------- | -------------------------- |
-| Prisma      | https://www.prisma.io/docs |
-| NextJS      | https://nextjs.org/docs    |
-|             |                            |
+| Technologie | docs                        |
+| ----------- | --------------------------- |
+| Prisma      | https://www.prisma.io/docs  |
+| NextJS      | https://nextjs.org/docs     |
+| RPC         | https://chainlist.org/chain |
+| Web3Auth    | https://web3auth.io/docs    |
+| Vercel      | https://vercel.com/docs                            |
