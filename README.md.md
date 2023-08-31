@@ -44,7 +44,7 @@ The user dashboard of the wonderlive project.
 	- Edit the `rpcTarget` value if you want another rpc
 	- Don't forget to change the chainId value according to your `rpcTarget` version
 - Go to the `/prisma/shema.prisma` file
-	- 
+	- set your `provider` (l.9) to `mysql` or `postgresql` instead of `sqlite`
 - Deploy on [Vercel](https://vercel.com/), set following environment variables：
 	- `DATABASE_URL`, your Mysql DB url
 	- `RAMP_KEY`, your rampkey
