@@ -2,4 +2,7 @@
 
 # Wonderlive dashboard
 
-The user dashboard of 
+The user dashboard of the wonderlive project.
+
+## Versions
+
