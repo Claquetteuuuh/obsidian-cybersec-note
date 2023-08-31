@@ -34,4 +34,5 @@ The user dashboard of the wonderlive project.
 - Create a `.env` file in the root of the project
 	- Create the `DATABASE_URL` variable and place your sqlite DB file location here
 	- Create the `RAMP_KEY` variable and place your rampkey value here
-	- Create the `WEB3AUTH_CLIENT_ID` variable and place your 
+	- Create the `WEB3AUTH_CLIENT_ID` variable and place your WEB3AUTH client id value here
+- Finally run `npm run dev `
