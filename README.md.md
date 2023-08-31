@@ -43,4 +43,6 @@ The user dashboard of the wonderlive project.
 - Go to the `/config/chainConfig.ts` file
 	- Edit the `rpcTarget` value if you want another rpc
 	- Don't forget to change the chainId value according to your `rpcTarget` version
-- 
+- Deploy on [Vercel](https://vercel.com/), set following environment variables：
+	- `DATABASE_URL` your Mysql DB url
+	- 
