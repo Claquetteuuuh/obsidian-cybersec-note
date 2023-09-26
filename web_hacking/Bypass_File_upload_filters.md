@@ -120,3 +120,5 @@ Une fois les octets modifiés, on se retrouve avec celà :
 Voila, on peut maintenant upload notre fichier et il sera considéré comme un fichier JPEG.
 
 
+
+![[Pasted image 20230926141206.png]]
