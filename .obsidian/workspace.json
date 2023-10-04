@@ -174,6 +174,7 @@
   },
   "active": "cd53ce95a99901fc",
   "lastOpenFiles": [
+    "OSINT-Forensic/Decouvertes_du_contenu.md",
     "OSINT-Forensic/Enumeration_des_sous_domaines.md",
     "OSINT-Forensic/Osint-Utils.md",
     "cryptographie/Hash.md",
@@ -215,7 +216,6 @@
     "Exploit/Metasploit-msfconsole.md",
     "Exploit/Meterpreter-Post_exploitation.md",
     "Forensic/Digital Forensic.md",
-    "Forensic/Windows Register.md",
     "CTF",
     "Pasted image 20230412142136.png",
     "assets/imgs/system",
