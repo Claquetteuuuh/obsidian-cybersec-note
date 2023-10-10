@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2958a7905f0291bc",
+        "id": "fb6bee01d5db4361",
         "type": "tabs",
         "children": [
           {
-            "id": "cd53ce95a99901fc",
+            "id": "9d41bda540233c8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT-Forensic/Decouvertes_du_contenu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT-Forensic/Decouvertes_du_contenu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT-Forensic/Decouvertes_du_contenu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OSINT-Forensic/Decouvertes_du_contenu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,10 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd53ce95a99901fc",
+  "active": "9d41bda540233c8a",
   "lastOpenFiles": [
-    "OSINT-Forensic/Decouvertes_du_contenu.md",
+    "network/DNS-Domain_Name_System.md",
     "OSINT-Forensic/Enumeration_des_sous_domaines.md",
+    "OSINT-Forensic/Decouvertes_du_contenu.md",
     "OSINT-Forensic/Osint-Utils.md",
     "cryptographie/Hash.md",
     "web_hacking/Bypass_File_upload_filters.md",
@@ -215,7 +208,6 @@
     "web_hacking/Authentification-Bypass.md",
     "Exploit/Metasploit-msfconsole.md",
     "Exploit/Meterpreter-Post_exploitation.md",
-    "Forensic/Digital Forensic.md",
     "CTF",
     "Pasted image 20230412142136.png",
     "assets/imgs/system",
