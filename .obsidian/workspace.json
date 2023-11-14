@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a59d1788e7c94bd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/imgs/physical/MFRC522/schema-pin.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking physique/Capteur.md",
+                "file": "assets/imgs/physical/MFRC522/schema-pin.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking physique/Capteur.md",
+                "file": "assets/imgs/physical/MFRC522/schema-pin.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking physique/Capteur.md"
+                "file": "assets/imgs/physical/MFRC522/schema-pin.png"
               }
             }
           },
@@ -172,8 +183,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d41bda540233c8a",
+  "active": "0a59d1788e7c94bd",
   "lastOpenFiles": [
+    "Hacking physique/Capteur.md",
+    "assets/Excalidraw/schema-RPi.md",
     "network/DNS-Domain_Name_System.md",
     "OSINT-Forensic/Enumeration_des_sous_domaines.md",
     "OSINT-Forensic/Decouvertes_du_contenu.md",
@@ -206,12 +219,10 @@
     "assets/imgs/system/obfuscation",
     "system/shell",
     "system/working",
-    "Hacking physique/Capteur.md",
     "system/priv_esc/Enumeration.md",
     "system/shell/Reverse_Shell.md",
     "misc/Comptes.md",
     "system/Binaries.md",
-    "assets/Excalidraw/schema-RPi.md",
     "OSINT/Osint-Utils.md",
     "web_hacking/Authentification-Bypass.md",
     "Exploit/Metasploit-msfconsole.md",
