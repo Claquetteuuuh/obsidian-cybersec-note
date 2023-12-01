@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentest_Basics.md",
+                "file": "OSINT-Forensic/Osint-Utils.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentest_Basics.md",
+                "file": "OSINT-Forensic/Osint-Utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentest_Basics.md",
+                "file": "OSINT-Forensic/Osint-Utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentest_Basics.md"
+                "file": "OSINT-Forensic/Osint-Utils.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "0a59d1788e7c94bd",
   "lastOpenFiles": [
+    "Pentest_Basics.md",
     "assets/imgs/physical/MFRC522/schema-pin.png",
     "Hacking physique/Capteur.md",
     "assets/Excalidraw/schema-RPi.md",
@@ -232,7 +233,6 @@
     "CTF",
     "Pasted image 20230412142136.png",
     "assets/imgs/system",
-    "assets/imgs/physical/MFRC522/interface2.png",
     "Untitled.canvas"
   ]
 }
