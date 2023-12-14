@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fb6bee01d5db4361",
+        "id": "3cf1d3d6c4359c10",
         "type": "tabs",
         "children": [
           {
-            "id": "9d41bda540233c8a",
+            "id": "c2dfd2bf4af0bc62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hacking physique/Capteur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a59d1788e7c94bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentest_Basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentest_Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentest_Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pentest_Basics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,22 +164,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a59d1788e7c94bd",
+  "active": "c2dfd2bf4af0bc62",
   "lastOpenFiles": [
-    "OSINT-Forensic/Osint-Utils.md",
+    "system/windows/Windows_internal.md",
+    "assets/imgs/system/windows",
+    "assets/imgs/system/windows/Pasted image 20231214142013.png",
+    "system/windows/WinX64_Assembly.md",
+    "system/windows/Empire_Windows_Priv_esc.md",
+    "system/Binaries.md",
     "Pentest_Basics.md",
-    "assets/imgs/physical/MFRC522/schema-pin.png",
+    "prog sys.pdf",
+    "logo-wonderlive-plain-text.svg",
+    "Pasted image 20230926141206.png",
+    "system/linux/Linux_Enumeration.md",
     "Hacking physique/Capteur.md",
+    "system/linux",
+    "system/windows",
+    "OSINT-Forensic/Osint-Utils.md",
+    "assets/imgs/physical/MFRC522/schema-pin.png",
     "assets/Excalidraw/schema-RPi.md",
     "network/DNS-Domain_Name_System.md",
     "OSINT-Forensic/Enumeration_des_sous_domaines.md",
     "OSINT-Forensic/Decouvertes_du_contenu.md",
     "cryptographie/Hash.md",
     "web_hacking/Bypass_File_upload_filters.md",
-    "Pasted image 20230926141206.png",
     "README.md",
     "README.md.md",
-    "logo-wonderlive-plain-text.svg",
     "conflict-files-obsidian-git.md",
     "network/Network_router_config.md",
     "system/priv_esc/Privilege_Escalation.md",
@@ -221,18 +210,7 @@
     "assets/imgs/system/obfuscation/renameObj1.png",
     "assets/imgs/system/obfuscation/Entropy1.png",
     "assets/imgs/system/obfuscation",
-    "system/shell",
-    "system/working",
     "system/priv_esc/Enumeration.md",
-    "system/shell/Reverse_Shell.md",
-    "misc/Comptes.md",
-    "system/Binaries.md",
-    "OSINT/Osint-Utils.md",
-    "web_hacking/Authentification-Bypass.md",
-    "Exploit/Metasploit-msfconsole.md",
-    "CTF",
-    "Pasted image 20230412142136.png",
-    "assets/imgs/system",
     "Untitled.canvas"
   ]
 }
