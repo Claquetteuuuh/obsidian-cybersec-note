@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3cf1d3d6c4359c10",
+        "id": "f885d5581b470e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "c2dfd2bf4af0bc62",
+            "id": "8cdf13e1288926a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OSINT-Forensic/Decouvertes_du_contenu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "robots.txt",
+                "query": "google dork",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OSINT-Forensic/Decouvertes_du_contenu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OSINT-Forensic/Decouvertes_du_contenu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OSINT-Forensic/Decouvertes_du_contenu.md"
+              }
             }
           },
           {
@@ -136,17 +144,9 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "0d68d501aa19161d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,12 +164,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2dfd2bf4af0bc62",
+  "active": "8cdf13e1288926a5",
   "lastOpenFiles": [
+    "OSINT-Forensic/Digital_Forensic.md",
+    "OSINT-Forensic/Enumeration_des_sous_domaines.md",
+    "OSINT-Forensic/Google_Dorks.md",
+    "assets/imgs/osint",
+    "assets/imgs/osint/Pasted image 20231215133710.png",
+    "OSINT-Forensic/Decouvertes_du_contenu.md",
+    "network/Network.md",
     "system/windows/Windows_internal.md",
+    "system/windows/WinX64_Assembly.md",
     "assets/imgs/system/windows",
     "assets/imgs/system/windows/Pasted image 20231214142013.png",
-    "system/windows/WinX64_Assembly.md",
     "system/windows/Empire_Windows_Priv_esc.md",
     "system/Binaries.md",
     "Pentest_Basics.md",
@@ -184,8 +191,6 @@
     "assets/imgs/physical/MFRC522/schema-pin.png",
     "assets/Excalidraw/schema-RPi.md",
     "network/DNS-Domain_Name_System.md",
-    "OSINT-Forensic/Enumeration_des_sous_domaines.md",
-    "OSINT-Forensic/Decouvertes_du_contenu.md",
     "cryptographie/Hash.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "README.md",
@@ -199,8 +204,6 @@
     "system/firewall/PowerShell_Obfuscation.md",
     "system/working/Assembly.md",
     "system/firewall",
-    "system/shell/Shell_explanation.md",
-    "().md",
     "system/priv_esc",
     "assets/imgs/system/shell-non-interactif.png",
     "assets/imgs/system/shell-interactif.png",
@@ -208,9 +211,6 @@
     "assets/imgs/system/shell/shell-interactif.png",
     "assets/imgs/system/shell",
     "assets/imgs/system/obfuscation/renameObj1.png",
-    "assets/imgs/system/obfuscation/Entropy1.png",
-    "assets/imgs/system/obfuscation",
-    "system/priv_esc/Enumeration.md",
     "Untitled.canvas"
   ]
 }

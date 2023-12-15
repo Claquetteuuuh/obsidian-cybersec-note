@@ -130,6 +130,18 @@ SUMMARY
 ```
 
 
+### Host
+
+La commande **`host`** nous permet de récupérer la **listes des IPv4 et IPv6** associé à un domaine :
+
+```bash
+$ host clinic.thmredteam.com
+clinic.thmredteam.com has address 172.67.212.249
+clinic.thmredteam.com has address 104.21.93.169
+clinic.thmredteam.com has IPv6 address 2606:4700:3034::6815:5da9
+clinic.thmredteam.com has IPv6 address 2606:4700:3034::ac43:d4f9
+```
+
 ### Shodan.io
 
 [Shodan.io](https://www.shodan.io/) permet de récupérer beaucoup d’information du au **logs** des nom de domaines :

@@ -9,7 +9,7 @@ Il y a plusieurs manière pour trouver manuellement les **routes d’un site** 
 - **Favicon**, souvent, quand les sites sont codé avec des **frameworks**, il reste une favicon, elle peut donner une **information sur le framework** utilisé.
 - **Sitemap.xml**, A l’inverse du fichier Robots.txt, ce fichier liste toutes les routes qui **doivent être listé par le moteur de recherche**.
 - **http headers**, en effectuant une requête **`$ curl <ip> -v`** on peut récupérer la **version du serveur web** ainsi que du **langage de programmation** du site.
-- **OSINT-Google dork**, Google, comme de nombreux moteur de recherche, met à notre disposition des [dorks](https://en.wikipedia.org/wiki/Google_hacking) qui permettent de trouver des **informations sur des sites**. Exemple site:tryhackme.com listera tous les sites du domaine tryhackme.com.
+- **OSINT-[[Google_Dorks]]**, Google, comme de nombreux moteur de recherche, met à notre disposition des [dorks](https://en.wikipedia.org/wiki/Google_hacking) qui permettent de trouver des **informations sur des sites**. Exemple site:tryhackme.com listera tous les sites du domaine tryhackme.com.
 - **OSINT**, L’extension [Wappalyzer](https://www.wappalyzer.com/) permet de connaitre les **technologies utilisé sur le site**.
 - **OSINT-Wayback**, [Wayback-Machine](https://archive.org/web/) est une archive qui répertorie depuis 1990 toutes les pages qui **ont été hébergé sur un domaine**, on pourra grâce à ça trouver les anciennes pages du site.
 - **OSINT-Github**, github est un **outil de versioning** qui suit les modifications apporté à un fichier.
