@@ -1,5 +1,7 @@
 # Dorks
 
+*Extension: https://addons.mozilla.org/fr/firefox/addon/google-dork-builder/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search*
+
 Les **Googles Dorks** sont des façons d'utiliser les **moteurs de recherches** pour faciliter et **cibler** notre recherche.
 
 Par exemple cette recherche nous donne tous les fichiers PDF de sites en .info qui contiennent le texte "JO 2024" :

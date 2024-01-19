@@ -142,6 +142,18 @@ clinic.thmredteam.com has IPv6 address 2606:4700:3034::6815:5da9
 clinic.thmredteam.com has IPv6 address 2606:4700:3034::ac43:d4f9
 ```
 
+### Threatintelligence
+
+[ThreatIntelligence](https://threatintelligenceplatform.com/) permet de lancer une série de **tests sur le domaine**, que ce soit sur son contenu afin de savoir s'il y a des **malwares** ou autre dessus ou même avoir des informations tel que le **whois et dig**.
+
+![[threatintelligence.png]]
+
+### Censys.io
+
+[Censys.io](https://search.censys.io/hosts) permet de récupérer des **informations sur les ports** d'une IP.
+
+![[censys.io.png]]
+
 ### Shodan.io
 
 [Shodan.io](https://www.shodan.io/) permet de récupérer beaucoup d’information du au **logs** des nom de domaines :
@@ -151,6 +163,8 @@ clinic.thmredteam.com has IPv6 address 2606:4700:3034::ac43:d4f9
 - **server type and version**
 
 Ou des statistiques comme le taux d’utilisation des technologies des serveurs, les ports utilisé…
+
+Vous pouvez l'utiliser via le site ou via un **CLI**. Voir https://cli.shodan.io/
 
 ![[shodan.io.png]]
 

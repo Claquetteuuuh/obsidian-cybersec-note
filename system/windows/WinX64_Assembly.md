@@ -1,4 +1,4 @@
-
+Voir aussi [[Assembly]].
 # Fonction
 
 A l'**appelle d'une fonction** le registre **RBP** va prendre en valeur le **RSP** (haut de la pile) au moment de l'appelle afin de délimiter où la fonction commence.

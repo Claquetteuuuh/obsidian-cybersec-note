@@ -1,5 +1,5 @@
 
-Le site [Malfrat's OSINT Map](https://map.malfrats.industries/) répertorie plein de site utile pour la collecte d'information par categories.
+Le site [Malfrat's OSINT Map](https://map.malfrats.industries/) ou [Osint framework](https://osintframework.com/) répertorie plein de site utile pour la collecte d'information par categories.
 
 Pour s'entrainer, on peut utiliser les sites: [Ozint](https://ozint.eu/), ou [Tryhackme](https://tryhackme.com)
 
@@ -43,7 +43,7 @@ pprint(response.json())
 
 ## __Network__
 
-- [Mxtoolbox](https://mxtoolbox.com/), sorte de **[[Network#Nslookup & Dig]] avancé**.
+- [Mxtoolbox](https://mxtoolbox.com/), sorte de **[[Network_reconnaissance#Nslookup & Dig]] avancé**.
 - [Wigle](https://wigle.net/), donne les **informations** sur un **BSSID**.
 - [Pulsedive](https://pulsedive.com), whois plus poussé.
 - [Netlas](https://app.netlas.io), **info personnelle** du mec qui achete le domaine.

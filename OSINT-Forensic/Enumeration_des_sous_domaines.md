@@ -61,4 +61,4 @@ user@machine$ ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -
 
 ## __HackerTarget__
 
-**[Hackertarget](Network##__Passive_reconnaissance__###Hackertarget)** est un modules de recon-ng qui permet d'énumérer les sous domaines d'un domaine.
+**[Hackertarget](Network_reconnaissance.md##__Passive_reconnaissance__###Hackertarget)** est un modules de recon-ng qui permet d'énumérer les sous domaines d'un domaine.
