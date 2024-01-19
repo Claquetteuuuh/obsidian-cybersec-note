@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/working/Architecture_Representation.md",
+                "file": "reverse_engeneering/Cracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/working/Architecture_Representation.md",
+                "file": "reverse_engeneering/Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/working/Architecture_Representation.md",
+                "file": "reverse_engeneering/Cracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/working/Architecture_Representation.md"
+                "file": "reverse_engeneering/Cracking.md"
               }
             }
           },
@@ -164,14 +164,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "c157c929f59d0e41",
   "lastOpenFiles": [
+    "system/working/Architecture_Representation.md",
     "assets/imgs/system/working/little_endian.png",
     "Pasted image 20240119135238.png",
     "reverse_engeneering/Cracking.md",
     "Pasted image 20240119135111.png",
     "assets/imgs/system/working/big_endian.png",
-    "system/working/Architecture_Representation.md",
     "web_hacking/Bypass_File_upload_filters.md",
     "OSINT-Forensic/Decouvertes_du_contenu.md",
     "assets/imgs/system/working/epilogue.png",
@@ -180,7 +180,6 @@
     "assets/imgs/system/working/asm_prologue.png",
     "assets/imgs/system/working/buffer_of.png",
     "assets/imgs/system/working/prologue.png",
-    "assets/imgs/system/working/basic_c_prog.png",
     "assets/imgs/system/working",
     "Pentest_Basics.md",
     "network/powershell/Powershell_network_analysis.md",
