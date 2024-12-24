@@ -6,6 +6,36 @@ The session lifecycle is:
 4. **Session Termination**: The user remove the session from his browser.
 
 ![[Pasted image 20241220141638.png]]
+## Session creation
+### Insecure Session Transmission
+
+In modern setups like Single Sign-On (SSO), session data often moves between the authentication server and application servers via the user’s browser. This creates a risk if the session is not transmitted securely.
+A common issue is **insecure redirects**, where an **attacker can manipulate the redirect URL** after authentication, potentially stealing session data. This problem has been seen even in major systems like Oracle's SSO.
+
+To prevent this:
+- Only allow **trusted redirect URLs**.
+- Use **signed and encrypted** session tokens.
+- Always transmit data over **HTTPS**.
+- Keep session tokens **short-lived and limited in scope**.
+### Weak Session Values
+
+Although less common today due to modern frameworks, weak session values can still occur, especially with custom implementations or AI-assisted code. For example, if a session value is just a **base64-encoded username**, an attacker could reverse engineer the process to guess or create session values, leading to account hijacking.
+
+To prevent this:
+- Use **secure, randomly generated** session values.
+- Avoid encoding predictable information like usernames in session tokens.
+- **Use established frameworks** that handle session creation securely.
+## Session tracking
+### Authorisation bypass
+Authorisation bypass mean **there aren't sufficient checks** being performed on whether a user is allowed to perform the action they requested.
+- **Vertical bypass**: Mean that you can perform an action reserved for a more privileged user.
+- **Horizontal bypass**: Mean that you can perform an action on a dataset you can't access.
+## Session termination
+Session termination mean that you don't have a way to invalidate a session server-side. It's a problem if a threat actor is connected to an admin account for exemple.
+To fix this problem you have to:
+- Set an **expiration date for a session**
+- Set a way to **invalidate a session** in server-side.
+
 # Cookie VS Token
 | **Cookie-Session Management**                                                                                                                             | **Token-Based Session Management**                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
