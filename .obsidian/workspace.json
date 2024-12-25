@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f8c38edbda71ff3",
+        "id": "184bf85d8eec0c53",
         "type": "tabs",
         "children": [
           {
-            "id": "3316d8941d9076fd",
+            "id": "bd359137c042ec4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web_hacking/JWT_JSON_Web_Token.md",
+                "file": "web_hacking/XSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JWT_JSON_Web_Token"
+              "title": "XSS"
             }
           }
         ]
@@ -184,12 +184,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3aae7675efef97",
+  "active": "bd359137c042ec4e",
   "lastOpenFiles": [
-    "assets/imgs/web_hacking/Pasted image 20241222173639.png",
+    "web_hacking/OAuth.md",
+    "assets/imgs/web_hacking/oauth/Pasted image 20241225115321.png",
+    "assets/imgs/web_hacking/session/Pasted image 20241220110319.png",
+    "assets/imgs/web_hacking/session/Pasted image 20241220110443.png",
+    "assets/imgs/web_hacking/session/Pasted image 20241220110455.png",
+    "assets/imgs/web_hacking/session/Pasted image 20241220110649.png",
+    "assets/imgs/web_hacking/session/Pasted image 20241220110831.png",
+    "assets/imgs/web_hacking/session/Pasted image 20241220110936.png",
+    "assets/imgs/web_hacking/session/Pasted image 20241220111008.png",
+    "assets/imgs/web_hacking/session/Pasted image 20241220111051.png",
+    "assets/imgs/web_hacking/session/Pasted image 20241220111328.png",
+    "assets/imgs/web_hacking/session",
+    "assets/imgs/web_hacking/jwt",
+    "assets/imgs/web_hacking/oauth",
     "web_hacking/JWT_JSON_Web_Token.md",
     "web_hacking/Sessions.md",
-    "assets/imgs/web_hacking/Pasted image 20241221181606.png",
     "Exploit/SSH.md",
     "Exploit/SMTP.md",
     "Exploit/MySQL.md",
@@ -197,8 +209,6 @@
     "Exploit/meterpreter.md",
     "Exploit/HTTP.md",
     "Exploit/FTP.md",
-    "Exploit/Windows/images/Pasted image 20241116172252.png",
-    "Exploit/Windows/images/Pasted image 20241022111218.png",
     "Exploit/Windows/WinRM.md",
     "Exploit/Windows/Webdav.md",
     "Exploit/Windows/SMB_PsExec.md",
@@ -212,7 +222,6 @@
     "Exploit/Windows/Bypass_UAC.md",
     "Exploit/Windows/Ethernal_blue.md",
     "Exploit/Windows",
-    "Exploit/linux/images/Pasted image 20241025144605.png",
     "Exploit/linux/ShellShock.md",
     "Exploit/linux/images",
     "Exploit/linux",
@@ -220,17 +229,8 @@
     "network/Footprinting_Scanning/Port_scanning",
     "network/Footprinting_Scanning/Live_Host/Nmap.md",
     "network/Footprinting_Scanning/Live_Host/Network_Scan.md",
-    "network/Footprinting_Scanning/Live_Host/Network.md",
     "network/Footprinting_Scanning/Live_Host",
-    "network/Footprinting_Scanning/!images/Pasted image 20241004171118.png",
-    "network/Footprinting_Scanning/!images/Pasted image 20241002172603.png",
-    "network/Footprinting_Scanning/!images/Pasted image 20241002111549.png",
     "network/Footprinting_Scanning/!images",
-    "network/Footprinting_Scanning",
-    "OSINT-Forensic/Information_Gathering/Passive",
-    "OSINT-Forensic/Information_Gathering/Active",
-    "OSINT-Forensic/Information_Gathering/!images/Pasted image 20240926185950.png",
-    "OSINT-Forensic/Information_Gathering/!images/Pasted image 20240926184829.png",
     "Untitled.canvas"
   ]
 }
