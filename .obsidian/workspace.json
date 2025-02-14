@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "75aba44b03e19d83",
+        "id": "96447acac1eba043",
         "type": "tabs",
         "children": [
           {
-            "id": "0f88483bbbfc7787",
+            "id": "230d448c070c261b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "soc/Mitre.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mitre"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gpdr",
+                "query": "## http",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,54 +186,54 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0f88483bbbfc7787",
+  "active": "230d448c070c261b",
   "lastOpenFiles": [
+    "soc/Diamond_Model.md",
+    "soc/Mitre.md",
+    "Untitled.md",
+    "assets/imgs/soc/unified_kill_chain/Pasted image 20250211172156.png",
+    "soc/Unified_Kill_Chain.md",
+    "assets/imgs/soc/unified_kill_chain/Pasted image 20250211171439.png",
+    "assets/imgs/soc/unified_kill_chain.md",
+    "assets/imgs/soc/unified_kill_chain",
+    "assets/imgs/soc/unified_kill_chain/Pasted image 20250211165555.png",
+    "soc/Cyber_Kill_Chain.md",
+    "soc/Pyramid of pain.md",
+    "network/Network_router_config.md",
+    "network/Protocoles_Serveur.md",
+    "network/Network_reconnaissance.md",
+    "network/Logging.md",
+    "network/DNS-Domain_Name_System.md",
+    "network/Wifi.md",
+    "Pentest_Basics.md",
+    "assets/imgs/soc/cyber_kill_chain",
+    "assets/imgs/soc/cyber_kill_chain/Pasted image 20250210170347.png",
+    "OSINT-Forensic/Information_Gathering/Passive/Google_Dork.md",
+    "OSINT-Forensic/Information_Gathering/Passive/Domain.md",
+    "Ethical/Redteam engagement.md",
     "Ethical/Governance.md",
-    "CTF/Hammer.md",
+    "Ethical/Audit.md",
+    "OSINT-Forensic/Osint-Utils.md",
+    "OSINT-Forensic/Google_Dorks.md",
+    "OSINT-Forensic/Enumeration_des_sous_domaines.md",
+    "OSINT-Forensic/Decouvertes_du_contenu.md",
+    "OSINT-Forensic/Windows Register.md",
+    "OSINT-Forensic/Digital_Forensic.md",
+    "web_hacking/SQL Injection.md",
     "assets/imgs/ctf/hammer/Pasted image 20250113152233.png",
     "assets/imgs/ctf/hammer/Pasted image 20250113151930.png",
     "assets/imgs/ctf/hammer/Pasted image 20250113120700.png",
     "assets/imgs/ctf/hammer/Pasted image 20250113115041.png",
     "assets/imgs/ctf/hammer/Pasted image 20250113115152.png",
-    "web_hacking/Basic_token.md",
-    "web_hacking/OAuth.md",
-    "web_hacking/MFA.md",
-    "web_hacking/JWT_JSON_Web_Token.md",
-    "Pentest_Basics.md",
     "assets/imgs/ctf/hammer/Pasted image 20250113083437.png",
-    "assets/imgs/ctf/hammer/Pasted image 20250113082922.png",
-    "assets/imgs/ctf/hammer/Pasted image 20250113075511.png",
-    "assets/imgs/ctf/hammer/Pasted image 20250113082047.png",
-    "Pasted image 20250113082920.png",
-    "web_hacking/Authentification-Bypass.md",
     "assets/imgs/ctf/hammer",
     "assets/imgs/ctf",
-    "OSINT-Forensic/Decouvertes_du_contenu.md",
-    "CTF/Pickle rick.md",
     "assets/imgs/web_hacking/MFA",
-    "soc/Pyramid of pain.md",
     "assets/imgs/soc/pyramid_of_pain",
     "assets/imgs/soc",
-    "network/Logging.md",
     "soc",
-    "system/linux/Linux_Priv_esc.md",
-    "Exploit/linux/FTP.md",
-    "Exploit/linux/Samba.md",
-    "Exploit/SSH.md",
-    "Exploit/Windows/Ethernal_blue.md",
-    "system/windows/Windows_internal.md",
-    "system/windows/Empire_Windows_Priv_esc.md",
-    "Exploit/Windows/Exploited_Vulns.md",
-    "network/Network_router_config.md",
-    "Exploit/Windows/Webdav.md",
-    "network/Footprinting_Scanning/Port_scanning/Nmap.md",
-    "network/Footprinting_Scanning/Live_Host/Nmap.md",
-    "network/Footprinting_Scanning/Live_Host/Network_Scan.md",
-    "network/Footprinting_Scanning/Live_Host/Network.md",
     "assets/imgs/ethical",
     "Ethical",
-    "assets/imgs/system/linux",
-    "code2.c",
     "Untitled.canvas"
   ]
 }

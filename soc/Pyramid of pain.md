@@ -48,3 +48,5 @@ tshark --Y http.request -T fields -e http.host -e http.user_agent -r <analysis_f
 ```
 # Tools - Challenging
 We can use Fuzzy hashes (context triggered piecewise hashes) to determine similarity between the files.
+# TTP - Tough
+Tactics, Techniques & Procedures. It include all the https://attack.mitre.org/ Matrice, it's all the step followed by an attacker to achieve his objective, from phishing to persistance and data exfiltration. 
