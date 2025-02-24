@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber_Threat_Intel/Tools.md",
+                "file": "soc/Mitre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools"
+              "title": "Mitre"
             }
           }
         ]
@@ -182,34 +182,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "terminal:Open terminal": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "3b3aae7675efef97",
   "lastOpenFiles": [
+    "assets/imgs/soc/mitre",
+    "assets/imgs/soc/mitre/Pasted image 20250224184855.png",
+    "assets/imgs/soc/mitre/Pasted image 20250224184812.png",
+    "assets/imgs/soc/mitre/Pasted image 20250224184756.png",
     "assets/imgs/cyber threat intel/tool/Pasted image 20250223121831.png",
     "assets/imgs/cyber threat intel/tool/Pasted image 20250223121720.png",
-    "assets/imgs/cyber threat intel/tool",
     "assets/imgs/cyber threat intel/tool/Pasted image 20250223121503.png",
-    "Pasted image 20250223120157.png",
+    "assets/imgs/cyber threat intel/tool",
+    "assets/imgs/cyber threat intel/Pasted image 20250223113104.png",
+    "assets/imgs/cyber threat intel",
+    "Cyber_Threat_Intel/Tools.md",
     "Cyber_Threat_Intel/Standards & Frameworks.md",
     "Cyber_Threat_Intel/Cyber_Threat_Intel (CTI).md",
-    "Cyber_Threat_Intel/Tools.md",
-    "Pasted image 20250223113735.png",
-    "assets/imgs/cyber threat intel",
-    "assets/imgs/cyber threat intel/Pasted image 20250223113104.png",
-    "soc/Mitre.md",
     "Cyber_Threat_Intel",
-    "Untitled.md",
-    "soc/Eviction.md",
+    "assets/imgs/soc/mitre/Pasted image 20250221192318.png",
+    "assets/imgs/soc/mitre/Pasted image 20250221190714.png",
+    "assets/imgs/soc/mitre",
+    "assets/imgs/soc/mitre/Pasted image 20250219193001.png",
     "soc/Diamond_Model.md",
-    "assets/imgs/soc/unified_kill_chain/Pasted image 20250211172156.png",
+    "soc/Mitre.md",
+    "Untitled.md",
     "soc/Unified_Kill_Chain.md",
-    "assets/imgs/soc/unified_kill_chain/Pasted image 20250211171439.png",
     "assets/imgs/soc/unified_kill_chain.md",
     "assets/imgs/soc/unified_kill_chain",
-    "assets/imgs/soc/unified_kill_chain/Pasted image 20250211165555.png",
     "soc/Cyber_Kill_Chain.md",
     "soc/Pyramid of pain.md",
     "network/Network_router_config.md",
@@ -220,7 +221,6 @@
     "network/Wifi.md",
     "Pentest_Basics.md",
     "assets/imgs/soc/cyber_kill_chain",
-    "assets/imgs/soc/cyber_kill_chain/Pasted image 20250210170347.png",
     "OSINT-Forensic/Information_Gathering/Passive/Google_Dork.md",
     "OSINT-Forensic/Information_Gathering/Passive/Domain.md",
     "Ethical/Redteam engagement.md",
@@ -228,12 +228,11 @@
     "Ethical/Audit.md",
     "OSINT-Forensic/Osint-Utils.md",
     "OSINT-Forensic/Google_Dorks.md",
-    "assets/imgs/ctf/hammer/Pasted image 20250113152233.png",
+    "OSINT-Forensic/Enumeration_des_sous_domaines.md",
     "assets/imgs/ctf/hammer",
     "assets/imgs/ctf",
     "assets/imgs/web_hacking/MFA",
     "assets/imgs/soc/pyramid_of_pain",
-    "assets/imgs/soc",
     "Untitled.canvas"
   ]
 }
