@@ -31,5 +31,11 @@ The core features include:
 - **Heuristic intelligence**:  OSINT is baked into the tool to provide analysts with the intelligence needed to stay ahead of persistent attacks.
 - **Classification and reporting**:  Phishing email classifications are conducted to allow analysts to take action quickly.
 You can couple this tool with Pluma to gather more information about the mail.
-
-
+# Cisco Talos Intelligence
+https://talosintelligence.com/ regroup 6 key teams:
+- **Threat Intelligence & Interdiction**: Correlation and tracking of threats provide a means to turn simple IOCs into context-rich intel.
+- **Detection Research**: Vulnerability and malware analysis is performed to create rules and content.
+- **Engineering & Development**: Provides the maintenance support for the inspection engines and keeps them up-to-date to identify and triage emerging threats.
+- **Vulnerability Research & Discovery**: - Working with service and software vendors to develop repeatable means of identifying and reporting security vulnerabilities.
+- **Communities**: Maintains the image of the team and the open-source solutions.
+- **Global Outreach**: Disseminates intelligence to customers and the security community through publications.
