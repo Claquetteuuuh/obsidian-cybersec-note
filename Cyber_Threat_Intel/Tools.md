@@ -31,3 +31,5 @@ The core features include:
 - **Heuristic intelligence**:  OSINT is baked into the tool to provide analysts with the intelligence needed to stay ahead of persistent attacks.
 - **Classification and reporting**:  Phishing email classifications are conducted to allow analysts to take action quickly.
 You can couple this tool with Pluma to gather more information about the mail.
+
+
