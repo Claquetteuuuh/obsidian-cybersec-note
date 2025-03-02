@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "96447acac1eba043",
+        "id": "c23f970d42d8e911",
         "type": "tabs",
         "children": [
           {
-            "id": "230d448c070c261b",
+            "id": "ba49f8d425840398",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/IDS-IPS.md",
+                "file": "network/Snort/Snort_Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDS-IPS"
+              "title": "Snort_Rules"
+            }
+          },
+          {
+            "id": "8b3774f38731ee87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network/Snort/Snort_Usage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Snort_Usage"
             }
           }
         ]
@@ -182,57 +196,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "230d448c070c261b",
+  "active": "3b3aae7675efef97",
   "lastOpenFiles": [
-    "network/analysis/Network_Security.md",
+    "network/analysis/Snort-Cheatsheet.pdf",
+    "assets/imgs/network/snort/Pasted image 20250302182408.png",
+    "assets/imgs/network/snort",
+    "assets/imgs/network/snort/Pasted image 20250302182206.png",
+    "network/Snort/Snort_Usage.md",
+    "network/Snort/Snort_Rules.md",
+    "network/Snort",
     "network/IDS-IPS.md",
+    "Cyber_Threat_Intel/MISP.md",
     "network/analysis/Snort.md",
-    "Untitled.md",
-    "network/Network_reconnaissance.md",
-    "Cyber_Threat_Intel/Tools.md",
+    "network/analysis/Network_Security.md",
     "network/analysis",
-    "assets/imgs/cyber threat intel/yara/Pasted image 20250228111837.png",
-    "assets/imgs/cyber threat intel/yara/Pasted image 20250227163801.png",
-    "assets/imgs/cyber threat intel/yara",
+    "Untitled.md",
+    "zad.md",
+    "assets/imgs/cyber threat intel/misp",
+    "assets/imgs/cyber threat intel/misp/Pasted image 20250228145748.png",
+    "Pasted image 20250228145746.png",
+    "Cyber_Threat_Intel/OpenCTI.md",
+    "soc/Untitled.md",
     "assets/imgs/cyber threat intel/opencti/Pasted image 20250228133609.png",
     "assets/imgs/cyber threat intel/opencti/Pasted image 20250228132105.png",
+    "assets/imgs/cyber threat intel/Pasted image 20250223113104.png",
     "assets/imgs/cyber threat intel/opencti",
-    "assets/imgs/cyber threat intel/misp/Pasted image 20250228145748.png",
-    "assets/imgs/cyber threat intel/misp",
-    "Cyber_Threat_Intel/Yara.md",
-    "Cyber_Threat_Intel/OpenCTI.md",
-    "Cyber_Threat_Intel/MISP.md",
+    "Cyber_Threat_Intel/Standards & Frameworks.md",
     "soc/Mitre.md",
-    "assets/imgs/soc/mitre",
     "assets/imgs/soc/mitre/Pasted image 20250224184855.png",
     "assets/imgs/soc/mitre/Pasted image 20250224184812.png",
     "assets/imgs/soc/mitre/Pasted image 20250224184756.png",
-    "assets/imgs/cyber threat intel/tool/Pasted image 20250223121831.png",
-    "assets/imgs/cyber threat intel/tool/Pasted image 20250223121720.png",
+    "assets/imgs/soc/mitre",
+    "Cyber_Threat_Intel/Cyber_Threat_Intel (CTI).md",
+    "Cyber_Threat_Intel/Yara.md",
+    "Cyber_Threat_Intel/DSRD.md",
+    "assets/imgs/cyber threat intel/yara",
+    "Cyber_Threat_Intel/Tools.md",
     "assets/imgs/cyber threat intel/tool",
     "assets/imgs/cyber threat intel",
-    "Cyber_Threat_Intel/Standards & Frameworks.md",
-    "Cyber_Threat_Intel/Cyber_Threat_Intel (CTI).md",
     "Cyber_Threat_Intel",
-    "assets/imgs/soc/mitre",
+    "soc/Eviction.md",
     "soc/Diamond_Model.md",
     "soc/Unified_Kill_Chain.md",
     "assets/imgs/soc/unified_kill_chain.md",
-    "assets/imgs/soc/unified_kill_chain",
     "soc/Cyber_Kill_Chain.md",
     "soc/Pyramid of pain.md",
     "network/Network_router_config.md",
     "network/Protocoles_Serveur.md",
-    "network/Logging.md",
-    "network/DNS-Domain_Name_System.md",
-    "network/Wifi.md",
-    "Pentest_Basics.md",
-    "OSINT-Forensic/Information_Gathering/Passive/Google_Dork.md",
-    "OSINT-Forensic/Information_Gathering/Passive/Domain.md",
-    "Ethical/Redteam engagement.md",
+    "network/Network_reconnaissance.md",
     "Untitled.canvas"
   ]
 }
