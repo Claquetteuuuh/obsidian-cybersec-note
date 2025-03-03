@@ -65,3 +65,4 @@ alert tcp any any <> any any (msg: "FLAG TEST"; flags:S; sid: 100001; rev:1;)
 alert ip any any <> any any (msg: "SEQ TEST"; dsize:100<>300; sid:100001; rev:1;)
 ```
 - **`sameip`**: Checks if the source and destination IP are the same.
+6736
