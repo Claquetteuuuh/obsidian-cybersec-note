@@ -16,3 +16,4 @@ MISP provides the following core functionalities:
 - **Event Graph:** Showcases the relationships between objects and attributes identified from events.
 - **API support:** Supports integration with own systems to fetch and export events and intelligence.
 ![[Pasted image 20250228145748.png]]
+
