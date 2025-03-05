@@ -1,3 +1,13 @@
+# Network Forensic
+The goal is to observe and analyse the network packet to detect **malicious activities**, **security breaches**, policy/regulation **compliance**, system health and user **behaviour**.
+
+The process identifies communicated hosts in terms of time, frequency, protocol, application and data.
+The investigation tries to answer the **5W**:
+- Who (**Source** IP and port)
+- What (Data/**Payload**)
+- Where (**Destination** IP and Port)
+- When (Time and data)
+- Why (How/What happened)
 # Use case
 - **Network discovery**: Discovering the network to overview **connected devices**, **rouge hosts** and **network load**.
 - **Packets reassembling**: Reassembling the packets to **investigate the traffic flow**. It is **helpful in encrypted** traffic flow
