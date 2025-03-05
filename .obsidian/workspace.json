@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "918bbec1d553864e",
+        "id": "cc02223dfe2828d5",
         "type": "tabs",
         "children": [
           {
-            "id": "4d6cc1db1a415478",
+            "id": "dab59b0339416fb6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "network/Zeek.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Zeek"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "load balan",
+                "query": "whois",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,18 +186,28 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4d6cc1db1a415478",
+  "active": "dab59b0339416fb6",
   "lastOpenFiles": [
+    "network/Network-(Security)-Monitoring.md",
+    "OSINT-Forensic/Information_Gathering/Passive/Domain.md",
+    "Exploit/Windows/WinRM.md",
+    "malware/shell/Shell_explanation.md",
+    "system/linux/Linux_Priv_esc.md",
+    "network/Zeek.md",
+    "assets/imgs/network/Zeek",
+    "assets/imgs/network/Zeek/Pasted image 20250305104739.png",
+    "Cyber_Threat_Intel/Yara.md",
+    "Pentest_Basics.md",
+    "assets/imgs/basics/mindmap_pentest.png",
+    "cryptographie/Powershell_chiffrement.md",
     "network/NetworkMiner.md",
     "network/analysis/Network_Security.md",
     "network/Network-Forensic.md",
     "Orange cyberdéfense.md",
     "Cyber_Threat_Intel/MISP.md",
     "Cyber_Threat_Intel/Cyber_Threat_Intel (CTI).md",
-    "cryptographie/Powershell_chiffrement.md",
     "cryptographie/Encryption_Chiffrement.md",
     "Cyber_Threat_Intel/Tools.md",
-    "Cyber_Threat_Intel/Yara.md",
     "Cyber_Threat_Intel/OpenCTI.md",
     "network/Snort/Snort_Usage.md",
     "network/Snort/Snort_Rules.md",
@@ -209,27 +223,17 @@
     "assets/imgs/network/snort/Pasted image 20250302182206.png",
     "network/Snort",
     "network/analysis",
-    "zad.md",
     "assets/imgs/cyber threat intel/misp",
     "assets/imgs/cyber threat intel/misp/Pasted image 20250228145748.png",
     "Pasted image 20250228145746.png",
-    "soc/Untitled.md",
     "assets/imgs/cyber threat intel/opencti/Pasted image 20250228133609.png",
     "assets/imgs/cyber threat intel/opencti/Pasted image 20250228132105.png",
     "assets/imgs/cyber threat intel/Pasted image 20250223113104.png",
     "assets/imgs/cyber threat intel/opencti",
-    "Cyber_Threat_Intel/Standards & Frameworks.md",
-    "soc/Mitre.md",
     "assets/imgs/soc/mitre/Pasted image 20250224184855.png",
-    "assets/imgs/soc/mitre/Pasted image 20250224184812.png",
-    "assets/imgs/soc/mitre/Pasted image 20250224184756.png",
     "assets/imgs/soc/mitre",
-    "Cyber_Threat_Intel/DSRD.md",
     "assets/imgs/cyber threat intel/yara",
     "assets/imgs/cyber threat intel/tool",
-    "assets/imgs/cyber threat intel",
-    "soc/Eviction.md",
-    "soc/Diamond_Model.md",
     "Untitled.canvas"
   ]
 }
