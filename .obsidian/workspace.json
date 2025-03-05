@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/Network-Forensic.md",
+                "file": "network/Zeek/Zeek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network-Forensic"
+              "title": "Zeek"
             }
           }
         ]
@@ -187,7 +187,13 @@
   },
   "active": "2acfecf8482ad4a5",
   "lastOpenFiles": [
-    "network/Zeek.md",
+    "network/Zeek/Zeek_Script.md",
+    "network/Zeek/Zeek_Script_Package.md",
+    "network/Zeek/Zeek_Script_Framework.md",
+    "network/Zeek/Zeek_Signature.md",
+    "network/Zeek/Zeek.md",
+    "network/Zeek/CLI_Kung-Fu_Recall.md",
+    "network/Zeek",
     "network/NetworkMiner.md",
     "network/Network-Forensic.md",
     "network/Network-(Security)-Monitoring.md",
@@ -219,7 +225,6 @@
     "assets/imgs/cyber threat intel/opencti/Pasted image 20250228132105.png",
     "assets/imgs/cyber threat intel/opencti",
     "assets/imgs/cyber threat intel/misp/Pasted image 20250228145748.png",
-    "assets/imgs/cyber threat intel/misp",
     "Cyber_Threat_Intel/Yara.md",
     "Cyber_Threat_Intel/OpenCTI.md",
     "Cyber_Threat_Intel/MISP.md",
@@ -228,11 +233,6 @@
     "assets/imgs/soc/mitre/Pasted image 20250224184812.png",
     "Cyber_Threat_Intel/Standards & Frameworks.md",
     "Cyber_Threat_Intel/Cyber_Threat_Intel (CTI).md",
-    "soc/Diamond_Model.md",
-    "soc/Unified_Kill_Chain.md",
-    "assets/imgs/soc/unified_kill_chain.md",
-    "soc/Cyber_Kill_Chain.md",
-    "soc/Pyramid of pain.md",
     "Untitled.canvas"
   ]
 }
