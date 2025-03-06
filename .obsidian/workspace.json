@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/Wireshark.md",
+                "file": "network/Zeek/Zeek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wireshark"
+              "title": "Zeek"
             }
           }
         ]
@@ -187,14 +187,14 @@
   },
   "active": "2acfecf8482ad4a5",
   "lastOpenFiles": [
-    "network/Zeek/Zeek.md",
+    "network/Zeek/CLI_Kung-Fu_Recall.md",
+    "network/Zeek/Zeek_Signature.md",
     "network/Wireshark.md",
+    "network/Zeek/Zeek.md",
     "network/Brim.md",
     "network/Zeek/Zeek_Script.md",
     "network/Zeek/Zeek_Script_Package.md",
     "network/Zeek/Zeek_Script_Framework.md",
-    "network/Zeek/Zeek_Signature.md",
-    "network/Zeek/CLI_Kung-Fu_Recall.md",
     "network/Zeek",
     "network/NetworkMiner.md",
     "network/Network-Forensic.md",
