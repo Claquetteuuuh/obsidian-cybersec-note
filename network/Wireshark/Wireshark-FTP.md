@@ -61,6 +61,12 @@ ftp.response.code == 230
 430: Invalid username
 530: Login failed
 ```
+
+You can see the entire dialog:
+- Right click on the packet
+- Press Follow
+- -> TCP Stream
+![[Pasted image 20250308105629.png]]
 ## 3. Advanced FTP Investigation Techniques
 ### Command Tracking
 
