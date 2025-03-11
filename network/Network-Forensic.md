@@ -31,7 +31,7 @@ The investigation tries to answer the **5W**:
 - **Time zone issues**: Large-scale event analysis is complicated when multiple time zones are involved, hindering event correlation.
 - **Lack of logs**: Network logs are crucial for investigation, but attackers often erase them to obscure their activities.
 # Sources of Network Forensics Evidence
--   TAPS
+- TAPS
 - InLine Devices
 - SPAN Ports
 - Hubs

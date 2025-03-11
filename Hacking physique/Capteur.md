@@ -1,13 +1,11 @@
-
-# __Velleman VMA 405__
+# Velleman VMA 405
 
 - [Branchement](##**Branchement**)
 - [Software](##**Software**)
 - [Code](##**Code**)
 - [Documentation](##**Documentation**)
 
-
-## **Branchement**
+## Branchement
 
 Il faut bien respecter le branchement sinon on pourrai endomager le matériel.
 | VMA 405 pin | Rasp Pin    |
@@ -24,7 +22,7 @@ Il faut bien respecter le branchement sinon on pourrai endomager le matériel.
 ![[schema-RPi]]
 
 
-## **Software**
+## Software
 
 On doit effectuer quelques parametrage et téléchargement avant d'écrire notre script.
 
@@ -57,7 +55,7 @@ pi@raspberrypi:~ $ sudo pip3 install spidev mfrc522
 ```
 
 
-## **Code**
+## Code
 
 **Read.py**
 
@@ -109,7 +107,7 @@ finally:
 ```
 
 
-## **Documentation**
+## Documentation
 
 - [Mode d'emploi](https://www.velleman.eu/downloads/29/vma405_a4v03.pdf)
 
