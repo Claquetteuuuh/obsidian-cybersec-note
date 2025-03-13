@@ -6,14 +6,6 @@ The Sysinternals tools are a compilation of over 70+ Windows-based tools. Each o
 - Security Utilities
 - System Information
 - Miscellaneous
-## Process Explorer
-The Process Explorer display consists of two sub-windows.
-Top: show a list of the currently active processes.
-Bottom: Depends on the mode that Process Explorer is in:
-- **Handle mode**: the handles that the process selected in the top window has opened
-- **DLL mode**: DLLs and memory-mapped files that the process has loaded
-![[Pasted image 20250311103936.png]]
-
 # Download
 [https://docs.microsoft.com/en-us/sysinternals/downloads](https://docs.microsoft.com/en-us/sysinternals/downloads/)
 
@@ -120,3 +112,49 @@ Here is the default tcpview interface:
 
 When you click on the green flag:
 ![[Pasted image 20250311174134.png]]
+# Process Utilities
+## Autoruns
+It has the most comprehensive knowledge of auto-starting locations of any startup monitor, shows you what programs are configured to run during system bootup or login, and when you start various built-in Windows applications.
+
+```powershell
+autoruns
+```
+
+![[Pasted image 20250312190502.png]]
+## ProcDump
+It is a command-line utility whose primary purpose is monitoring an application for CPU spikes and generating crash dumps during a spike that an administrator or developer can use to determine the cause of the spike.
+
+```powershell
+procdump -accepteula
+```
+Right-click on the process to create a **Minidump** or **Full Dump** of the process.
+![[Pasted image 20250312190641.png]]
+## Process Explorer
+The Process Explorer display consists of two sub-windows.
+Top: show a list of the currently active processes.
+Bottom: Depends on the mode that Process Explorer is in:
+- **Handle mode**: the handles that the process selected in the top window has opened
+- **DLL mode**: DLLs and memory-mapped files that the process has loaded
+
+```powershell
+procexp -accepteula
+```
+
+![[Pasted image 20250311103936.png]]
+![[Pasted image 20250312190852.png]]
+
+In the TCP/IP tab you can see the web connection
+![[Pasted image 20250312191026.png]]
+## Process Monitor
+It is an advanced monitoring tool for Windows that shows **real-time file system**, **Registry** and **process/thread** activity. It combines the features of two legacy Sysinternals utilities, **Filemon** and **Regmon**, and adds an extensive list of enhancements including rich and non-destructive filtering, comprehensive event properties such as session IDs and user names, reliable process information, full thread stacks with integrated symbol support for each operation, simultaneous logging to a file, and much more.
+
+```powershell
+procmon -accepteula
+```
+![[Pasted image 20250312191346.png]]
+
+The option to capture events can be toggled:
+![[Pasted image 20250312191404.png]]
+
+To use ProcMon effectively you **must** use the Filter and **must** configure it properly.
+![[Pasted image 20250312191432.png]]

@@ -39,3 +39,6 @@ https://talosintelligence.com/ regroup 6 key teams:
 - **Vulnerability Research & Discovery**: - Working with service and software vendors to develop repeatable means of identifying and reporting security vulnerabilities.
 - **Communities**: Maintains the image of the team and the open-source solutions.
 - **Global Outreach**: Disseminates intelligence to customers and the security community through publications.
+
+You can use it to get information on IP:
+[https://talosintelligence.com/reputation_center/lookup?search=52.154.170.73](https://talosintelligence.com/reputation_center/lookup?search=52.154.170.73)

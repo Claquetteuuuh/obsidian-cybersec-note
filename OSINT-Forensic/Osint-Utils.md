@@ -48,7 +48,7 @@ pprint(response.json())
 - [Wigle](https://wigle.net/), donne les **informations** sur un **BSSID**.
 - [Pulsedive](https://pulsedive.com), whois plus poussé.
 - [Netlas](https://app.netlas.io), **info personnelle** du mec qui achete le domaine.
-
+- [Talos intelligence](https://talosintelligence.com/reputation_center/lookup?search=52.154.170.73), IP information.
 
 ## __Image__
 
