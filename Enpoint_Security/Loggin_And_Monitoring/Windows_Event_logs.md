@@ -14,7 +14,7 @@ The event Viewer MMC (**Microsoft Management Console**) can be run by simply rig
 3. The pane on the right is the actions pane.
 ![[e2ceaa065e80a6763b7a861dbd4142fb.gif]]
 
-For exemple let's go in `Applications and Services Logs >Microsoft > Windows > PowerShell > Operational`
+For exemple let's go in `Applications and Services Logs > Microsoft > Windows > PowerShell > Operational`
 ![[Pasted image 20250315173912.png]]
 You can see:
 - **Level:** Highlights the log recorded type based on the identified event types specified earlier. In this case, the log is labe led as **Information**.
