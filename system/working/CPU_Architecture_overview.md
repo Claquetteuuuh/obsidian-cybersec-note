@@ -24,3 +24,23 @@ This is a register that contains the address of the next instruction to be execu
 16-bits: IP
 32-bits: EIP
 64-bits: RIP
+## General purpose register
+
+|Registre|Nom complet|Description brève|
+|---|---|---|
+|EAX/RAX|Accumulator Register|Stocke les résultats des opérations arithmétiques|
+|EBX/RBX|Base Register|Stocke l'adresse de base pour référencer un décalage|
+|ECX/RCX|Counter Register|Utilisé pour le comptage (boucles)|
+|EDX/RDX|Data Register|Utilisé pour multiplication/division|
+|ESP/RSP|Stack Pointer|Pointe vers le sommet de la pile|
+|EBP/RBP|Base Pointer|Accède aux paramètres passés par la pile|
+|ESI/RSI|Source Index|Utilisé pour les opérations sur les chaînes (source)|
+|EDI/RDI|Destination Index|Utilisé pour les opérations sur les chaînes (destination)|
+|R8-R15|General Purpose Registers|Registres supplémentaires en 64-bit|
+## Tailles des registres
+
+- Registres 64-bit : RAX, RBX, RCX, RDX, RSP, RBP, RSI, RDI, R8-R15
+- Registres 32-bit : EAX, EBX, ECX, EDX, ESP, EBP, ESI, EDI, R8D-R15D
+- Registres 16-bit : AX, BX, CX, DX, R8W-R15W
+- Registres 8-bit : AL/AH, BL/BH, CL/CH, DL/DH, R8B-R15B
+
