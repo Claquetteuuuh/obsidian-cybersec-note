@@ -29,3 +29,25 @@ This is a web-based data visualization that works with elasticsearch to analyze,
 5. **Time Filter:** We can narrow down results based on the time duration. This tab has many options to select from to filter/limit the logs.
 6. **Time Interval:** This chart shows the event counts over time.
 7. **TOP Bar:** This bar contains various options to save the search, open the saved searches, share or save the search, etc.
+### KQL (Kibana Query Language)
+**KQL (Kibana Query Language)** is a search query language used to search the ingested logs/documents in the elasticsearch.
+![[Pasted image 20250329092425.png]]
+#### Free text Search
+This allow users to search for the logs based only on text.
+![[Pasted image 20250329092608.png]]
+But if we write the word "United"
+![[Pasted image 20250329092628.png]]
+There is no result because KQL looks for the whole term/word in the document.
+#### Wild Card
+KQL allows the wild card `*` to match parts of the term/word.
+![[Pasted image 20250329092725.png]]
+#### Logical operator (AND | NOT | OR)
+![[Pasted image 20250329092754.png]]
+#### Field based search
+This search has a special syntax as `FIELD : VALUE`.
+![[ffbf735277d98273d6229f4d9ee586bf.gif]]
+### We can create visualisation
+![[334ed7c0a1e727de35844174434fd4fc.gif]]
+#### Failed attempt
+![[93e9aebb89efb58df9ab5a52eeb0177c.gif]]
+
