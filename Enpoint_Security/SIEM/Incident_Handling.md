@@ -86,12 +86,12 @@ We will dig deep into the values contained within the form_data field, as shown 
 Now, let's use Regex.  **`rex field=form_data "passwd=(?<creds>\w+)"`** To extract the **passwd** values only. This will pick the **form_data** field and extract all the values found with the field. **`creds`**.  
 
 **Search Query:**`index=botsv1 sourcetype=stream:http dest_ip="192.168.250.70" http_method=POST form_data=*username*passwd* | rex field=form_data "passwd=(?<creds>\w+)" |table _time src_ip uri http_user_agent creds`
-![[594dedebeb2d2d5a7cc6cae8d1ebc226.gif]]
+![[594dedebeb2d2d5a7cc6cae8d1ebc226 1.gif]]
 ## Installation
 To begin an investigation, we first would narrow down any http traffic coming into our server **192.168.250.70** containing the term ".exe." This query may not lead to the findings, but it's good to start from 1 extension and move ahead.
 
 **Search Query**: `index=botsv1 sourcetype=stream:http dest_ip="192.168.250.70" *.exe`
-![[594dedebeb2d2d5a7cc6cae8d1ebc226.gif]]
+![[594dedebeb2d2d5a7cc6cae8d1ebc226 1.gif]]
 
 With the search query in place, we are looking for the fields that could have some values of our interest. As we could not find the file name field, we looked at the missing fields and saw a field. `part_filename{}`.
 
