@@ -3,7 +3,7 @@ Le site [Malfrat's OSINT Map](https://map.malfrats.industries/) ou [Osint framew
 
 Pour s'entrainer, on peut utiliser les sites: [Ozint](https://ozint.eu/), ou [Tryhackme](https://tryhackme.com)
 
-## __Plaque D'imatriculation__
+## Plaque D'imatriculation
 
 - [Platesmania](https://platesmania.com/?&lang=fr), Pour **récuperer des informations** sur des voitures.
 - [Evaluer-chauffeur](https://evaluer-chauffeur.fr/), Pour connaitre si le mec **à déjà effectué une infraction**.
@@ -32,7 +32,7 @@ pprint(response.json())
 ```
 
 
-## __Geoint__
+## Geoint
 
 - [Geohints](https://www.geohints.com/), répertorie **à quoi ressemble** les choses selon les pays.
 - [Insecam](http://insecam.org/en/byrating/), montre en directe **les flux de certaines caméra connu**.
@@ -42,7 +42,7 @@ pprint(response.json())
 - [blitzortung](https://www.blitzortung.org/fr/live_lightning_maps.php?map=60), affiche les éclaires en direct.
 
 
-## __Network__
+## Network
 
 - [Mxtoolbox](https://mxtoolbox.com/), sorte de **[[Network_reconnaissance#Nslookup & Dig]] avancé**.
 - [Wigle](https://wigle.net/), donne les **informations** sur un **BSSID**.
@@ -50,20 +50,20 @@ pprint(response.json())
 - [Netlas](https://app.netlas.io), **info personnelle** du mec qui achete le domaine.
 - [Talos intelligence](https://talosintelligence.com/reputation_center/lookup?search=52.154.170.73), IP information.
 
-## __Image__
+## Image
 
 - [Fotoforensic](https://fotoforensics.com/), **information** sur l'image.
 - [Pimeyes](https://pimeyes.com/en), trouver là ou l'image à été **publié**.
 
 
-## __Moteur de recherche avancé__
+## Moteur de recherche avancé
 
 - [Onyphe](https://www.onyphe.io/), moteur de recherche avancé, donne accès à **toutes les informations qu'un hacker peut avoir**.
 - [CriminalIp](https://www.criminalip.io/en), shodan en mieux.
 - [Masterseek](https://www.masterseek.com/), google dork recherche par compagnie, pays, etc.
 
 
-## __Base de donnée__
+## Base de donnée
 
 - [Haveibeenpawned](https://haveibeenpwned.com/), recherche si une adresse **email** ou un numero de **telephone** a **leak**.
 - [Intelligencex](https://intelx.io/), recherche des **leaks dans des milions de db**.
@@ -71,9 +71,11 @@ pprint(response.json())
 - [Leakcheck](https://leakcheck.io/), donne les **credentials** d'une adresse mail / telephone / pseudo. Voir [[Comptes]]
 - [Cavalier](https://cavalier.hudsonrock.com/api/json/v2/preview/search-by-login/osint-tools?email=tiimalb21@gmail.com), BDD d'email backdoor (utiliser via l'api car pu de creation de compte)
 - [Kaspr](https://www.kaspr.io/), nom prenom => info. Voir [[Comptes]]
+## Organizations
+- https://www.societe.com/
+- https://www.pappers.fr/
 
- 
-## __Tools__
+## Tools
 
 - [Ignorant](https://github.com/megadose/ignorant), cherche sur quel **site** est enregistré un **numero de telephone**.
 - [Holehe](https://github.com/megadose/holehe), cherche sur quel **site** est enregistré un **email**.
