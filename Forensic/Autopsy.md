@@ -8,6 +8,11 @@ Set the optional information if needed.
 
 ![[Pasted image 20250403090818.png]]
 ![[Pasted image 20250403090824.png]]
+Supported Disk Image Formats:
+- **Raw Single** (For example: *.img, *.dd, *.raw, *.bin)
+- **Raw Split** (For example: *.001, *.002, *.aa, *.ab, etc)
+- **EnCase** (For example: *.e01, *.e02, etc)
+- **Virtual Machines** (For example: *.vmdk, *.vhd)
 
 Here provide the location of the data source.
 ![[Pasted image 20250403090829.png]]
