@@ -6,10 +6,11 @@ Architecture de sécurité applicative
 Responsable sécurité des application CISO
 lead appsec
 
+
 **Salaire**
 SOrtie d'étude: 40 - 50k en france
 50 - 70 au portugal
-
+Et
 Confirmé 50 - 80 
 
 Senior 90k an
@@ -27,3 +28,8 @@ prévenir SDLF
 
 **Cloud**
 Shadow it service cloud non aprouvé
+
+# skejeje
+snsbsbs
+nsjsjsj
+
